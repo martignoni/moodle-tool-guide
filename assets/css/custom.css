@@ -83,6 +83,11 @@ table.display td.neutral {
 }
 
 @media (max-width: 1023px) {
+  .home main {
+    margin: auto 0;
+    max-width: initial;
+  }
+
   table.responsive-table {
     box-shadow: none;
   }
@@ -111,9 +116,9 @@ table.display td.neutral {
 
   table.responsive-table td:nth-child(1):before,
   table.responsive-table td:nth-child(2):before {
-    position: absolute;
-    left: .5em;
-    font-weight: bold;
+    /* position: absolute; */
+    /* left: .5em; */
+    /* font-weight: bold; */
   }
 
   table.responsive-table tr,
