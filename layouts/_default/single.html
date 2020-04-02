@@ -1,0 +1,15 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div>
+        <h1>{{ .Title }}</h1>
+        <h4>{{ .Description }}</h4>
+        {{ partial "tags" . }}
+    </div>
+
+    <div align="start" class="content">{{ .Content }}</div>
+
+</main>
+
+{{ partial "footer" . }}

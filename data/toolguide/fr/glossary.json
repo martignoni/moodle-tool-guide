@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Glossaire</strong><br />Créer une liste de définitions",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile. Les réglages initiaux sont adéquats. Configurer le format d'affichage pour voir le nom de l'auteur.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Pour définir des termes ou présenter des infos. Conseil : les participants créent le glossaire.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Le polyvalence du glossaire permet l'évaluation. Concevoir une activité adéquate.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Pas conçu pour la discussion. Les participants peuvent commenter ou évaluer les articles.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "En partie. Permet de créer petit à petit une liste de vocabulaire partagé. Seul l'auteur peut modifier un article.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Comprendre, appliquer, analyser, évaluer, créer.",
+    "style": "good"
+  }
+]

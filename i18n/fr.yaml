@@ -1,0 +1,12 @@
+- id: Resources
+  translation: "Les ressources"
+- id: Activities
+  translation: "Les activités"
+- id: Inform
+  translation: "Informer"
+- id: InformEvaluate
+  translation: "Informer et évaluer"
+- id: ShareData
+  translation: "Mettre en commun des données"
+- id: IdentifyTrends
+  translation: "Faire ressortir des tendances"

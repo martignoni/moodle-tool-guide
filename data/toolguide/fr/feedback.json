@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Feedback</strong><br />Poser des questions avec divers types de réponses pour avoir plusieurs tendances",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Relativement facile. Définir les questions, les types de réponses et éventuellement la réponse souhaitée.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Non. Le feedback n'est pas un canal d'information.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Peut-être. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Peut-être. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Peut-être. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Indirectement. Dépend des questions et réponses définies.",
+    "style": "neutral"
+  }
+]

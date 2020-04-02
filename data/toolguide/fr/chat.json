@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Chat</strong><br />Discuter en temps réel",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile, comme un service de type Messenger ou iMessage.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Moyen facile pour guider les participants à travers une discussion.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Peut-être. À utiliser pour un échange en temps réel (synchrone).",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Oui. Permet une discussion en direct entre les participants et le formateur.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Oui. Permet une discussion en direct entre les participants et le formateur.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permet de tester les six niveaux en temps réel.",
+    "style": "good"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Livre</strong><br />Créer un texte de plusieurs pages avec chapitres et sous-chapitres",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile, comme plusieurs pages structurées d'un traitement de texte.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Oui. Idéal pour communiquer des infos sous forme structurée.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Peut-être. Selon le contenu inséré. Exemple : contenu à lire suivi d'un questionnaire.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Peut-être. Selon le contenu inséré. Exemple : contenu à lire suivi d'un questionnaire.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Peut-être. Selon le contenu inséré. Exemple : texte sur lequel avoir une réflexion commune.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Comprendre, appliquer, analyser.",
+    "style": "neutral"
+  }
+]

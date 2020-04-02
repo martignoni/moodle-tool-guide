@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />Insérer un lien vers une page Internet",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile, copier/coller une adresse web qui commence par http ou https.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Moyen facile pour guider les participants vers l'information. Peut renvoyer à un article.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Pas directement. Exemple : un lien vers les blogs ou portfolios externes des participants.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Peut-être. Liens vers des outils externes tels que des blogs, wikis, calendriers.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Peut-être. Liens vers des outils externes de collaboration comme Etherpad.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Possibilité d'atteindre tous les niveaux, suivant le site où mène le lien.",
+    "style": "neutral"
+  }
+]

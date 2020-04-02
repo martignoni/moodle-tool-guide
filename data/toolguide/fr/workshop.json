@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Atelier</strong><br />Faire évaluer par les  participants les travaux réalisés",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Délicat et prend du temps. Choisir les règles d'évaluation et de remise des travaux.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "L'atelier permet de donner des exemples des travaux à fournir.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Oui, permet une évaluation entre pairs, consolidés par le formateur.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Oui, permet une évaluation entre pairs, consolidés par le formateur.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Oui. À utiliser pour des travaux de groupes, dans l'objectif d'un résultat à évaluer.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
+    "style": "good"
+  }
+]

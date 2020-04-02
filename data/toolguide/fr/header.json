@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Facilité de mise en œuvre / objectif de formation →",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facilité de mise en œuvre",
+    "style": "header-strong"
+  }, {
+    "id": "3",
+    "text": "Transfert d'information",
+    "style": "header-strong"
+  }, {
+    "id": "4",
+    "text": "Évaluation",
+    "style": "header-strong"
+  }, {
+    "id": "5",
+    "text": "Communication et interaction",
+    "style": "header-strong"
+  }, {
+    "id": "6",
+    "text": "Co-création de contenus",
+    "style": "header-strong"
+  }, {
+    "id": "7",
+    "text": "Niveaux taxonomiques (Bloom)",
+    "style": "header-strong"
+  }
+]

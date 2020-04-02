@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Leçon</strong><br />Transmettre des infos de façon flexible, avec des questions de validation",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Assez délicat. Analyse préalable et planification nécessaires. En vaut la peine.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Excellent pour présenter des infos sous la forme de parcours guidé.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Oui. À utiliser sous forme de parcours, scénario, étude de cas, jeu de rôle.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Non. Il s'agit d'une activité individuelle.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Non. Il s'agit d'une activité individuelle.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
+    "style": "neutral"
+  }
+]

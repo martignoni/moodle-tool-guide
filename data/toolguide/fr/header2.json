@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Moyen ↓",
+    "style": "header tool"
+  }, {
+    "id": "2",
+    "text": "Simple et rapide à mettre en place soi-même ?",
+    "style": "header"
+  }, {
+    "id": "3",
+    "text": "Un outil pour fournir des informations à vos étudiants ?",
+    "style": "header"
+  }, {
+    "id": "4",
+    "text": "Un outil vous permettant d'évaluer les apprentissages de vos étudiants ?",
+    "style": "header"
+  }, {
+    "id": "5",
+    "text": "Un outil pour la communication et l'interaction entre participants ?",
+    "style": "header"
+  }, {
+    "id": "6",
+    "text": "Un outil permettant de collaborer et de créer ensemble des contenus ?",
+    "style": "header"
+  }, {
+    "id": "7",
+    "text": "<ul><li>Se rappeler</li><li>Comprendre</li><li>Appliquer</li><li>Analyser</li><li>Évaluer</li><li>Créer",
+    "style": "header"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Test (quiz)</strong><br />Évaluer au moyen de questions et afficher les réponses correctes avec feedbacks",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Délicat et prend du temps. Configurer le test d'abord, puis ajouter les questions. Utiliser la banque de questions.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Non. N'est pas adéquat pour fournir des infos.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Nombreux types de questions variées. Peut être limité dans le temps et sécurisé. À utiliser pour l'auto-évaluation",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Non. Utiliser plutôt des forums.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Non. Utiliser plutôt des forums ou des wikis.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
+    "style": "neutral"
+  }
+]

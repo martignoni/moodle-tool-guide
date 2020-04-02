@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Wiki</strong><br />Créer un espace de contribution libre de type Wikipedia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Délicat. Choisir les réglages individuels et de groupe. Pas toujours intuitif.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Oui. Autorise les modifications du formateur seul ou de chacun des participants.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Le polyvalence du wiki permet l'évaluation.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Pas adapté pour des discussions. À utiliser pour la planification, le brainstorming, la collaboration, etc.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Selon les réglages chosis, tout le monde peut modifier les contenus, collecter des ressources, etc.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Comprendre, appliquer, analyser, évaluer, créer.",
+    "style": "good"
+  }
+]

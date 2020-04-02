@@ -1,0 +1,142 @@
+/* Layout */
+.home main {
+  margin: auto 2em;
+  max-width: initial;
+}
+
+.home h1 {
+  color: #f98012;
+  margin-bottom: 2ex;
+}
+
+/* Table */
+table th,
+table td {
+  text-align: left;
+  vertical-align: top;
+}
+table.layout {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 5px;
+  table-layout: fixed;
+}
+table.display {
+  margin: 1em 0;
+}
+table.display th,
+table.display td {
+  border: none;
+  padding: .25em .5em;
+}
+table.display th {
+  background: #ccf2ff;
+}
+table.display td {
+  background: #ebebeb;
+}
+
+table.responsive-table {
+  /* box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2); */
+}
+
+@media (max-width: 30em) {
+    table.responsive-table {
+      box-shadow: none;
+    }
+    table.responsive-table thead {
+      display: none;
+    }
+  table.display th,
+  table.display td {
+    padding: .5em;
+  }
+
+  table.responsive-table td:nth-child(1):before {
+    content: 'Number';
+  }
+  table.responsive-table td:nth-child(2):before {
+    content: 'Name';
+  }
+  table.responsive-table td:nth-child(1),
+  table.responsive-table td:nth-child(2) {
+    padding-left: 25%;
+  }
+  table.responsive-table td:nth-child(1):before,
+  table.responsive-table td:nth-child(2):before {
+    position: absolute;
+    left: .5em;
+    font-weight: bold;
+  }
+
+    table.responsive-table tr,
+    table.responsive-table td {
+        display: block;
+    }
+    table.responsive-table tr {
+        position: relative;
+        margin-bottom: 1em;
+        box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
+    }
+    table.responsive-table td {
+        border-top: none;
+    }
+    table.responsive-table td.organisationnumber {
+        background: #D5E0CC;
+        border-top: 1px solid #B3BFAA;
+    }
+    table.responsive-table td.actions {
+        position: absolute;
+        top: 0;
+        right: 0;
+        border: none;
+        background: none;
+    }
+}
+
+table.display tr.header-row {
+}
+
+table.display tr.header-row th {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 60px;
+}
+
+table.display tr.title-row td {
+  font-weight: bold;
+}
+
+table.display th.header {
+  font-weight: normal;
+}
+
+table.display th.header.tool {
+  vertical-align: bottom;
+}
+
+table.display td.good {
+  background: rgba(0, 143, 0, 0.2);
+}
+
+table.display td.bad {
+  background: rgba(255, 38, 0, 0.2);
+}
+
+table.display td.neutral {
+  background: rgba(255, 251, 0, 0.17);
+}
+
+/* List */
+#table ul {
+  list-style: none;
+  margin-left: 1em;
+  padding-left: 0;
+  text-indent: -1em;
+}
+#table ul li::before {
+  content: "–";
+  display: block;
+  float: left;
+  width: 1em;
+}

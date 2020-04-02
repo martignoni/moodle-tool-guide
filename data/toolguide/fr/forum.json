@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Forum</strong><br />Favoriser les discussions : débats, rapports, jeux de rôles, analyse d'information, listes d'idées, etc.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile. Les réglages initiaux du forum sont adéquats. Possibilité de choisir divers types : unique, individuel, questions, blog, général. ",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Partager des liens ou fichiers. Risque de perte d'information si beaucoup de messages.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Le polyvalence du forum permet l'évaluation.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Oui. Les participants communiquent entre eux et avec le formateur.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Oui. Les participants peuvent collaborer et explorer des thématiques, écrire ensemble.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Comprendre, appliquer, analyser, évaluer, créer.",
+    "style": "good"
+  }
+]

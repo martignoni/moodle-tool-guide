@@ -1,0 +1,122 @@
+{{ with index .Site.Data.toolguide .Site.Language.Lang }}
+<div id="table">
+<table class="layout display responsive-table">
+  <thead>
+    <tr class="header-row">
+      {{ range .header }}
+      <th class="{{ .style }}">{{ .text | safeHTML }}</th>
+      {{ end }}
+    </tr>
+    <tr class="header-row">
+      {{ range .header2 }}
+      <th class="{{ .style }}">{{ .text | safeHTML }}</th>
+      {{ end }}
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="title-row">
+      <td colspan="7">{{ i18n "Resources" }} – {{ i18n "Inform" }}</td>
+    </tr>
+    <tr>
+      {{ range .label }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .file }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .folder }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .page }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .book }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .url }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr class="title-row">
+      <td colspan="7">{{ i18n "Activities" }} – {{ i18n "InformEvaluate" }}</td>
+    </tr>
+    <tr>
+      {{ range .assignment }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .quiz }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .lesson }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .chat }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .workshop }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr class="title-row">
+      <td colspan="7">{{ i18n "Activities" }} – {{ i18n "ShareData" }}</td>
+    </tr>
+    <tr>
+      {{ range .database }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .forum }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .glossary }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .wiki }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr class="title-row">
+      <td colspan="7">{{ i18n "Activities" }} – {{ i18n "IdentifyTrends" }}</td>
+    </tr>
+    <tr>
+      {{ range .choice }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .feedback }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .survey }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+  </tbody>
+</table>
+</div>
+{{ end }}

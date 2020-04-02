@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Sondage</strong><br />Poser une question unique pour obtenir une tendance",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile. Les réglages initiaux sont adéquats. Indiquer la question et les options possibles.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Non. Le sondage n'est pas un canal d'information.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Non. Pour connaître les préférences des participants sur un sujet.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Non. Pour connaître les préférences des participants sur un sujet.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Non. Pour connaître les préférences des participants sur un sujet.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "Aucun. Ce n'est pas une activité d'apprentissage.",
+    "style": "bad"
+  }
+]
