@@ -7,6 +7,10 @@ defaultContentLanguage: fr
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
 defaultContentLanguageInSubdir: true
 
+disableKinds:
+- taxonomy
+- taxonomyTerm
+
 params:
   author: Nicolas Martignoni
   githubUsername: 'martignoni'
