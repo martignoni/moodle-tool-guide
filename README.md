@@ -13,7 +13,7 @@ Copyright © 2020 onwards, Nicolas Martignoni <nicolas@martignoni.net>
 
 This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 
-  [site]: https://mtg.martignoni.net
+  [site]: https://moodle-guide.martignoni.net
   [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
   [hugo]: https://gohugo.io/
   [gulp]: https://gulpjs.com
