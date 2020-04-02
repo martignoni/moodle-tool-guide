@@ -3,7 +3,7 @@
 <table class="layout display responsive-table">
   <thead>
     <tr class="header-row">
-      {{ range .header }}
+      {{ range $index, $item := .header }}
       <th class="{{ .style }}">{{ .text | safeHTML }}</th>
       {{ end }}
     </tr>
