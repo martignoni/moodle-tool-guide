@@ -13,8 +13,6 @@ params:
   accent: '#f98012'
   showBorder: true
   backgroundColor: white
-  css:
-    - custom.css
   matomoAnalytics:
     siteid: 4
     matomoroot: "stats.martignoni.net" # Do not add slashes
