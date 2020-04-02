@@ -14,10 +14,6 @@ table th,
 table td {
   text-align: left;
   vertical-align: top;
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
 }
 
 table.layout {
@@ -43,11 +39,15 @@ table.display th {
 
 table.display td {
   background: #ebebeb;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 table.responsive-table {
-  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);}
-
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
+}
 
 table.display tr.header-row {
 }
