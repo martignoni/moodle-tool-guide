@@ -5,20 +5,25 @@
   }
 </style>
 
-<!-- google fonts -->
-{{/* <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ .Site.Params.font }}"> */}}
-
 <!-- highlight.js -->
 {{ if .Site.Params.highlight | default false }} <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ .Site.Params.highlightStyle | default "default" }}.min.css"> {{ end }}
 
 <!-- bootstrap -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous" />
 <!-- font awesome -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
 
-<!-- main -->
-<link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
-
-<!-- custom -->
-{{ range .Site.Params.css }} <link rel="stylesheet" href="{{ . | absURL }}"> {{ end }}
+<!-- Custom fonts and styles for this template -->
+{{ if .Site.IsServer }}
+  {{ $cssOpts := (dict "enableSourceMap" true ) }}
+  {{ $mainCSS := resources.Get "css/main.css" | toCSS $cssOpts }}
+  {{ $customCSS := resources.Get "css/custom.css" | toCSS $cssOpts }}
+  <link href="{{ $mainCSS.Permalink }}" rel="stylesheet">
+  <link href="{{ $customCSS.Permalink }}" rel="stylesheet">
+{{ else }}
+  {{ $cssOpts := (dict "enableSourceMap" false ) }}
+  {{ $mainCSS := resources.Get "css/main.css" | toCSS $cssOpts | minify | fingerprint }}
+  {{ $customCSS := resources.Get "css/custom.css" | toCSS $cssOpts | minify | fingerprint }}
+  <link href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}" rel="stylesheet">
+  <link href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}" rel="stylesheet">
+{{ end }}

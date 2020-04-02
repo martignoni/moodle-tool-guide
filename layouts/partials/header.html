@@ -5,12 +5,13 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ .Title | default .Site.Title }}</title>
+        {{ hugo.Generator }}
         <meta name="description" content="{{ partial "description" . }}">
         {{ template "_internal/opengraph.html" . }}
         {{ if .Site.Params.favicon }}
             <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
         {{ end }}
-        {{ partial "css" . }} {{ partial "js" . }} {{ hugo.Generator }}
+        {{ partial "css" . }}
         {{ with .OutputFormats.Get "RSS" }}
             <link href="{{ .RelPermalink }}" rel="alternate" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
             <link href="{{ .RelPermalink }}" rel="feed" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
