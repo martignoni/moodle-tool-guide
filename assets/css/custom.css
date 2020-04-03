@@ -101,6 +101,10 @@ table.display td.neutral {
     padding: .5em;
   }
 
+  table.display tr.title-row td {
+    background: #ccf2ff;
+  }
+
   table.responsive-table td:nth-child(1):before {
     /* content: 'Number'; */
   }

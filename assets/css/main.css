@@ -107,4 +107,5 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
+    background-color: #f8f8f8;
 }
