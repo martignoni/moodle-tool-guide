@@ -1,12 +1,15 @@
-        <footer>
-            <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)." | markdownify }}</p>
-        </footer>
+    <footer>
+      <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)." | markdownify }}</p>
+    </footer>
 
-        {{ partial "body-close" . }}
+    {{ partial "body-close" . }}
 
-        {{ partial "js" . }}
+    {{ partial "js" . }}
 
-        {{ partial "matomo_analytics.html" . }}
-    </body>
+    <!-- https://github.com/jmosbech/StickyTableHeaders -->
+    <script>$('#table').stickyTableHeaders({fixedOffset: $('.navbar-fixed-top')});</script>
+
+    {{ partial "matomo_analytics.html" . }}
+  </body>
 
 </html>
