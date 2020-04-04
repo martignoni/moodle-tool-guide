@@ -5,27 +5,27 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile, permet d'agrémenter la page de cours",
+    "text": "Facile, permet d'agrémenter la page de cours.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Oui. Seuls les formateurs peuvent écrire un texte. Outil à sens unique",
+    "text": "Oui. Seuls les formateurs peuvent écrire un texte. Outil à sens unique.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Pas directement. À utiliser pour décrire une tâche ou transmettre une info",
+    "text": "Pas directement. À utiliser pour décrire une tâche ou transmettre une info.",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "Non. C'est un outil d'information. Aucune possibilité d'interaction",
+    "text": "Non. C'est un outil d'information. Aucune possibilité d'interaction.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Pas directement. À utiliser pour décrire une tâche ou transmettre une info",
+    "text": "Pas directement. À utiliser pour décrire une tâche ou transmettre une info.",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "Aucun. Ce n'est pas une activité d'apprentissage",
+    "text": "Aucun. Ce n'est pas une activité d'apprentissage.",
     "style": "bad"
   }
 ]

@@ -5,27 +5,27 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Relativement facile. Définir les questions, les types de réponses et éventuellement la réponse souhaitée.",
+    "text": "Relativement facile. Définir les questions, les types de réponses et la réponse souhaitée.",
     "style": "neutral"
   }, {
     "id": "3",
-    "text": "Non. Le feedback n'est pas un canal d'information.",
-    "style": "bad"
+    "text": "Permet l'auto-évaluation de la compréhension des participants avant et après une activité.",
+    "style": "good"
   }, {
     "id": "4",
-    "text": "Peut-être. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
-    "style": "neutral"
+    "text": "Non. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
+    "style": "bad"
   }, {
     "id": "5",
-    "text": "Peut-être. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
-    "style": "neutral"
+    "text": "Non. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
+    "style": "bad"
   }, {
     "id": "6",
     "text": "Peut-être. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
     "style": "neutral"
   }, {
     "id": "7",
-    "text": "4 / 6<br />Indirectement. Dépend des questions et réponses définies.",
+    "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
     "style": "neutral"
   }
 ]

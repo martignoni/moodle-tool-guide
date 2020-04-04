@@ -17,8 +17,8 @@
     "style": "good"
   }, {
     "id": "5",
-    "text": "Oui, permet une évaluation entre pairs, consolidés par le formateur.",
-    "style": "good"
+    "text": "Non. N'offre qu'une interaction limitée entre les participants et le formateur.",
+    "style": "bad"
   }, {
     "id": "6",
     "text": "Oui. À utiliser pour des travaux de groupes, dans l'objectif d'un résultat à évaluer.",
