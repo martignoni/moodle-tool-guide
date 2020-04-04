@@ -18,8 +18,6 @@ table td {
 
 table.layout {
   width: 100%;
-  border-collapse: separate;
-  border-spacing: 5px;
   table-layout: fixed;
 }
 
@@ -29,7 +27,7 @@ table.display {
 
 table.display th,
 table.display td {
-  border: none;
+  border: 5px solid white;
   padding: .25em .5em;
 }
 
@@ -50,12 +48,6 @@ table.responsive-table {
 }
 
 table.display tr.header-row {
-}
-
-table.display tr.header-row th {
-  position: sticky;
-  position: -webkit-sticky;
-  top: 60px;
 }
 
 table.display tr.title-row td {
@@ -98,31 +90,66 @@ table.display td.neutral {
 
   table.display th,
   table.display td {
+    border: none;
     padding: .5em;
+  }
+
+  table.display td {
+    border-bottom: 2px solid white;
+  }
+
+  table.display td:last-child {
+    border: none;
   }
 
   table.display tr.title-row td {
     background: #ccf2ff;
   }
 
-  table.responsive-table td:nth-child(1):before {
-    /* content: 'Number'; */
-  }
-
-  table.responsive-table td:nth-child(2):before {
-    /* content: 'Name'; */
-  }
-
-  table.responsive-table td:nth-child(1),
-  table.responsive-table td:nth-child(2) {
-    /* padding-left: 25%; */
-  }
-
-  table.responsive-table td:nth-child(1):before,
-  table.responsive-table td:nth-child(2):before {
+  table.responsive-table td:before {
     /* position: absolute; */
     /* left: .5em; */
-    /* font-weight: bold; */
+    display:block;
+    font-weight: bold;
+    font-style: italic;
+    padding-right: 1em;
+    min-width: 6em;
+  }
+
+  table.responsive-table td:nth-child(2),
+  table.responsive-table td:nth-child(3) {
+     /* padding-left: 6em; */
+  }
+
+  table.responsive-table td:nth-child(1):before {
+  }
+
+  table.responsive-table td:nth-child(2):before {
+    content: 'Facilité';
+  }
+
+  table.responsive-table td:nth-child(3):before {
+    content: 'Transfert';
+  }
+
+  table.responsive-table td:nth-child(4):before {
+    content: 'Évaluation';
+  }
+
+  table.responsive-table td:nth-child(5):before {
+    content: 'Interaction';
+  }
+
+  table.responsive-table td:nth-child(5):before {
+    content: 'Interaction';
+  }
+
+  table.responsive-table td:nth-child(6):before {
+    content: 'Création';
+  }
+
+  table.responsive-table td:nth-child(7):before {
+    content: 'Bloom';
   }
 
   table.responsive-table tr,
@@ -140,18 +167,6 @@ table.display td.neutral {
     border-top: none;
   }
 
-  table.responsive-table td.organisationnumber {
-    background: #D5E0CC;
-    border-top: 1px solid #B3BFAA;
-  }
-
-  table.responsive-table td.actions {
-    position: absolute;
-    top: 0;
-    right: 0;
-    border: none;
-    background: none;
-  }
 }
 
 /* List */
