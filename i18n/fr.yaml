@@ -1,3 +1,4 @@
+# Column header strings
 - id: Resources
   translation: "Les ressources"
 - id: Activities
@@ -10,3 +11,16 @@
   translation: "Mettre en commun des données"
 - id: IdentifyTrends
   translation: "Faire ressortir des tendances"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Facilité"
+- id: Transfer
+  translation: "Transfert"
+- id: Evaluation
+  translation: "Évaluation"
+- id: Interaction
+  translation: "Interaction"
+- id: Creation
+  translation: "Création"
+- id: BloomLevels
+  translation: "Niveaux Bloom"
