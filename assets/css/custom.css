@@ -125,27 +125,27 @@ table.display td.neutral {
   }
 
   table.responsive-table td:nth-child(2):before {
-    content: '{{ i18n "EaseOfUse" }}';
+    content: "{{ i18n "EaseOfUse" }}";
   }
 
   table.responsive-table td:nth-child(3):before {
-    content: '{{ i18n "Transfer" }}';
+    content: "{{ i18n "Transfer" }}";
   }
 
   table.responsive-table td:nth-child(4):before {
-    content: '{{ i18n "Evaluation" }}';
+    content: "{{ i18n "Evaluation" }}";
   }
 
   table.responsive-table td:nth-child(5):before {
-    content: '{{ i18n "Interaction" }}';
+    content: "{{ i18n "Interaction" }}";
   }
 
   table.responsive-table td:nth-child(6):before {
-    content: '{{ i18n "Creation" }}';
+    content: "{{ i18n "Creation" }}";
   }
 
   table.responsive-table td:nth-child(7):before {
-    content: '{{ i18n "BloomLevels" }}';
+    content: "{{ i18n "BloomLevels" }}";
   }
 
   table.responsive-table tr,
