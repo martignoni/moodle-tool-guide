@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />Insert link to a web page",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy, copy/paste a web address (aka URL) that begins with http or https.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Easy way of directing students to information outside of Moodle, e.g. to an article.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Not directly. E.g. link to external activities such as students e-portfolios or blogs.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Maybe. Link to external tools, e.g. calendars, groups, blogs or wikis.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Maybe. You can link to external collaborative tools like Etherpad, wikis or blogs.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Can do all of the levels, depending on where you link to.",
+    "style": "neutral"
+  }
+]
