@@ -11,7 +11,7 @@ Téléchargement (fichier PDF) : [Guide des outils Moodle version 3 en françai
 
 Ce site web nécessite l'utilisation d'un [navigateur récent][browser].
 
- [download]: MoodleToolGuide-3x-fr.pdf
+ [download]: https://blog.martignoni.net/2020/03/guide-des-outils-moodle-v3/MoodleToolGuide-3x-fr.pdf
  [moodle]: https://moodle.org/
  [bloom]: https://fr.wikipedia.org/wiki/Taxonomie_de_Bloom
  [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
