@@ -9,6 +9,20 @@
   margin-bottom: 2ex;
 }
 
+.navbar .container {
+  width: auto;
+  margin: auto 2em
+}
+
+.navbar-right {
+  margin-right: 0;
+}
+
+footer .copyright {
+  margin: 1em 2em;
+  padding: 0 15px;
+}
+
 /* Table */
 table th,
 table td {
