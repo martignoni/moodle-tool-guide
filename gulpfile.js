@@ -8,7 +8,6 @@ var rename = require('gulp-ext-replace')
 // var gulpif = require('gulp-if')
 var exec = require('child_process').exec
 var del = require('del')
-var purgecss = require('gulp-purgecss')
 
 gulp.task('reset', function () {
   return del([
@@ -24,13 +23,6 @@ gulp.task('hugo', gulp.series('reset', function (fetch) {
   })
 }))
 
-gulp.task('css', () => {
-  return gulp
-    .src('public/**/*.css')
-    .pipe(purgecss({content: ['public/**/*.html']}))
-    .pipe(gulp.dest('public'))
-})
-
 gulp.task('html', function () {
   return gulp.src(['public/**/*.html', 'public/**/*.xml'])
     .pipe(beautify({indent_char: ' ', indent_size: 2}))
@@ -38,4 +30,4 @@ gulp.task('html', function () {
     .pipe(gulp.dest('public'))
 })
 
-gulp.task('default', gulp.series('hugo', 'css', 'html'))
+gulp.task('default', gulp.series('hugo', 'html'))
