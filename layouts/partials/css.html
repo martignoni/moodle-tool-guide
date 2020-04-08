@@ -14,16 +14,18 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
 
 <!-- Custom fonts and styles for this template -->
+<!-- CSS purge and minify, see https://janaksingh.com/blog/hugo-css-concat-minify-purgecss-tutorial/ -->
+{{ $css_options := (dict ) }}
 {{ if .Site.IsServer }}
-  {{ $cssOpts := (dict "enableSourceMap" true ) }}
-  {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "style.main.css" . | toCSS $cssOpts | postCSS }}
-  {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "style.custom.css" . | toCSS $cssOpts | postCSS }}
+  {{ $cssOpts := merge $css_options (dict "enableSourceMap" true) }}
+  {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts }}
+  {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts }}
   <link href="{{ $mainCSS.Permalink }}" rel="stylesheet">
   <link href="{{ $customCSS.Permalink }}" rel="stylesheet">
 {{ else }}
-  {{ $cssOpts := (dict "enableSourceMap" false ) }}
-  {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "style.main.css" . | toCSS $cssOpts | postCSS | minify | fingerprint }}
-  {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "style.custom.css" . | toCSS $cssOpts | postCSS | minify | fingerprint }}
+  {{ $cssOpts := merge $css_options (dict "enableSourceMap" false "outputStyle" "compressed") }}
+  {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
+  {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
   <link href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}" rel="stylesheet">
   <link href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}" rel="stylesheet">
 {{ end }}
