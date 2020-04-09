@@ -5,7 +5,7 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Les réglages initiaux sont adéquats. Divers types : unique, individuel, questions, blog, général.",
+    "text": "Facile. Les réglages initiaux sont adéquats. Un nom et une description suffisent.",
     "style": "good"
   }, {
     "id": "3",
@@ -17,7 +17,7 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Oui. Les participants communiquent entre eux et avec le formateur.",
+    "text": "Oui. Les participants communiquent avec vous et entre eux, en classe entière ou en groupes.",
     "style": "good"
   }, {
     "id": "6",

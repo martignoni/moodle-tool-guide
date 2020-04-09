@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Devoir</strong><br />Proposer une tâche à réaliser dans un temps donné",
+    "text": "<strong>Devoir</strong><br />Proposer une tâche à réaliser, récolter les résultats et les évaluer",
     "style": "header"
   }, {
     "id": "2",
@@ -9,7 +9,7 @@
     "style": "good"
   }, {
     "id": "3",
-    "text": "Non. Le devoir n'est pas un canal d'information.",
+    "text": "Non. Peut cependant inclure des infos sur le contexte du devoir.",
     "style": "bad"
   }, {
     "id": "4",
