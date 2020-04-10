@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Atelier</strong><br />Faire évaluer par les  participants les travaux réalisés",
+    "text": "<strong>Atelier</strong><br />Collecter, évaluer et faire évaluer les travaux des étudiants par leurs pairs",
     "style": "header"
   }, {
     "id": "2",
@@ -9,8 +9,8 @@
     "style": "bad"
   }, {
     "id": "3",
-    "text": "L'atelier permet de donner des exemples des travaux à fournir.",
-    "style": "neutral"
+    "text": "Non. Mieux vaut utiliser un autre outil pour ça.",
+    "style": "bad"
   }, {
     "id": "4",
     "text": "Oui, permet une évaluation entre pairs, consolidés par le formateur.",

@@ -9,19 +9,19 @@
     "style": "good"
   }, {
     "id": "3",
-    "text": "Moyen facile pour guider les participants à travers une discussion.",
+    "text": "À utiliser pour les intervenants externes. Fréquence élevée. Risque de non-interaction.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Peut-être. À utiliser pour un échange en temps réel (synchrone).",
+    "text": "Le chat est polyvalent. Peut être utilisé en évaluation formative.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Oui. Permet une discussion en direct entre les participants et le formateur.",
+    "text": "Oui. Débats, sessions de révision en groupes et séances de questions-réponses.",
     "style": "good"
   }, {
     "id": "6",
-    "text": "Oui. Permet une discussion en direct entre les participants et le formateur.",
+    "text": "Oui. Les participants peuvent collaborer, explorer, discuter et écrire ensemble.",
     "style": "good"
   }, {
     "id": "7",

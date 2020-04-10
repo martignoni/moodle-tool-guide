@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Lesson</strong><br />Use to flexibly present branched info, with testing",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Can be tricky to set up. Make sure you plan the lesson first. Worth the effort.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Great to present information in a branched, guided way. Implement adaptive learning.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Yes. Allows grading. Use as branched quiz, scenario, case study, role play.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No this is an individual activity, not a group activity.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No this is an individual activity, not a group activity.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Allows you to test the six levels by being creative.",
+    "style": "neutral"
+  }
+]
