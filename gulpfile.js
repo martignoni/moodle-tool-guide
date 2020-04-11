@@ -12,16 +12,23 @@ var del = require('del')
 gulp.task('reset', function () {
   return del([
     'public',
+    'resources',
   ])
 })
 
-gulp.task('hugo', gulp.series('reset', function (fetch) {
+gulp.task('clean', function () {
+  return del([
+    'resources',
+  ])
+})
+
+gulp.task('hugo', function (fetch) {
   return exec('hugo', function (err, stdout, stderr) {
     console.log(stdout)
     console.log(stderr)
     fetch(err)
   })
-}))
+})
 
 gulp.task('html', function () {
   return gulp.src(['public/**/*.html', 'public/**/*.xml'])
@@ -30,4 +37,8 @@ gulp.task('html', function () {
     .pipe(gulp.dest('public'))
 })
 
-gulp.task('default', gulp.series('hugo', 'html'))
+gulp.task('default', gulp.series('reset', 'hugo', 'html'))
+
+gulp.task('build', gulp.series('reset', 'hugo'))
+
+gulp.task('localrun', gulp.series('reset', 'hugo', 'html', 'clean'))
