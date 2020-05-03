@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Glossaire</strong><br />Créer une liste de définitions",
+    "text": "<strong>Glossaire</strong><br />Rassembler des ressources ou collecter des informations",
     "style": "header"
   }, {
     "id": "2",
@@ -9,7 +9,7 @@
     "style": "good"
   }, {
     "id": "3",
-    "text": "Pour définir des termes ou présenter des infos. Conseil : les participants créent le glossaire.",
+    "text": "Pour définir des termes ou présenter des infos. Mieux utilisée si les participants créent le glossaire.",
     "style": "good"
   }, {
     "id": "4",
@@ -21,7 +21,7 @@
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Oui. Permet de créer petit à petit une liste de vocabulaire partagé. L'auteur peut modifier ses articles.",
+    "text": "Oui. La classe rassemble des ressources partagées. L'auteur peut modifier ses articles.",
     "style": "good"
   }, {
     "id": "7",

@@ -5,7 +5,7 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Choisir l'un des types de feedbacks : attitudes, incidents, environnement.",
+    "text": "Facile. Choisir l'un des trois types pour évaluer les attitudes, les incidents, l’environnement.",
     "style": "good"
   }, {
     "id": "3",
@@ -13,19 +13,19 @@
     "style": "bad"
   }, {
     "id": "4",
-    "text": "Indirectement. Permet d'obtenir un feedback sur le vécu des participants.",
-    "style": "neutral"
+    "text": "Indirectement. Permet d'obtenir un feedback pour améliorer le cours.",
+    "style": "bad"
   }, {
     "id": "5",
-    "text": "Indirectement. Permet un échange sur le processus d'apprentissage.",
-    "style": "neutral"
+    "text": "Non. N’offre qu'une communication à sens unique entre les participants et l’enseignant.",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "Indirectement. Permet d'obtenir un feedback sur le vécu des participants.",
-    "style": "neutral"
+    "text": "Non. Il s'agit d'une activité individuelle.",
+    "style": "bad"
   }, {
     "id": "7",
-    "text": "Aucun. Concerne le processus et non le contenu.",
-    "style": "bad"
+    "text": "2 / 6<br />Indirectement. Aide le participant à analyser et évaluer ses apprentissages.",
+    "style": "neutral"
   }
 ]

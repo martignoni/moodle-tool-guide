@@ -1,28 +1,28 @@
 [
   {
     "id": "1",
-    "text": "<strong>Feedback</strong><br />Poser des questions avec divers types de réponses pour avoir plusieurs tendances",
+    "text": "<strong>Feedback</strong><br />Recueillir des données auprès des élèves, sur n'importe quel sujet",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Relativement facile. Définir les questions, les types de réponses et la réponse souhaitée.",
+    "text": "Facile mais prend du temps. Configurer l’activité, puis ajouter les questions.",
     "style": "neutral"
   }, {
     "id": "3",
-    "text": "Permet l'auto-évaluation de la compréhension des participants avant et après une activité.",
-    "style": "good"
-  }, {
-    "id": "4",
-    "text": "Non. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
+    "text": "Non. Le feedback n'est pas un canal d'information.",
     "style": "bad"
   }, {
+    "id": "4",
+    "text": "Permet l'auto-évaluation des apprentissages avant et après une activité.",
+    "style": "good"
+  }, {
     "id": "5",
-    "text": "Non. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
+    "text": "Non. N’offre qu'une communication à sens unique entre les participants et l’enseignant.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Peut-être. Plutôt destiné à recueillir des tendances générales sur les contenus et le processus.",
-    "style": "neutral"
+    "text": "Non. Il s'agit d'une activité individuelle.",
+    "style": "bad"
   }, {
     "id": "7",
     "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",

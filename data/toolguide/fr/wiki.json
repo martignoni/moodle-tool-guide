@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "text": "<strong>Wiki</strong><br />Créer un espace de contribution libre de type Wikipedia",
+    "text": "<strong>Wiki</strong><br />Permettre la création de pages en collaboration, comme Wikipedia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Délicat. Choisir les réglages individuels et de groupe. Pas toujours intuitif.",
+    "text": "Délicat. Définir les réglages individuels et de groupe. Parfois difficile à maîtriser.",
     "style": "neutral"
   }, {
     "id": "3",
@@ -13,7 +13,7 @@
     "style": "good"
   }, {
     "id": "4",
-    "text": "Le polyvalence du wiki permet l'évaluation.",
+    "text": "Le polyvalence du wiki permet l'évaluation. Concevoir une activité adéquate.",
     "style": "neutral"
   }, {
     "id": "5",
@@ -21,11 +21,11 @@
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Selon les réglages choisis, chacun peut modifier les contenus, collecter des ressources, etc.",
+    "text": "Oui. Les participants peuvent collaborer pour explorer des sujets, en discuter et écrire ensemble.",
     "style": "good"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Comprendre, appliquer, analyser, évaluer, créer.",
+    "text": "5 / 6<br />Comprendre, appliquer, analyser, évaluer, créer.",
     "style": "good"
   }
 ]

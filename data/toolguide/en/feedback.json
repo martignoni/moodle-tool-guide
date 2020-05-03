@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Feedback</strong><br />Gather data from students on any topic",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy but takes time. Configure and then add questions.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "No. The feedback is not a distribution tool.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Yes. To have students self-assess their understanding before and after.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Only allows one way communication from student to teacher.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. This is an individual activity.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Allows you to test the six levels by being creative.",
+    "style": "neutral"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Sondage</strong><br />Enable students to vote, to choose subjects; in order to get a trend",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy. Define the options and whether you want to limit numbers per choice or not.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "No. The survey is not a distribution tool.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "To quickly test understanding via a single multi-choice question.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Use the forum or chat instead.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Use forums, glossaries or wikis instead.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Requires to be creative in your usage.",
+    "style": "neutral"
+  }
+]

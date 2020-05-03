@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Survey</strong><br />Gather data from students about teaching of the course",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy. Choose from 3 types to assess Attitudes, Incidents and Constructivism.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "No. The survey is not a distribution tool.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Not directly. Used for gathering feedback to help improve the course.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "No. Only allows one way communication from student to teacher.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. This is an individual activity.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "2 / 6<br />Indirectly. Helps student analyse and evaluate the learning.",
+    "style": "neutral"
+  }
+]
