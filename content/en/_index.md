@@ -1,2 +1,3 @@
 ---
+Title: Moodle Tool Guide
 ---
