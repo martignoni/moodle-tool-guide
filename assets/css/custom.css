@@ -14,8 +14,10 @@
   margin: auto 2em
 }
 
-.navbar-right {
-  margin-right: 0;
+@media (min-width: 768px) {
+  .navbar-right {
+    margin-right: 0;
+  }
 }
 
 footer .copyright {
