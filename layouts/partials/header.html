@@ -1,77 +1,75 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-    <head>
-        {{ partial "head-open" . }}
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ .Title | default .Site.Title }}</title>
-        {{ hugo.Generator }}
-        <meta name="generated" content="{{ now.Format "2006-01-02" }}">
-        <meta name="description" content="{{ partial "description" . }}">
-        {{ template "_internal/opengraph.html" . }}
-        {{ if .Site.Params.favicon }}
-            <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
-        {{ end }}
-        {{ partial "css" . }}
-        {{ with .OutputFormats.Get "RSS" }}
-            <link href="{{ .RelPermalink }}" rel="alternate" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
-            <link href="{{ .RelPermalink }}" rel="feed" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
-        {{ end }}
+  <head>
+    {{ partial "head-open" . }}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title | default .Site.Title }}</title>
+    {{ hugo.Generator }}
+    <meta name="generated" content="{{ now.Format "2006-01-02" }}">
+    <meta name="description" content="{{ partial "description" . }}">
+    {{ template "_internal/opengraph.html" . }}
+    {{ if .Site.Params.favicon }}
+      <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
+    {{ end }}
+    {{ partial "css" . }}
+    {{ with .OutputFormats.Get "RSS" }}
+      <link href="{{ .RelPermalink }}" rel="alternate" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
+      <link href="{{ .RelPermalink }}" rel="feed" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
+    {{ end }}
 
-        {{ partial "head-close" . }}
-    </head>
+    {{ partial "head-close" . }}
+  </head>
 
-    <body class="{{ .Kind }}">
-        {{ partial "body-open" . }}
-        <nav class="navbar navbar-default navbar-fixed-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <a class="navbar-brand visible-xs" href="#">{{ .Title }}</a>
-                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                </div>
-                <div class="collapse navbar-collapse">
-                    {{ if .Site.Menus.main }}
-                        <ul class="nav navbar-nav">
-                            {{ range sort .Site.Menus.main }}
-                                <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-                            {{ end }}
-                        </ul>
+  <body class="{{ .Kind }}">
+    {{ partial "body-open" . }}
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand visible-xs" href="#">{{ .Title }}</a>
+          <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse">
+          {{ if .Site.Menus.main }}
+            <ul class="nav navbar-nav">
+              {{ range sort .Site.Menus.main }}
+                <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+              {{ end }}
+              {{ if .Site.Menus.icon }}
+                {{ range sort .Site.Menus.icon }}
+                  <li class="navbar-icon"><a href="{{ .URL | absLangURL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
+                {{ end }}
+              {{ end }}
+            </ul>
+          {{ end }}
+          {{ if .Site.IsMultiLingual }}
+            <ul class="nav navbar-nav navbar-right">
+              <li id="language-switch" class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe fa-lg" aria-hidden="true"></i></a>
+              <ul class="dropdown-menu">
+              {{ $siteLanguages := .Site.Languages}}
+              {{ $pageLang := .Page.Lang}}
+              {{ range .Page.AllTranslations }}
+                {{ $translation := .}}
+                {{ range $siteLanguages }}
+                  {{ if eq $translation.Lang .Lang }}
+                    {{ $selected := false }}
+                    {{ if eq $pageLang .Lang}}
+                      <li><a href="{{ $translation.RelPermalink }}" class="active">{{ .LanguageName }}</a></li>
+                    {{ else }}
+                      <li><a href="{{ $translation.RelPermalink }}">{{ .LanguageName }}</a></li>
                     {{ end }}
-                    {{ if .Site.Menus.icon }}
-                        <ul class="nav navbar-nav navbar">
-                            {{ range sort .Site.Menus.icon }}
-                                <li class="navbar-icon"><a href="{{ .URL | absLangURL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
-                            {{ end }}
-                        </ul>
-                    {{ end }}
-                    {{ if .Site.IsMultiLingual }}
-                        <ul class="nav navbar-nav navbar-right">
-                          <li id="language-switch" class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe fa-lg" aria-hidden="true"></i></a>
-                          <ul class="dropdown-menu">
-                            {{ $siteLanguages := .Site.Languages}}
-                            {{ $pageLang := .Page.Lang}}
-                            {{ range .Page.AllTranslations }}
-                                {{ $translation := .}}
-                                {{ range $siteLanguages }}
-                                    {{ if eq $translation.Lang .Lang }}
-                                      {{ $selected := false }}
-                                      {{ if eq $pageLang .Lang}}
-                                          <li><a href="{{ $translation.RelPermalink }}" class="active">{{ .LanguageName }}</a></li>
-                                      {{ else }}
-                                          <li><a href="{{ $translation.RelPermalink }}">{{ .LanguageName }}</a></li>
-                                      {{ end }}
-                                    {{ end }}
-                                {{ end }}
-                            {{ end }}
-                          </ul>
-                          </li>
-                        </ul>
-                    {{ end }}
-                </div>
-            </div>
-        </nav>
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+              </ul>
+              </li>
+            </ul>
+          {{ end }}
+        </div>
+      </div>
+    </nav>
