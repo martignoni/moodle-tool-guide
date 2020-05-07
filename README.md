@@ -5,7 +5,6 @@ This repository contains the source files of the [Moodle Tool Guide][site], a st
 ## Tools
 
 * [Hugo][hugo]: fast and flexible static site generator written in Go
-* [Gulp.js][gulp]: automated build system used for enhancing workflow (compressing, minifying, and cachebusting static assets)
 
 ## License
 
@@ -13,7 +12,7 @@ Copyright © 2020 onwards, Nicolas Martignoni <nicolas@martignoni.net>
 
 This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 
-  [site]: https://moodle-guide.martignoni.net
+  [site]: https://moodletoolguide.net
   [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
   [hugo]: https://gohugo.io/
   [gulp]: https://gulpjs.com
