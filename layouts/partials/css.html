@@ -20,12 +20,15 @@
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" true) }}
   {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts }}
   {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts }}
-  <link href="{{ $mainCSS.Permalink }}" rel="stylesheet">
-  <link href="{{ $customCSS.Permalink }}" rel="stylesheet">
+  <link href="{{ $mainCSS.Permalink }}" rel="stylesheet" type="text/css">
+  <link href="{{ $customCSS.Permalink }}" rel="stylesheet" type="text/css">
 {{ else }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" false "outputStyle" "compressed") }}
   {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
   {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
-  <link href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}" rel="stylesheet">
-  <link href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}" rel="stylesheet">
+  <link href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}" rel="stylesheet" type="text/css">
+  <link href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}" rel="stylesheet" type="text/css">
+{{ end }}
+{{ with .OutputFormats.Get "css" }}
+  <link href="{{ .Permalink | safeURL }}" rel="{{ .Rel }}" type="{{ .MediaType.Type }}">
 {{ end }}

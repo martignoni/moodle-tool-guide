@@ -1,3 +1,6 @@
 ---
-Title: Moodle Tool Guide
+title: Moodle Tool Guide
+outputs:
+  - html
+  - css
 ---

@@ -11,6 +11,11 @@ disableKinds:
 - taxonomy
 - taxonomyTerm
 
+outputFormats:
+  CSS:
+    path: '/css/'
+    baseName: 'i18n'
+
 params:
   author: Nicolas Martignoni
   githubUsername: 'martignoni'
