@@ -5,7 +5,7 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile mais prend du temps. Configurer l’activité, puis ajouter les questions.",
+    "text": "Facile mais prend du temps. Configurer l'activité, puis ajouter les questions.",
     "style": "neutral"
   }, {
     "id": "3",
@@ -17,7 +17,7 @@
     "style": "good"
   }, {
     "id": "5",
-    "text": "Non. N’offre qu'une communication à sens unique entre les participants et l’enseignant.",
+    "text": "Non. N'offre qu'une communication à sens unique entre les participants et l'enseignant.",
     "style": "bad"
   }, {
     "id": "6",

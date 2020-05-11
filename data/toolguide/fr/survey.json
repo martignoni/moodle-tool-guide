@@ -5,7 +5,7 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Choisir l'un des trois types pour évaluer les attitudes, les incidents, l’environnement.",
+    "text": "Facile. Choisir l'un des trois types pour évaluer les attitudes, les incidents, l'environnement.",
     "style": "good"
   }, {
     "id": "3",
@@ -17,7 +17,7 @@
     "style": "bad"
   }, {
     "id": "5",
-    "text": "Non. N’offre qu'une communication à sens unique entre les participants et l’enseignant.",
+    "text": "Non. N'offre qu'une communication à sens unique entre les participants et l'enseignant.",
     "style": "bad"
   }, {
     "id": "6",
