@@ -1,6 +1,6 @@
 ---
 title: À propos
-description: Qu'est-ce que le Guide de outils Moodle ?
+description: Qu'est-ce que le Guide des outils Moodle ?
 ---
 
 Le _Guide des outils Moodle_ est un aide-mémoire pour l'utilisation de [Moodle][moodle] version 3 et ultérieures, destiné aux enseignantes et enseignants. Il détaille dans un tableau à double entrée les principaux outils de Moodle et leur utilisation pédagogique. Il mentionne également les [niveaux taxonomiques de Bloom][bloom] pouvant être atteints lors de l'utilisation des différents outils.
