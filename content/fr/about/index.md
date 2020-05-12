@@ -7,7 +7,7 @@ Le _Guide des outils Moodle_ est un aide-mémoire pour l'utilisation de [Moodle]
 
 Une idée de Joyce Seitzinger (@catspyjamasnz), traduite par [Nicolas Martignoni][nm], adaptée pour Moodle 2.x par Fabien Balli. Mise à jour en mai 2020 pour Moodle 3.x par [Nicolas Martignoni][nm].
 
-La version 3 du Guide des outils Moodle en français est publiée sous licence [Creative Commons BY-NC-SA 4.0 International][cc].
+La version 3 du Guide des outils Moodle est publiée sous licence [Creative Commons BY-NC-SA 4.0 International][cc].
 
 Ce site web est mis à disposition par [Nicolas Martignoni][nm]. Il nécessite l'utilisation d'un [navigateur récent][browser].
 
