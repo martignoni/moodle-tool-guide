@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Cartella</strong><br />Depositare più file in un'unica cartella",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile, come gli allegati di e-mail. I documenti hanno un senso da soli?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Sì, solo i formatori possono caricare i file. Strumento a senso unico.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Forse. Da utilizzare per fornire documenti utili per una valutazione.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "No. È uno strumento d'informazione. Nessuna opportunità di interazione.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Forse. Da utilizzare per fornire documenti utili per una valutazione.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "Nessuno. Questa non è un'attività di apprendimento.",
+    "style": "bad"
+  }
+]

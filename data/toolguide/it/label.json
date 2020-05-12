@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Etichetta</strong><br />Inserire testo e risorse multimediali",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile, permette di arricchire la pagina del corso.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Sì, solo i formatori possono scrivere un testo. Strumento a senso unico.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Non direttamente. Da utilizzare per descrivere un compito o trasmettere informazioni.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "No. È uno strumento d'informazione. Nessuna possibilità d'interazione.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Non direttamente. Da utilizzare per descrivere un compito o trasmettere informazioni.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "Nessuno. Questa non è un'attività di apprendimento.",
+    "style": "bad"
+  }
+]

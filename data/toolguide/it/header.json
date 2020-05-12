@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Facilità d'implementazione / obiettivo di formazione →",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facilità d'implementazione",
+    "style": "header-strong"
+  }, {
+    "id": "3",
+    "text": "Trasmissione d'informazioni",
+    "style": "header-strong"
+  }, {
+    "id": "4",
+    "text": "Valutazione",
+    "style": "header-strong"
+  }, {
+    "id": "5",
+    "text": "Comunicazione e interazione",
+    "style": "header-strong"
+  }, {
+    "id": "6",
+    "text": "Co-creazione di contenuti",
+    "style": "header-strong"
+  }, {
+    "id": "7",
+    "text": "Livello tassonomico (Bloom)",
+    "style": "header-strong"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Glossario</strong><br />Raccogliere risorse o acquisire informazioni",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile. Le impostazioni iniziali sono sufficienti. Configurare il formato di visualizzazione per vedere il nome dell'autore.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Per definizioni di lessico o presentare informazioni. Meglio se i partecipanti creano il glossario.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "La versatilità del glossario permette una valutazione. Progettare un'attività adeguata.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Non è stato progettato per la discussione. I partecipanti possono commentare o valutare gli articoli.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Sì. La classe raccoglie risorse condivise. L'autore può modificare i suoi articoli.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Capire, applicare, analizzare, valutare, creare.",
+    "style": "good"
+  }
+]

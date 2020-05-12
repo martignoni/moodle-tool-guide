@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Test (quiz)</strong><br />Valutare con domande e visualizzare le risposte corrette con feedback",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Delicato e dispendioso in termini di tempo. Impostare prima il test, poi aggiungere le domande. Si può utilizzare la banca-domande.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "No. Non è adeguato a fornire informazioni.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Molti tipi diversi di domande. Può essere limitato nel tempo e sicuro. Può essere utilizzato anche per l'autovalutazione.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Usare piuttosto i forum.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Usare piuttosto i forum o i wiki.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permette di valutare i sei livelli, usando un po' di creatività.",
+    "style": "neutral"
+  }
+]

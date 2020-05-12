@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Compito</strong><br />Proporre un compito da svolgere, raccogliere i risultati e valutarli",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile. Scegliere uno dei quattro tipi. Sono possibili compiti online e offline.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "No. Può tuttavia includere informazioni sul contesto del compito.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Sì. Impostare la data di consegna e il punteggio massimo. Raccogliere i compiti e valutarli.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Fornisce un'interazione limitata tra i partecipanti e l'insegnante.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Sì. Permette di svolgere compiti di gruppo.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Indirettamente. Dipende dal progetto del compito assegnato.",
+    "style": "good"
+  }
+]

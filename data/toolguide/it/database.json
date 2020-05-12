@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Banca dati</strong><br />Raccogliere, condividere e cercare i materiali creati",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Delicato. Richiede una progettazione preliminare delle schede modello.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Può essere utilizzato per presentare informazioni. È meglio utilizzarlo se i partecipanti contribuiscono.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "La versatilità del database consente di effettuare valutazioni. Progettare un'attività adeguata.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Non è stato progettato per la discussione. I partecipanti possono commentare o valutare le schede.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "I partecipanti possono condividere i contenuti di una biblioteca comune.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permette di valutare i sei livelli, strutturando le conoscenze.",
+    "style": "good"
+  }
+]

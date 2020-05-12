@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Scelta</strong><br />Permettere di votare, scegliere gli argomenti; ottenere una tendenza",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile. Definire le opzioni ed eventualmente il limite dei partecipanti per ogni possibilità.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "No. Il sondaggio non è un canale d'informazione.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Per testare rapidamente la comprensione di un argomento attraverso una domanda.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Utilizzare invece un forum o una chat room.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Usare invece forum, glossari o wiki.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Essendo creativi.",
+    "style": "neutral"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Mezzo ↓",
+    "style": "header tool"
+  }, {
+    "id": "2",
+    "text": "Semplice e veloce da configurare da soli?",
+    "style": "header"
+  }, {
+    "id": "3",
+    "text": "Uno strumento per fornire informazioni ai vostri studenti?",
+    "style": "header"
+  }, {
+    "id": "4",
+    "text": "Uno strumento per valutare l'apprendimento dei vostri studenti?",
+    "style": "header"
+  }, {
+    "id": "5",
+    "text": "Uno strumento di comunicazione e interazione tra i partecipanti?",
+    "style": "header"
+  }, {
+    "id": "6",
+    "text": "Uno strumento per collaborare e creare contenuti insieme?",
+    "style": "header"
+  }, {
+    "id": "7",
+    "text": "<ul><li>Ricordare</li><li>Comprendere</li><li>Applicare</li><li>Analizzare</li><li>Valutare</li><li>Creare</li></ul>",
+    "style": "header"
+  }
+]

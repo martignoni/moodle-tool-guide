@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Lezione</strong><br />Trasmettere informazioni in modo flessibile, con domande di verifica",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Piuttosto delicato. È necessaria un'analisi e una pianificazione preventiva. Ne vale la pena.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Ottimo per presentare informazioni sotto forma di visita guidata.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Sì. Da utilizzare sotto forma di percorso, scenario, studio di caso, gioco di ruolo.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Questa è un'attività individuale.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Questa è un'attività individuale.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permette di valutare i sei livelli, usando un po' di creatività.",
+    "style": "neutral"
+  }
+]

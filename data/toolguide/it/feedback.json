@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Questionario</strong><br />Raccogliere i dati degli studenti su qualsiasi argomento",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile, ma richiede tempo. Impostare l'attività, quindi aggiungere le domande.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "No. Il feedback non è un canale per proporre informazioni.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Permette l'autovalutazione dell'apprendimento prima e dopo un'attività.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Offre solo una comunicazione a senso unico tra i partecipanti e l'insegnante.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Questa è un'attività individuale.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permette di valutare i sei livelli, usando un po' di creatività.",
+    "style": "neutral"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Pagina</strong><br />Inserire contenuti su una pagina web",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile, come una pagina in un programma di videoscrittura.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Un modo semplice per fornire informazioni ai partecipanti.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Forse. A seconda del contenuto inserito. Esempio: pagina di testo da leggere seguito da un test (quiz).",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Forse. A seconda del contenuto inserito. Esempio: pagina di testo da leggere seguito da un test (quiz).",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Forse. A seconda del contenuto inserito. Esempio: testo per stimolare una riflessione comune.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Capire, applicare, analizzare.",
+    "style": "neutral"
+  }
+]

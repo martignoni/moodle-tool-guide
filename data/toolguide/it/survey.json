@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Sondaggio</strong><br />Raccogliere feedback sul proprio insegnamento",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facile. Scegliere uno dei tre tipi per valutare gli approcci, gli inconvenienti, la situazione.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "No. La scelta non è un canale d'informazione.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Indirettamente. Fornisce un feedback per migliorare il corso.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "No. Offre solo una comunicazione a senso unico tra i partecipanti e l'insegnante.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Questa è un'attività individuale.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "2 / 6<br />Indirettamente. Aiuta i partecipanti ad analizzare e valutare il loro apprendimento.",
+    "style": "neutral"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Workshop</strong><br />Raccogliere, valutare e far valutare il lavoro degli studenti dai loro compagni",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Delicato e dispendioso in termini di tempo. Scegliere le regole per la valutazione e la consegna del lavoro.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "No. Meglio usare un altro strumento.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Sì. Consente la valutazione tra pari, rafforzata dal formatore.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Fornisce un'interazione limitata tra i partecipanti e l'insegnante.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Sì. Da utilizzare per il lavoro di gruppo, con l'obiettivo di un risultato da valutare.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permette di valutare i sei livelli, usando un po' di creatività.",
+    "style": "neutral"
+  }
+]

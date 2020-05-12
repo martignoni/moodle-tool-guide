@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Wiki</strong><br />Abilitare la creazione di pagine collaborative, come Wikipedia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Delicato. Definire le impostazioni individuali e di gruppo. A volte è difficile da padroneggiare.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Sì. Permette che le modifiche siano effettuate dal formatore da solo o dai singoli partecipanti.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "La versatilità del wiki permette una valutazione. Progettare un'attività adeguata.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Non adatto alle discussioni. Da utilizzare per la pianificazione, il brainstorming, la collaborazione, ecc.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Sì. I partecipanti possono collaborare per esplorare, discutere e scrivere insieme su argomenti.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Capire, applicare, analizzare, valutare, creare.",
+    "style": "good"
+  }
+]
