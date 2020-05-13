@@ -53,10 +53,6 @@ table.display th {
 
 table.display td {
   background: #ebebeb;
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
 }
 
 table.responsive-table {
