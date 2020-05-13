@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ with .Language }}{{ . }}{{ else }}{{ .Site.LanguageCode }}{{ end }}">
   <head>
     {{ partial "head-open" . }}
     <meta charset="utf-8">
