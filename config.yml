@@ -98,7 +98,7 @@ languages:
   it:
     languageName: Italiano
     title: Guida agli strumenti Moodle
-    slogan: Guida agli strumenti Moodle per enseignanti e formatori
+    slogan: Guida agli strumenti Moodle per insegnanti e formatori
     description: "Guida agli strumenti Moodle: un promemoria per l'utilizzo di Moodle versione 3 e successive, destinato a insegnanti e formatori."
     contentDir: content/it
     date_format: 2 January 2006

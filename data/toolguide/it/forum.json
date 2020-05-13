@@ -5,11 +5,11 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Le impostazioni iniziali sono sufficienti. Bastano un nome e una descrizione ",
+    "text": "Facile. Le impostazioni iniziali sono sufficienti. Basta un nome e una descrizione.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Condividere link o file. Rischio di perdita per proporre informazioni se messaggi numerosi.",
+    "text": "Condividere link o file. Se i messaggi sono numerosi rischi di perdita di informazioni.",
     "style": "neutral"
   }, {
     "id": "4",

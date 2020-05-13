@@ -1,15 +1,15 @@
 [
   {
     "id": "1",
-    "text": "<strong>Cartella</strong><br />Depositare più file in un'unica cartella",
+    "text": "<strong>Cartella</strong><br />Proporre più file in un'unica cartella",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile, come gli allegati di e-mail. I documenti hanno un senso da soli?",
+    "text": "Facile, come gli allegati di una e-mail. I documenti hanno un senso da soli?",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Sì, solo i formatori possono caricare i file. Strumento a senso unico.",
+    "text": "Sì, solo i formatori possono proporre i file. Strumento a senso unico.",
     "style": "good"
   }, {
     "id": "4",
@@ -17,7 +17,7 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "No. È uno strumento d'informazione. Nessuna opportunità di interazione.",
+    "text": "No. È uno strumento d'informazione. Nessuna opportunità d'interazione.",
     "style": "bad"
   }, {
     "id": "6",

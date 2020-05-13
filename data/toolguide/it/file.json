@@ -1,27 +1,27 @@
 [
   {
     "id": "1",
-    "text": "<strong>File</strong><br />Depositare un file",
+    "text": "<strong>File</strong><br />Proporre un file",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile, come un allegato e-mail. Il documento ha senso da solo?",
+    "text": "Facile, come un allegato di una e-mail. Il documento ha senso da solo?",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Sì, solo i formatori possono caricare i file. Strumento a senso unico.",
+    "text": "Sì, solo i formatori possono proporre i file. Strumento a senso unico.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Forse. Da usare per dare un compito. Recuperare i file con un compito o un forum.",
+    "text": "Forse. Per un compito. Recuperare i file in seguito a un compito o in un forum.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "No. È uno strumento d'informazione. Nessuna opportunità di interazione.",
+    "text": "No. È uno strumento d'informazione. Nessuna opportunità d'interazione.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Forse. Da usare per dare un compito. Recuperare i file con un compito o un forum.",
+    "text": "Forse. Per un compito. Recuperare i file in seguito a un compito o in un forum.",
     "style": "neutral"
   }, {
     "id": "7",

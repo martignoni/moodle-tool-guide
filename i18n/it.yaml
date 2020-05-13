@@ -8,7 +8,7 @@
 - id: InformEvaluate
   translation: "Informare e valutare"
 - id: ShareData
-  translation: "Condivisione dei dati"
+  translation: "Condivisione dati"
 - id: IdentifyTrends
   translation: "Identificare le tendenze"
 # Row header strings, used in small scren rendering
