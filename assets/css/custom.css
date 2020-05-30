@@ -25,6 +25,15 @@ footer .copyright {
   padding: 0 15px;
 }
 
+.flush-right {
+  display: inline-block;
+  float: right;
+}
+
+.flush-right::after {
+  clear: both;
+}
+
 /* Table */
 table th,
 table td {
