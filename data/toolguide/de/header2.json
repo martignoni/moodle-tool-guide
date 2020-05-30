@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Mittel ↓",
+    "style": "header tool"
+  }, {
+    "id": "2",
+    "text": "Leicht und schnell selbst einzurichten?",
+    "style": "header"
+  }, {
+    "id": "3",
+    "text": "Ein Werkzeug zur Weitergabe von Informationen an die Teilnehmer?",
+    "style": "header"
+  }, {
+    "id": "4",
+    "text": "Ein Werkzeug zur Erfassung des Kenntnisstandes Ihrer Teilnehmer?",
+    "style": "header"
+  }, {
+    "id": "5",
+    "text": "Ein Werkzeug zur Kommunikation & Interaktion zwischen Ihnen und unter den Teilnehmern?",
+    "style": "header"
+  }, {
+    "id": "6",
+    "text": "Ein Werkzeug zur Zusammenarbeit und gemeinsamen Erstellung von Inhalten?",
+    "style": "header"
+  }, {
+    "id": "7",
+    "text": "<ul><li>Wiedergeben</li><li>Verstehen</li><li>Anwenden</li><li>Analysieren</li><li>Übertragen</li><li>Bewerten</li></ul>",
+    "style": "header"
+  }
+]

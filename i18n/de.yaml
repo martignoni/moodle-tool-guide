@@ -1,0 +1,26 @@
+# Column header strings
+- id: Resources
+  translation: "Inhalte"
+- id: Activities
+  translation: "Aktivität"
+- id: Inform
+  translation: "Informieren"
+- id: InformEvaluate
+  translation: "Informieren und bewerten"
+- id: ShareData
+  translation: "Daten austauschen"
+- id: IdentifyTrends
+  translation: "Trends identifizieren"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Einfachheit"
+- id: Transfer
+  translation: "Information Transfer"
+- id: Evaluation
+  translation: "Bewerten"
+- id: Interaction
+  translation: "Interaktion"
+- id: Creation
+  translation: "Erstellen"
+- id: BloomLevels
+  translation: "Bloom's Stufen"

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Buch</strong><br />Create a series of pages with chapters and sub-chapters",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Einfach, wie in einem Textverarbeitungsprogramm. Text formatieren und Bilder und Videos ergänzen.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ja, ideal für die Übermittlung von Informationen in strukturierter Form. Drucken möglich.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Vielleicht. Kommt auf den Inhalt an. Z.B. zu lesender Text, gefolgt von einem Quiz.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Vielleicht. Kommt auf den Inhalt an. Z.B. zu lesender Text, gefolgt von einem Quiz.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Vielleicht. Kommt auf den Inhalt an. Z.B. Text, über den eine gemeinsame Diskussion geführt werden soll.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Verstehen, anwenden, analysieren.",
+    "style": "neutral"
+  }
+]

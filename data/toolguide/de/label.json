@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Textfeld</strong><br />Text und Multimedia einfügen",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Einfach. Verbessert das Seitenlayout des Kurses.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ja. Nur Lehrpersonen können Inhalte einfügen. Also klar ein Push-Tool.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Nicht direkt. Zur Beschreibung einer Aufgabe oder zur Übermittlung von Informationen.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Nein. Es ist ein Verteilungsinstrument. Keine Option zur Interaktion.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Nicht direkt. Zur Beschreibung einer Aufgabe oder zur Übermittlung von Informationen.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "Keine. Ist keine Lernaktivität, sondern reine Infovermittlung.",
+    "style": "bad"
+  }
+]

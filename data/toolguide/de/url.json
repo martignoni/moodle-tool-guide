@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />Link zu einer Webseite einfügen",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Einfach. Web-Adresse (alias URL) finden und einfügen.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Komfortable Möglichkeit, externe Infos an die Teilnehmer zu bringen.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Nicht direkt. Verlinkung auf externe Aktivitäten, z.B. E-Portfolios oder Blogs der Teilnehmer.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Vielleicht. Verlinkung auf externe Kommunikationstools, z.B. Kalenders, Blogs oder Wikis.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Vielleicht. Verlinkung auf externe Kooperationswerkzeuge, z.B. Etherpad, Wikis oder Blogs.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "6 / 6 möglich<br />Abhängig vom Inhalt der verlinkten Seite.",
+    "style": "neutral"
+  }
+]

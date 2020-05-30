@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Datei</strong><br />Einzelne Datei hochladen",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Einfach wie ein E‐Mail Anhang. Aber machen Dateien für sich alleine Sinn?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ja. Nur Lehrpersonen können Dateien hochladen. Also klar ein Push-Tool.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Vielleicht. Um Aufgabe zu geben. Studentendateien über Forum oder Aufgabe.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Nein. Es ist ein Verteilungsinstrument. Keine Option zur Interaktion.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Vielleicht. Um Aufgabe zu geben. Teilnehmerdateien über Forum oder Aufgabe sammeln.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "Keine. Ist keine Lernaktivität, sondern reine Infovermittlung.",
+    "style": "bad"
+  }
+]
