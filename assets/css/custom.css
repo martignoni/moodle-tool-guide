@@ -9,11 +9,6 @@
   margin-bottom: 2ex;
 }
 
-.navbar .container {
-  width: auto;
-  margin: auto 2em
-}
-
 @media (min-width: 768px) {
   .navbar-right {
     margin-right: 0;
