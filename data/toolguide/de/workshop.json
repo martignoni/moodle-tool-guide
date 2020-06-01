@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Workshop</strong><br />Sammeln, Bewerten und Peer-Feedback von Aufgaben mit Selbsteinschätzung",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Heikel und erfordert Zeit und sorgfältige Planung der vier verschiedenen Schritte.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Nein. Ein anderes Tool verwenden.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Ja. Teilnehmer können Lösungen anderer beurteilen, überprüft durch den Lehrpersonen.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Nein. Erlaubt Feedback, ansonsten keine Kommunikation.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Ja. Für Gruppenaufgaben verwenden, um ein Ergebnis zu bewerten.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Durch kreativen Umgang vielfältig einsetzbar.",
+    "style": "neutral"
+  }
+]
