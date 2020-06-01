@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Chat</strong><br />Echtzeit Text‐Chat abhalten, mit Teilnehmern diskutieren",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Einfach, wie Messenger oder iMessage. Erfordert einigen Aufwand zur Verwaltung.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Für eingeladene Redner verwenden. Hohe Geschwindigkeit der Nachrichtenvolumen. Risiko der Nicht-Interaktion.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Chat ist vielseitig. Kann bei formativen Bewertung verwendet werden.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Ja. Ermöglicht Diskussionen in kleinen Gruppen oder Fragestunden.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Ja. Teilnehmer können zusammen arbeiten, Themen vertiefen und diskutieren und gemeinsam schreiben.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Ermöglicht es, die sechs Stufen in Echtzeit zu testen.",
+    "style": "good"
+  }
+]
