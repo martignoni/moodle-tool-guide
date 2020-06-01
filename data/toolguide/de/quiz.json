@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Test</strong><br />Zur Bewertung des Lernens, formativ oder summativ. Automatische Bewertung.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Heikel und zeitaufwändig. Test einrichten, Fragen einfügen. Fragensammlung verwenden.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Nein. Test dient der Bewertung, nicht als Verteilungskanal.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Viele verschiedene Fragentypen. Kann zeitlich festgelegt und gesichert werden. Tipp: Verwendung als Selbstdiagnose.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Nein. Foren stattdessen verwenden.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Nein. Foren oder Wikis stattdessen verwenden.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Durch kreativen Umgang mit Beurteilung und Feedback vielfältig einsetzbar.",
+    "style": "neutral"
+  }
+]

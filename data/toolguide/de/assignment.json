@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Aufgabe</strong><br />Aufgabenstellung mit individueller Bewertung und Feedback",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Leicht. Auswahl aus vier Aufgabentypen. Online- und Offline-Aufgaben sind möglich.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Nein. Kann aber notwendige Inhalte für Aufgabenstellung enthalten.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Ja. Fristen und Höchstnote festlegen. Aufgaben sammeln und Feedback geben.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Nein. Erlaubt nur eine sehr begrenzte Interaktion zwischen Lehrer und Teilnehmern.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Ja. Ermöglicht die Durchführung von Gruppenaufgaben.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Indirekt. Hängt vom Aufbau Ihrer Aufgabe ab.",
+    "style": "good"
+  }
+]
