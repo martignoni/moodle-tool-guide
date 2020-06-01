@@ -1,7 +1,7 @@
 /* CSS localization */
 /* Row header strings, used in small scren rendering */
 
-@media (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
 
   table.responsive-table td:nth-child(1):before {
   }

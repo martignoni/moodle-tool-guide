@@ -9,7 +9,7 @@
   margin-bottom: 2ex;
 }
 
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .navbar-right {
     margin-right: 0;
   }
@@ -94,7 +94,7 @@ table.display td.neutral {
   background: rgba(255, 251, 0, 0.17);
 }
 
-@media (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
   .home main {
     margin: auto 0;
     max-width: initial;
@@ -170,4 +170,74 @@ table.display td.neutral {
   display: block;
   float: left;
   width: 1em;
+}
+
+/* Print formatting */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 5mm;
+  }
+  body {
+    padding: 0;
+    font-size: 8pt;
+    line-height: 1.45;
+    border-top: var(--border-width) solid var(--accent);
+  }
+  main {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    float: none;
+  }
+  .home h1 {
+    font-size: 15pt;
+    font-weight: bold;
+    color: #f98012 !important;
+    text-align: left;
+    margin: 9pt 4pt 12pt;
+    padding-bottom: 12pt;
+    border-bottom: 2px solid lightgray;
+  }
+  .home h1 img {
+    height: 25pt;
+    padding-left: 4pt;
+    float: right;
+  }
+  footer .copyright {
+    margin: 1em 0;
+    padding: 0;
+  }
+  a[href]:after {
+    content: none;
+  }
+  table.display th {
+    background: #ccf2ff !important;
+  }
+  table.display td {
+    background: #ebebeb !important;
+  }
+  table.display td.good {
+    background: rgba(0, 143, 0, 0.2) !important;
+  }
+  table.display td.bad {
+    background: rgba(255, 38, 0, 0.2) !important;
+  }
+  table.display td.neutral {
+    background: rgba(255, 251, 0, 0.17) !important;
+  }
+  table {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    page-break-inside: auto;
+  }
+  tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+  }
+  thead {
+    display: table-header-group;
+  }
+  tfoot {
+    display: table-footer-group;
+  }
 }
