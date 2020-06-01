@@ -52,7 +52,7 @@ languages:
     description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
     contentDir: content/en
     date_format: January 2, 2006
-    copyright: 'Provided by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – This work is licensed under a [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.'
+    copyright: 'Provided by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – The website __[moodletoolguide.net](https://moodletoolguide.net)__ is licensed under a [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.'
     weight: 1
     menu:
       main:
@@ -77,7 +77,7 @@ languages:
     description: "Guide des outils Moodle : un aide-mémoire pour l'utilisation de Moodle version 3 et ultérieures, destiné aux enseignantes et enseignants et aux formatrices et formateurs."
     contentDir: content/fr
     date_format: 2 January 2006
-    copyright: 'Offert par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Ce site web est publié sous licence [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).'
+    copyright: 'Offert par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Le site web __[moodletoolguide.net](https://moodletoolguide.net)__ est publié sous licence [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).'
     weight: 2
     menu:
       main:
@@ -102,7 +102,7 @@ languages:
     description: "Guida agli strumenti Moodle: un promemoria per l'utilizzo di Moodle versione 3 e successive, destinato a insegnanti e formatori."
     contentDir: content/it
     date_format: 2 January 2006
-    copyright: 'Offerto da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Questo sito web è pubblicato sotto licenza [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).'
+    copyright: 'Offerto da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Il sito web __[moodletoolguide.net](https://moodletoolguide.net)__ è pubblicato sotto licenza [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).'
     weight: 3
     menu:
       main:
