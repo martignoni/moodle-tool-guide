@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Datenbank</strong><br />Teilnehmer können erstellte Materialien sammeln, teilen und suchen",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Schwierig anzulegen. Vorher Aufbau planen und Vorlagen verwenden.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Lehrpersonen können Material präsentieren. Besser: Teilnehmer tragen Daten ein.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Ja. Inhalte können bewertet werden. Datenbank ist flexibel einsetzbar.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Nicht geeignet für Diskussionen. Teilnehmer können andere Einträge kommentieren oder bewerten",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Teilnehmer können Inhalte suchbar austauschen. Gemeinsame Sammlungen erstellen.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Ermöglicht es, die sechs Stufen zu testen, durch Strukturierung des Wissens.",
+    "style": "good"
+  }
+]
