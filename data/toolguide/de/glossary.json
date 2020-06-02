@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Glossar</strong><br />Ressourcen erfassen oder Informationen sammeln",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy. Voreinstellungen sind gut. Anzeigeformat so einstellen, dass der Name des Autors angezeigt wird.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Um Begriffe zu definieren oder Info zu präsentieren. Besser: Teilnehmer erweitern es.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Ja. Glossar ist flexibel einsetzbar und kann bewertet werden. Geeignete Lernaktivität planen.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Nicht geeignet für Diskussionen. Teilnehmer können Einträge kommentieren oder bewerten.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Ja. Autor kann Eintrag bearbeiten. Teilnehmer können kommentieren.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Verstehen, anwenden, analysieren, bewerten, erstellen.",
+    "style": "good"
+  }
+]
