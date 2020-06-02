@@ -7,6 +7,9 @@ defaultContentLanguage: fr
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
 defaultContentLanguageInSubdir: true
 
+disableLanguages:
+- de
+
 disableKinds:
 - taxonomy
 - taxonomyTerm
@@ -96,6 +99,28 @@ languages:
           weight: 1
         - url: /about/
           name: Saperne di più
+          weight: 1
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
+
+  de:
+    languageName: Deutsch
+    title: Moodle Werzeuge für Lehrpersonen
+    slogan: Moodle-Werkzeuge für Lehrpersonen und Trainer
+    description: 'Moodle-Werkzeuge für Lehrpersonen: Eine Kurzanleitung für Lehrpersonen und Trainer zur Verwendung von Moodle Version 3 und neuer.'
+    contentDir: content/de
+    date_format: 2. January 2006
+    copyright: 'Angeboten von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Die Webseite __[moodletoolguide.net](https://moodletoolguide.net)__ ist lizenziert unter einer [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz.'
+    weight: 4
+    menu:
+      main:
+        - url: /
+          name: Home
+          weight: 1
+        - url: /about/
+          name: Über
           weight: 1
       icon:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
