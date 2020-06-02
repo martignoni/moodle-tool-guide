@@ -10,9 +10,8 @@ userLanguage = getBrowserLanguage();
 
 var tour = new Tour({
   name: "Show language",
-  debug: true,
+  debug: false,
   storage: window.localStorage,
-  storage: false,
   steps: [{
       element: "#language-switch",
       title: "Wrong language?",
