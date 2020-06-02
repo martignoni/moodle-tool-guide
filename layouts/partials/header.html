@@ -58,9 +58,7 @@
                 {{ range $siteLanguages }}
                   {{ if eq $translation.Lang .Lang }}
                     {{ $selected := false }}
-                    {{ if eq $pageLang .Lang }}
-                      <li><a href="{{ $translation.RelPermalink }}" class="active">{{ .LanguageName }}</a></li>
-                    {{ else }}
+                    {{ if not (eq $pageLang .Lang) }}
                       <li><a href="{{ $translation.RelPermalink }}">{{ .LanguageName }}</a></li>
                     {{ end }}
                   {{ end }}
