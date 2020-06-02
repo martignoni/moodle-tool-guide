@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Umfrage</strong><br />Daten von Teilnehmern über den Unterricht sammeln",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy. Wähle aus 3 vordefinierten Typen, um Einstellungen und Lernerfahrungen zu erfragen.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Nein. Umfrage ist nicht zur Informationsverteilung vorgesehen.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Nicht direkt. Besser geeignet zur Evaluation des Kurses.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Nein. Erlaubt Kommunikation nur in eine Richtung: Teilnehmer an Lehrperson.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Nein. Ist eine rein individuelle Aktivität der einzelnen Teilnehmer.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "2 / 6<br />Indirekt. Hilft Teilnehmern Lernprozess zu reflektieren.",
+    "style": "neutral"
+  }
+]

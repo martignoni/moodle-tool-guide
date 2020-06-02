@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Abstimmung</strong><br />Teilnehmer stimmen über eine Frage ab; um einen Trend zu erhalten",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Einfach. Optionen definieren und feststellen, ob Sie die Anzahl pro Wahl eingrenzen möchten oder nicht.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Nein. Abstimmung ist nicht zur Informationsverteilung vorgesehen.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Abstimmungen als Schnellabfrage einer Fragestellung verwenden.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Nein. Besser Forum oder Chat nutzen.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Nein. Besser Forum, Glossar oder Wiki nutzen.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Durch kreativen Umgang.",
+    "style": "neutral"
+  }
+]
