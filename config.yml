@@ -28,21 +28,12 @@ params:
     matomoroot: "stats.martignoni.net" # Do not add slashes
   menu:
     icon:
-      - url: 'mailto:me@example.com'
+      - url: 'mailto:nicolas@martignoni.net'
         name: envelope-o
         weight: 1
       - url: 'https://github.com/martignoni/moodle-tool-guide'
         name: github
         weight: 2
-  #     - url: 'https://twitter.com/nmartignoni/'
-  #       name: twitter
-  #       weight: 3
-  #     - url: 'https://www.linkedin.com/in/nicolasmartignoni/'
-  #       name: linkedin
-  #       weight: 4
-  #     - url: 'https://stackoverflow.com/users/11589458/nicolas-martignoni'
-  #       name: stack-overflow
-  #       weight: 5
 
 languages:
   en:
@@ -63,9 +54,6 @@ languages:
           name: About
           weight: 2
       icon:
-        # - url: 'mailto:nicolas@martignoni.net'
-        #  name: envelope-o
-        #  weight: 1
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
@@ -88,9 +76,6 @@ languages:
           name: À propos
           weight: 1
       icon:
-        # - url: 'mailto:nicolas@martignoni.net'
-        #  name: envelope-o
-        #  weight: 1
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
@@ -113,9 +98,6 @@ languages:
           name: Saperne di più
           weight: 1
       icon:
-        # - url: 'mailto:nicolas@martignoni.net'
-        #  name: envelope-o
-        #  weight: 1
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
