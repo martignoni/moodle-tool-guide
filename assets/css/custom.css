@@ -9,12 +9,6 @@
   margin-bottom: 2ex;
 }
 
-@media screen and (min-width: 768px) {
-  .navbar-right {
-    margin-right: 0;
-  }
-}
-
 footer .copyright {
   margin: 1em 2em;
   padding: 0 15px;
@@ -27,6 +21,30 @@ footer .copyright {
 
 .flush-right::after {
   clear: both;
+}
+
+/* List */
+#table ul {
+  list-style: none;
+  margin-left: 1em;
+  padding-left: 0;
+  text-indent: -1em;
+}
+#table ul li::before {
+  content: "–";
+  display: block;
+  float: left;
+  width: 1em;
+}
+
+/* Language name in lang switcher */
+#language-name {
+  margin-left: .5em;
+}
+
+/* Menu */
+#language-switch .dropdown-menu {
+  min-width: 130px;
 }
 
 /* Table */
@@ -94,6 +112,7 @@ table.display td.neutral {
   background: rgba(255, 251, 0, 0.17);
 }
 
+/* Small screen layout */
 @media screen and (max-width: 1023px) {
   .home main {
     margin: auto 0;
@@ -156,24 +175,6 @@ table.display td.neutral {
     border-top: none;
   }
 
-}
-
-/* List */
-#table ul {
-  list-style: none;
-  margin-left: 1em;
-  padding-left: 0;
-  text-indent: -1em;
-}
-#table ul li::before {
-  content: "–";
-  display: block;
-  float: left;
-  width: 1em;
-}
-
-#language-name {
-  margin-left: .5em;
 }
 
 /* Print formatting */
@@ -243,5 +244,12 @@ table.display td.neutral {
   }
   tfoot {
     display: table-footer-group;
+  }
+}
+
+/* Nav bar fix for narrow screens */
+@media screen and (min-width: 768px) {
+  .navbar-right {
+    margin-right: 0;
   }
 }
