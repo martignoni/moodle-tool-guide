@@ -172,10 +172,8 @@ table.display td.neutral {
   width: 1em;
 }
 
-#language-abbrev {
-  font-weight: bold;
+#language-name {
   margin-left: .5em;
-  text-transform: uppercase;
 }
 
 /* Print formatting */
