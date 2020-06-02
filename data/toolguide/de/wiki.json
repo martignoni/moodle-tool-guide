@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Wiki</strong><br />Gemeinsam in der Gruppe Texte erstellen, wie Wikipedia.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Heikel. Entscheiden Sie sich für Einzel- und Gruppeneinstellungen. Kann schwer zu meistern sein.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Ja. Bearbeiten durch Lehrperson oder Teilnehmer.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Wiki ist flexibel einsetzbar, z.B. eine formative Bewertungsaktivität planen.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Nicht geeignet für Diskussionen. Bei Brainstorming, Planung, gemeinsamen Schreiben usw. verwenden.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Ja. Teilnehmer können kooperativ arbeiten, Inhalte erstellen und diskutieren.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Verstehen, anwenden, analysieren, bewerten, erstellen.",
+    "style": "good"
+  }
+]
