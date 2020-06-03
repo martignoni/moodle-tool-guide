@@ -16,9 +16,13 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.12.0/js/bootstrap-tour.min.js" integrity="sha256-ivsfKto6+ceoECsujcAexF1hossjx7Ka2CSqCbm1l4A=" crossorigin="anonymous"></script>
 
 <!-- custom -->
-{{ range .Site.Params.js }}
-  {{ $jsFile := resources.Get . }}
+{{ $resource := .Site.Params.js }}
+{{ if $.Site.IsServer }}
+  {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate $resource . }}
   <script src="{{ $jsFile.Permalink }}"></script>
+{{ else }}
+  {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate $resource . | minify | fingerprint "md5" }}
+  <script src="{{ $jsFile.Permalink }}" integrity="{{ $jsFile.Data.Integrity }}"></script>
 {{ end }}
 
 <!-- https://github.com/jmosbech/StickyTableHeaders -->

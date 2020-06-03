@@ -15,7 +15,7 @@ var tour = new Tour({
   steps: [{
       element: "#language-switch",
       title: "Wrong language?",
-      content: "This page is available in other languages.",
+      content: "This page is available in other languages 😀",
       placement: "bottom",
       delay: [1500, 0],
       duration: 10000,
@@ -24,7 +24,7 @@ var tour = new Tour({
   ]
 });
 
-availableLanguages = ['en', 'fr', 'it', 'de'];
+availableLanguages = [{{ printf "'%s'" (delimit .Site.Languages "','") }}];
 // Check if browser language matches document language and language version exists.
 if (userLanguage !== document.documentElement.lang
       && availableLanguages.includes(userLanguage)) {

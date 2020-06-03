@@ -34,8 +34,7 @@ params:
       - url: 'https://github.com/martignoni/moodle-tool-guide'
         name: github
         weight: 2
-  js:
-    - 'js/custom.js'
+  js: 'js/custom.js'
 
 languages:
   en:
