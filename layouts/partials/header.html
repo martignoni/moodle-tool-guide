@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Title | default .Site.Title }}</title>
     {{ hugo.Generator }}
-    <meta name="generated" content="{{ now.Format "2006-01-02T15:04" }}">
+    <meta name="generated" content="{{ now.Format "2006-01-02T15:04:05-07:00" }}">
     <meta name="description" content="{{ partial "description" . }}">
     {{ template "_internal/opengraph.html" . }}
     {{ if .Site.Params.favicon }}
