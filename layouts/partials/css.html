@@ -15,20 +15,22 @@
 
 <!-- Custom fonts and styles for this template -->
 <!-- CSS purge and minify, see https://janaksingh.com/blog/hugo-css-concat-minify-purgecss-tutorial/ -->
+<!-- Use translations in assets, see https://discourse.gohugo.io/t/is-it-possible-to-use-translations-in-assets/20726 -->
 {{ $css_options := (dict ) }}
 {{ if .Site.IsServer }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" true) }}
   {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts }}
   {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts }}
+  {{ $i18nCSS := resources.Get "css/i18n.css" | resources.ExecuteAsTemplate (printf "%s/css/i18n.css" $.Site.Language) . | toCSS $cssOpts }}
   <link href="{{ $mainCSS.Permalink }}" rel="stylesheet" type="text/css">
   <link href="{{ $customCSS.Permalink }}" rel="stylesheet" type="text/css">
+  <link href="{{ $i18nCSS.Permalink }}" rel="stylesheet" type="text/css">
 {{ else }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" false "outputStyle" "compressed") }}
   {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
   {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
+  {{ $i18nCSS := resources.Get "css/i18n.css" | resources.ExecuteAsTemplate (printf "%s/css/i18n.css" $.Site.Language) . | toCSS $cssOpts | postCSS | minify | fingerprint "md5" }}
   <link href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}" rel="stylesheet" type="text/css">
   <link href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}" rel="stylesheet" type="text/css">
-{{ end }}
-{{ with .OutputFormats.Get "css" }}
-  <link href="{{ .Permalink | safeURL }}" rel="{{ .Rel }}" type="{{ .MediaType.Type }}">
+  <link href="{{ $i18nCSS.Permalink }}" integrity="{{ $i18nCSS.Data.Integrity }}" rel="stylesheet" type="text/css">
 {{ end }}
