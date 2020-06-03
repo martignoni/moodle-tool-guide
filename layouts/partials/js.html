@@ -21,7 +21,7 @@
   {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate $resource . }}
   <script src="{{ $jsFile.Permalink }}"></script>
 {{ else }}
-  {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate $resource . | minify | fingerprint "md5" }}
+  {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate $resource . | minify | fingerprint }}
   <script src="{{ $jsFile.Permalink }}" integrity="{{ $jsFile.Data.Integrity }}"></script>
 {{ end }}
 
