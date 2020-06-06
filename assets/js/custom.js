@@ -32,3 +32,22 @@ if (userLanguage !== document.documentElement.lang
   tour.init();
   tour.start();
 }
+
+// Toggle accessible colors
+const colorToggleElement = document.querySelector('#toggle-accessible-colors');
+colorToggleElement.onclick = function() {
+  document.body.classList.toggle('accessible-colors');
+  if (document.body.classList.contains('accessible-colors')) {
+    colorToggleElement.textContent = "{{ i18n "EnableDefaultColors" }}";
+    localStorage.setItem('Use accessible colors', 'yes');
+  } else {
+    colorToggleElement.textContent = "{{ i18n "EnableAccessibleColors" }}";
+    localStorage.setItem('Use accessible colors', 'no');
+  }
+}
+
+// Use accessible colors if previously selected
+if (localStorage.getItem('Use accessible colors') === 'yes') {
+  document.body.classList.add('accessible-colors');
+  colorToggleElement.textContent = "{{ i18n "EnableDefaultColors" }}";
+}

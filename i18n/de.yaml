@@ -24,3 +24,32 @@
   translation: "Erstellen"
 - id: BloomLevels
   translation: "Bloom's Stufen"
+# Legend
+- id: Legend
+  translation: "Legende"
+- id: Good
+  translation: "Gut geeignet und leicht"
+- id: Neutral
+  translation: "Kann mit Tricks funktionieren"
+- id: Bad
+  translation: "Nicht das beste Tool, komplex"
+# Colors
+- id: Green
+  translation: "grün"
+- id: Yellow
+  translation: "gelb"
+- id: Red
+  translation: "rot"
+# Footer
+- id: CreditsTitle
+  translation: "Credits und Lizenz"
+- id: EnableDefaultColors
+  translation: "Standardfarben verwenden"
+- id: EnableAccessibleColors
+  translation: "Barrierefreie Farbe aktivieren"
+- id: SupportTitle
+  translation: "Support mit einer Spende"
+- id: SupportText
+  translation: "Spenden Sie jetzt ❤️, um die Website Moodle-Werkzeuge für Lehrpersonen zu unterstützen."
+- id: DonateNow
+  translation: "Jetzt spenden!"

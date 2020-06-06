@@ -1,5 +1,36 @@
     <footer>
-      <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)." | markdownify }}</p>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <section class="credits">
+            <h2>{{ i18n "CreditsTitle" }}</h2>
+            <p class="text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)." | markdownify }}</p>
+          </div>
+          <div class="col-sm-3">
+            <section class="support">
+              {{ partial "support" . }}
+            </section>
+          </div>
+          <div class="col-sm-3">
+            <section class="legend">
+              <h2 class="legend-header">{{ i18n "Legend" }}</h2>
+              <ul class="legend-list">
+                <li class="legend-item">
+                  <span class="good legend-color">{{ i18n "Green" }}</span> = {{ i18n "Good" }}
+                </li>
+                <li class="legend-item">
+                    <span class="neutral legend-color">{{ i18n "Yellow" }}</span> = {{ i18n "Neutral" }}
+                </li>
+                <li class="legend-item">
+                    <span class="bad legend-color">{{ i18n "Red" }}</span> = {{ i18n "Bad" }}
+                </li>
+              </ul>
+            </section>
+            <p class="accessible-colors-note">
+              <a id="toggle-accessible-colors">{{ i18n "EnableAccessibleColors" }}</a>
+            </p>
+        </div>
+      </div>
     </footer>
 
     {{ partial "body-close" . }}

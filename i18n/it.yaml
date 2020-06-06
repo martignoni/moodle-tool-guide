@@ -24,3 +24,32 @@
   translation: "Creazione"
 - id: BloomLevels
   translation: "Livelli Bloom"
+# Legend
+- id: Legend
+  translation: "Legenda"
+- id: Good
+  translation: "Il mezzo ideale e semplice"
+- id: Neutral
+  translation: "Utilizzabile con un po' di astuzia"
+- id: Bad
+  translation: "Non adattato e difficile"
+# Colors
+- id: Green
+  translation: "verde"
+- id: Yellow
+  translation: "giallo"
+- id: Red
+  translation: "rosso"
+# Footer
+- id: CreditsTitle
+  translation: "Crediti e licenza"
+- id: EnableDefaultColors
+  translation: "Colori standard"
+- id: EnableAccessibleColors
+  translation: "Colori accessibili"
+- id: SupportTitle
+  translation: "Supportare con una donazione"
+- id: SupportText
+  translation: "Fai una donazione ora ❤️per sostenere il sito web Guida agli strumenti Moodle."
+- id: DonateNow
+  translation: "Dona adesso!"
