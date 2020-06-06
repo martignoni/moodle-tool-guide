@@ -24,6 +24,8 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 - Italian translation courtesy of [Luca Confortola](https://twitter.com/ConfortolaLuca).
 - German translation based on work by [Ralf Hilgenstock](https://twitter.com/ralfh), Susanne Gebauer and Gerald Hartwig.
 
+Theme adapted from [Minimal](https://github.com/calintat/minimal).
+
   [site]: https://moodletoolguide.net
   [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
   [hugo]: https://gohugo.io/
