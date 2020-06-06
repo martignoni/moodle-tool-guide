@@ -1,4 +1,8 @@
-/* Layout */
+/**
+Layout for desktop and laptop
+ **/
+
+/* Main layout */
 .home main {
   margin: auto 2em;
   max-width: initial;
@@ -112,7 +116,12 @@ table.display td.neutral {
   background: rgba(255, 251, 0, 0.17);
 }
 
-/* Small screen layout */
+/* Footer */
+
+/**
+Layout for small screen
+ **/
+
 @media screen and (max-width: 1023px) {
   .home main {
     margin: auto 0;
@@ -177,7 +186,17 @@ table.display td.neutral {
 
 }
 
-/* Print formatting */
+/* Nav bar fix for narrow screens */
+@media screen and (min-width: 768px) {
+  .navbar-right {
+    margin-right: 0;
+  }
+}
+
+/**
+Layout for printing
+ **/
+
 @media print {
   @page {
     size: A4 portrait;
@@ -244,12 +263,5 @@ table.display td.neutral {
   }
   tfoot {
     display: table-footer-group;
-  }
-}
-
-/* Nav bar fix for narrow screens */
-@media screen and (min-width: 768px) {
-  .navbar-right {
-    margin-right: 0;
   }
 }
