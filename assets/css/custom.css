@@ -1,4 +1,55 @@
 /**
+Colors
+ **/
+
+/* Defaults colors */
+$header-color: #ccf2ff; /* This should not be transparent */
+$good-color: rgba(0, 143, 0, 0.2);
+$neutral-color: rgba(255, 251, 0, 0.17);
+$bad-color: rgba(255, 38, 0, 0.2);
+$gray-column-color: #ebebeb;
+
+/* Accessible colors */
+$accessible-header-color: #89c4f4; /* This should not be transparent */
+$accessible-good-color: rgba(0, 165, 102, 0.3);
+$accessible-neutral-color: rgba(247, 202, 24, 0.6);
+$accessible-bad-color: rgba(210, 82, 178, 0.3);
+$accessible-gray-column-color: #ebebeb;
+
+.b {
+  background-color: $header-color;
+}
+
+.g {
+  background-color: $good-color;
+}
+
+.r {
+  background-color: $bad-color;
+}
+
+.y {
+  background-color: $neutral-color;
+}
+
+/* Accessible colors */
+.accessible-colors .b {
+  background-color: $accessible-header-color;
+}
+
+.accessible-colors .g {
+  background-color: $accessible-good-color;
+}
+
+.accessible-colors .r {
+  background-color: $accessible-bad-color;
+}
+
+.accessible-colors .y {
+  background-color: $accessible-neutral-color;
+}
+
+/**
 Layout for desktop and laptop
  **/
 
@@ -78,11 +129,11 @@ table.display td {
 }
 
 table.display th {
-  background: #ccf2ff;
+  @extend .b !optional;
 }
 
 table.display td {
-  background: #ebebeb;
+  background-color: $gray-column-color;
 }
 
 table.responsive-table {
@@ -104,19 +155,72 @@ table.display th.header.tool {
   vertical-align: bottom;
 }
 
-table.display td.good {
-  background: rgba(0, 143, 0, 0.2);
+table.display td.good, .good {
+  @extend .g !optional;
 }
 
-table.display td.bad {
-  background: rgba(255, 38, 0, 0.2);
+table.display td.bad, .bad {
+  @extend .r !optional;
 }
 
-table.display td.neutral {
-  background: rgba(255, 251, 0, 0.17);
+table.display td.neutral, .neutral {
+  @extend .y !optional;
 }
 
 /* Footer */
+
+footer {
+  background-color: #f3f3f3;
+  text-align: left;
+}
+
+footer h2 {
+  font-size: 16px;
+}
+
+footer p {
+  font-size: 14px;
+}
+
+footer a {
+  color: var(--accent);
+  cursor: pointer;
+}
+
+footer .legend {
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+footer .legend-list {
+  display: inline-block;
+  margin: 0;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  padding: 0;
+}
+
+footer .legend-item {
+  display: block;
+  list-style: none;
+  float: none;
+  height: auto;
+  min-width: 12em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  text-align: left;
+}
+
+footer .legend-color
+{
+  display: inline-block;
+  width: 30px;
+  height: 1.2em;
+  text-indent: -9999px;
+  text-align: left;
+  border: 1px solid black;
+  vertical-align: text-bottom;
+}
 
 /**
 Layout for small screen
@@ -151,7 +255,7 @@ Layout for small screen
   }
 
   table.display tr.title-row td {
-    background: #ccf2ff;
+    background-color: $header-color;
   }
 
   table.responsive-table td:before {
@@ -236,19 +340,19 @@ Layout for printing
     content: none;
   }
   table.display th {
-    background: #ccf2ff !important;
+    background-color: $header-color !important;
   }
   table.display td {
-    background: #ebebeb !important;
+    background-color: $gray-column-color !important;
   }
   table.display td.good {
-    background: rgba(0, 143, 0, 0.2) !important;
+    background-color: $good-color !important;
   }
   table.display td.bad {
-    background: rgba(255, 38, 0, 0.2) !important;
+    background-color: $bad-color !important;
   }
   table.display td.neutral {
-    background: rgba(255, 251, 0, 0.17) !important;
+    background-color: $neutral-color !important;
   }
   table {
     font-family: Georgia, "Times New Roman", Times, serif;
