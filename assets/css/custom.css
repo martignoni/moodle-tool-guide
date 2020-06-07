@@ -101,7 +101,6 @@ footer .copyright {
 #language-switch .dropdown-menu {
   min-width: 100%;
   text-align: right;
-  padding-right: 0;
 }
 
 #language-switch .dropdown-menu>li>a {
