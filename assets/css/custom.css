@@ -99,7 +99,13 @@ footer .copyright {
 
 /* Menu */
 #language-switch .dropdown-menu {
-  min-width: 130px;
+  min-width: 100%;
+  text-align: right;
+  padding-right: 0;
+}
+
+#language-switch .dropdown-menu>li>a {
+  padding-right: 15px;
 }
 
 /* Table */
