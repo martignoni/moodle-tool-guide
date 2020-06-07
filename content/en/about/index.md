@@ -3,9 +3,9 @@ title: About
 description: What is Moodle Tool Guide?
 ---
 
-_Moodle Tools Guide_ is a cheat sheet for using [Moodle][moodle] version 3 and later, designed for teachers. It provides info about the main Moodle tools and their pedagogical usage. It also mentions the [Bloom taxonomic levels][bloom] that can be reached when using the different tools.
+_Moodle Tools Guide_ is a reference card for using [Moodle][moodle] version 3 and later, designed for teachers, educators and trainers. It provides info about the main Moodle tools and what tool to use according to the pedagogical goal to achieve. It also mentions the [Bloom taxonomic levels][bloom] that can be reached when using the different tools.
 
-An idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz), translated into french by [Nicolas Martignoni][nm] and adapted for Moodle 2.x by Fabien Balli. Updated in May 2020 for Moodle 3.x by [Nicolas Martignoni][nm]. English version is adapted from [Gavin Henrick](https://twitter.com/ghenrick)'s version 2.
+An idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz). Adapted in May 2020 for Moodle 3.x by [Nicolas Martignoni][nm], based on work on version 2 by [Gavin Henrick](https://twitter.com/ghenrick).
 
 Moodle Tool Guide is released under [Creative Commons BY-NC-SA 4.0 International][cc] license.
 
