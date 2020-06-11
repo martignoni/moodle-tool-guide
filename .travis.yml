@@ -2,9 +2,6 @@
 os: linux
 dist: bionic
 
-addons:
-  ssh_known_hosts: ${DEPLOY_HOST}
-
 language: node_js
 node_js:
   - lts/*
