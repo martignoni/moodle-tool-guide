@@ -17,7 +17,6 @@ params:
   accent: '#f98012'
   showBorder: true
   backgroundColor: white
-  favicon: 'img/moodle-logo-icon.png'
   matomoAnalytics:
     siteid: 4
     matomoroot: "stats.martignoni.net" # Do not add slashes

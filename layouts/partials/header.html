@@ -9,9 +9,7 @@
     <meta name="generated" content="{{ now.Format "2006-01-02T15:04:05-07:00" }}">
     <meta name="description" content="{{ partial "description" . }}">
     {{ template "_internal/opengraph.html" . }}
-    {{ if .Site.Params.favicon }}
-      <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
-    {{ end }}
+    {{ partial "favicon" . }}
     {{ partial "css" . }}
     {{ with .OutputFormats.Get "RSS" }}
       <link href="{{ .RelPermalink }}" rel="alternate" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
