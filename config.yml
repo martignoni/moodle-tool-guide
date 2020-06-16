@@ -68,7 +68,10 @@ languages:
     description: "Guide des outils Moodle : un aide-mémoire pour l'utilisation de Moodle version 3 et ultérieures, destiné aux enseignantes et enseignants et aux formatrices et formateurs."
     contentDir: content/fr
     date_format: 2 January 2006
-    copyright: 'Offert par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Le site web __[moodletoolguide.net](https://moodletoolguide.net)__ est publié sous licence [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).'
+    copyright: "Offert par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Le site web __[moodletoolguide.net](https://moodletoolguide.net)__ est publié sous licence [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+      Une idée de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de l'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), traduite en français et adaptée par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) avec des contributions de Fabien Balli."
     weight: 2
     menu:
       main:
@@ -90,7 +93,10 @@ languages:
     description: "Guida agli strumenti Moodle: un promemoria per l'utilizzo di Moodle versione 3 e successive, destinato a insegnanti e formatori."
     contentDir: content/it
     date_format: 2 January 2006
-    copyright: 'Offerto da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Il sito web __[moodletoolguide.net](https://moodletoolguide.net)__ è pubblicato sotto licenza [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).'
+    copyright: "Offerto da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Il sito web __[moodletoolguide.net](https://moodletoolguide.net)__ è pubblicato sotto licenza [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+      Un'idea di [Joyce Seitzinger](https://twitter.com/catspyjamasnz) del'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), aggiornata da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) e tradotta in italiano da [Luca Confortola](https://twitter.com/ConfortolaLuca)."
     weight: 3
     menu:
       main:
@@ -112,7 +118,10 @@ languages:
     description: 'Moodle-Werkzeuge für Lehrpersonen: Eine Kurzanleitung für Lehrpersonen und Trainer zur Verwendung von Moodle Version 3 und neuer.'
     contentDir: content/de
     date_format: 2. January 2006
-    copyright: 'Angeboten von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Die Website __[moodletoolguide.net](https://moodletoolguide.net)__ ist lizenziert unter einer [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz.'
+    copyright: 'Angeboten von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Die Website __[moodletoolguide.net](https://moodletoolguide.net)__ ist lizenziert unter einer [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz.
+
+
+      Eine Idee von [Joyce Seitzinger](https://twitter.com/catspyjamasnz) von [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), auf deutsch von [Ralf Hilgenstock](https://twitter.com/ralfh), Susanne Gebauer und Gerald Hartwig übertragt. Angepasst von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/).'
     weight: 4
     menu:
       main:
