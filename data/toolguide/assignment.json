@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Assignment</strong><br />Use to collect, assess and provide feedback on assignments",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy. Choose from four types. Both online and offline assignments are possible.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "No. However can include contextual content for the assignment.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Yes. Set due dates and maximum grade. Collect assignments and provide feedback.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Only allows very limited interaction between teacher and students.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Yes. Allows to do group assignments.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Indirectly. Depends on your assignment design.",
+    "style": "good"
+  }
+]
