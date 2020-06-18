@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Label</strong><br />Insert text and multimedia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy, improve the course page layout.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Yes. Only teachers can insert content. So definitely a push-tool.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Not directly. To be used to describe a task or transmit information.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "No. It's a distribution tool. No option for interaction.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Not directly. To be used to describe a task or transmit information.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "None. This is not a learning activity.",
+    "style": "bad"
+  }
+]
