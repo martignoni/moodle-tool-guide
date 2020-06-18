@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>File</strong><br />Upload a single file",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy, like an email attachment. But can your doc stand on its own?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Yes. Only teachers can upload files to course site. So definitely a push-tool.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Maybe. Use to give task. Collect student files through Forum or Assignment.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "No. It's a distribution tool. No option for interaction.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Maybe. Use to give task. Collect student files through Forum or Assignment.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "None. This is not a learning activity.",
+    "style": "bad"
+  }
+]
