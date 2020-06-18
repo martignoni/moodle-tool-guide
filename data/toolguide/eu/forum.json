@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Forum</strong><br />Promote discussion: debates, reporting, role-playing, news analysis, lists of ideas, etc.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy. Forum has adequate default settings. A name & description is enough.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Share resources as links or files. Risk of losing info if high message volume.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Forum is versatile and allows designing a assessment activity.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Yes. Students communicate with you and peers. Interact as a class or in groups.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Yes. Students can collaborate and explore topics, discuss them and write together.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Understand, apply, analyse, evaluate, create.",
+    "style": "good"
+  }
+]
