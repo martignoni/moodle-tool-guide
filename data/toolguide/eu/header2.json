@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Tool ↓",
+    "style": "header tool"
+  }, {
+    "id": "2",
+    "text": "Simple and quick to set up yourself?",
+    "style": "header"
+  }, {
+    "id": "3",
+    "text": "A tool for disseminating information from you to your students?",
+    "style": "header"
+  }, {
+    "id": "4",
+    "text": "Will this tool allow you to assess your students' learning?",
+    "style": "header"
+  }, {
+    "id": "5",
+    "text": "Can it be used for communication and interaction among participants?",
+    "style": "header"
+  }, {
+    "id": "6",
+    "text": "Can you & your students collaborate & create content together?",
+    "style": "header"
+  }, {
+    "id": "7",
+    "text": "<ul><li>Remember</li><li>Understand</li><li>Apply</li><li>Analyse</li><li>Evaluate</li><li>Create</li></ul>",
+    "style": "header"
+  }
+]
