@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Quiz</strong><br />Use to assess learning, formative or summative. Evaluation automatic",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Tricky and takes time. Set up quiz, then add questions. Use questions bank.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "No. The quiz is aimed at assessment, not as distribution channel.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Many different types of questions. Quiz can be timed and secured. Tip: use as self-diagnostic.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Use forums instead.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Use forums or wikis instead.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Allows you to test the six levels by being creative.",
+    "style": "neutral"
+  }
+]
