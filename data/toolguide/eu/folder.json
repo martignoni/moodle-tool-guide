@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Folder</strong><br />Upload several files in a folder",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Easy, like email attachments. But can your docs stand on their own?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Yes. Only teachers can upload a folder of files. So definitely a push-tool.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Maybe. Use to give task. Collect student files through Forum or Assignment.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "No. It's a distribution tool. No option for interaction or communication.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Maybe. Use to give task. Collect student files through Forum or Assignment.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "None. This is not a learning activity, but information transfer.",
+    "style": "bad"
+  }
+]
