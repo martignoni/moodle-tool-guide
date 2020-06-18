@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Workshop</strong><br />Collect, assess and generate peer review of student work",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Tricky and takes planning and time. Four stages to follow for setting it up.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "No. Better to use another tool for this.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Yes, allows peer-assessment, reviewed by the teacher.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Allows for feedback but overall limited interaction.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Yes. Use for group tasks, in order to evaluate a result.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Allows you to test the six levels by being creative.",
+    "style": "neutral"
+  }
+]
