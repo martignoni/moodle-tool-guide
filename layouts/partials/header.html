@@ -49,8 +49,8 @@
               <li id="language-switch" class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe fa-lg" aria-hidden="true"></i><span id="language-name">{{ .Language.LanguageName }}</span></a>
               <ul class="dropdown-menu">
-              {{ $siteLanguages := .Site.Languages}}
-              {{ $pageLang := .Page.Lang}}
+              {{ $siteLanguages := .Site.Languages }}
+              {{ $pageLang := .Page.Lang }}
               {{ range .Page.AllTranslations }}
                 {{ $translation := .}}
                 {{ range $siteLanguages }}

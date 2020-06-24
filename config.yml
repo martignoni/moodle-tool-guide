@@ -7,6 +7,9 @@ defaultContentLanguage: en
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
 defaultContentLanguageInSubdir: true
 
+# Enable robots.txt generation
+enableRobotsTXT: true
+
 disableKinds:
 - taxonomy
 - taxonomyTerm
