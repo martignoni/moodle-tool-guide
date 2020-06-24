@@ -44,6 +44,17 @@ languages:
     title: Moodle Tool Guide
     slogan: Moodle Tool Guide for teachers and educators
     description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+    keywords:
+    - Moodle
+    - Moodle Tools
+    - Moodle Tools Guide
+    - Moodle Tool Guide
+    - Moodle Tool Guide for teachers
+    - Moodle Tools for teachers
+    - Moodle Guide
+    - Moodle Guide for teachers
+    - Moodle Guide for instructors
+    - Moodle Guide for trainers
     contentDir: content/en
     date_format: January 2, 2006
     copyright: 'Provided by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – The website __[moodletoolguide.net](https://moodletoolguide.net)__ is licensed under a [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
@@ -69,6 +80,16 @@ languages:
     title: Guide des outils Moodle
     slogan: Guide des outils Moodle pour enseignant·es et formateur·trices
     description: "Guide des outils Moodle : un aide-mémoire pour l'utilisation de Moodle version 3 et ultérieures, destiné aux enseignantes et enseignants et aux formatrices et formateurs."
+    keywords:
+    - Moodle
+    - Outils Moodle
+    - Guide des outils Moodle
+    - Outils Moodle pour enseignants
+    - Guide des outils Moodle pour enseignants
+    - Outils Moodle pour formateurs
+    - Guide Moodle
+    - Guide Moodle pour enseignants
+    - Guide Moodle pour formateurs
     contentDir: content/fr
     date_format: 2 January 2006
     copyright: "Offert par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Le site web __[moodletoolguide.net](https://moodletoolguide.net)__ est publié sous licence [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
@@ -94,6 +115,17 @@ languages:
     title: Guida agli strumenti Moodle
     slogan: Guida agli strumenti Moodle per insegnanti e formatori
     description: "Guida agli strumenti Moodle: un promemoria per l'utilizzo di Moodle versione 3 e successive, destinato a insegnanti e formatori."
+    keywords:
+    - Moodle
+    - Moodle Tools
+    - Moodle Tools Guide
+    - Moodle Tool Guide
+    - Moodle Tool Guide for teachers
+    - Moodle Tools for teachers
+    - Moodle Guide
+    - Moodle Guide for teachers
+    - Moodle Guide for instructors
+    - Moodle Guide for trainers
     contentDir: content/it
     date_format: 2 January 2006
     copyright: "Offerto da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Il sito web __[moodletoolguide.net](https://moodletoolguide.net)__ è pubblicato sotto licenza [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
@@ -119,6 +151,17 @@ languages:
     title: Moodle Werzeuge für Lehrpersonen
     slogan: Moodle-Werkzeuge für Lehrpersonen und Trainer
     description: 'Moodle-Werkzeuge für Lehrpersonen: Eine Kurzanleitung für Lehrpersonen und Trainer zur Verwendung von Moodle Version 3 und neuer.'
+    keywords:
+    - Moodle
+    - Moodle Tools
+    - Moodle Tools Guide
+    - Moodle Tool Guide
+    - Moodle Tool Guide for teachers
+    - Moodle Tools for teachers
+    - Moodle Guide
+    - Moodle Guide for teachers
+    - Moodle Guide for instructors
+    - Moodle Guide for trainers
     contentDir: content/de
     date_format: 2. January 2006
     copyright: 'Angeboten von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Die Website __[moodletoolguide.net](https://moodletoolguide.net)__ ist lizenziert unter einer [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz.
