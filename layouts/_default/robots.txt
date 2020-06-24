@@ -1,8 +1,13 @@
 User-agent: *
-{{ range where .Site.RegularPages "Params.robotsdisallow" true }}
-Disallow: {{ .RelPermalink }}
+
+{{ range .Sites }}
+  {{- range where .Site.RegularPages "Params.robotsdisallow" true -}}
+    Disallow: {{ .RelPermalink }}
+  {{- end }}
 {{ end }}
 Sitemap: {{ "sitemap.xml" | absURL -}}
-{{ range .Site.Languages }}
-Sitemap: {{ printf "%s/sitemap.xml" .Lang | absURL -}}
+{{- if .Site.IsMultiLingual }}
+{{ range .Site.Languages -}}
+  Sitemap: {{ printf "%s/sitemap.xml" .Lang | absURL }}
+{{ end }}
 {{ end }}
