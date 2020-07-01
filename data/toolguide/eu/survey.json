@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Survey</strong><br />Gather data from students about teaching of the course",
+    "text": "<strong>Hausnarketa</strong><br />Ikastaroko irakastearen inguruko ikasleen datuak biltzeko erabilia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy. Choose from 3 types to assess Attitudes, Incidents and Constructivism.",
+    "text": "Erraza. Aukeratu 3 moten artean: Jarrera, Gertaera Larriak and Konstruktibismoa.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "No. The survey is not a distribution tool.",
+    "text": "Ez. Hausnarketa ez da informazioa helarazteko tresna bat.",
     "style": "bad"
   }, {
     "id": "4",
-    "text": "Not directly. Used for gathering feedback to help improve the course.",
+    "text": "Ez zuzenean. Ikastaroa hobetzen laguntzeko feedbacka jasotzeko erabiltzen da.",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "No. Only allows one way communication from student to teacher.",
+    "text": "Ez. Komunikazioa norantza bakarrean ahalbidetzen du (ikasle --> irakasle)",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "No. This is an individual activity.",
+    "text": "Ez. Jarduera hau banakakoa da.",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "2 / 6<br />Indirectly. Helps student analyse and evaluate the learning.",
+    "text": "2 / 6<br />Zeharka. Ikasleei euren ikastea aztertu eta ebaluatzen laguntzen die.",
     "style": "neutral"
   }
 ]
