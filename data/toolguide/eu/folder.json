@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Folder</strong><br />Upload several files in a folder",
+    "text": "<strong>Karpeta</strong><br />Hainbat fitxategi karpeta batera igotzeko erabilia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy, like email attachments. But can your docs stand on their own?",
+    "text": "Erraza, email baten eranskina bezalakoa. Baina zure dokumentua bere horretan ulertu daiteke?",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Yes. Only teachers can upload a folder of files. So definitely a push-tool.",
+    "text": "Bai. Ikastarora soilik irakasleek igo ditzakete fitxategiak. Beraz informazioa helarazteko tresna bat da.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Maybe. Use to give task. Collect student files through Forum or Assignment.",
+    "text": "Agian. Lan bat emateko erabili daiteke. Zereginak biltzeko foroa edo zeregina erabili beharko da.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "No. It's a distribution tool. No option for interaction or communication.",
+    "text": "Ez. Informazioa helarazteko tresna bat da. Ez dauka interakziorako aukerarik.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Maybe. Use to give task. Collect student files through Forum or Assignment.",
+    "text": "Agian. Lan bat emateko erabili daiteke. Zereginak biltzeko foroa edo zeregina erabili beharko da.",
     "style": "neutral"
   }, {
     "id": "7",
-    "text": "None. This is not a learning activity, but information transfer.",
+    "text": "Bat ere ez. Hau ez da ikaste-jarduera bat, informazioa helarazteko tresna baizik.",
     "style": "bad"
   }
 ]
