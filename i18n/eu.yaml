@@ -1,55 +1,55 @@
 # Column header strings
 - id: Resources
-  translation: "Resources"
+  translation: "Baliabideak"
 - id: Activities
-  translation: "Activities"
+  translation: "Jarduerak"
 - id: Inform
-  translation: "Inform"
+  translation: "Informazioa"
 - id: InformEvaluate
-  translation: "Inform and Evaluate"
+  translation: "Informazioa eta Ebaluazioa"
 - id: ShareData
-  translation: "Share Data"
+  translation: "Datuak Partekatzea"
 - id: IdentifyTrends
-  translation: "Identify Trends"
+  translation: "Joerak antzematea"
 # Row header strings, used in small scren rendering
 - id: EaseOfUse
-  translation: "Ease of use"
+  translation: "Erabilterraztasuna"
 - id: Transfer
-  translation: "Transfer"
+  translation: "Bidaltzea"
 - id: Evaluation
-  translation: "Evaluation"
+  translation: "Ebaluazioa"
 - id: Interaction
-  translation: "Interaction"
+  translation: "Interakzioa"
 - id: Creation
-  translation: "Creation"
+  translation: "Sorkuntza"
 - id: BloomLevels
-  translation: "Bloom's levels"
+  translation: "Bloom-en mailak"
 # Legend
 - id: Legend
-  translation: "Legend"
+  translation: "Legenda"
 - id: Good
-  translation: "Great fit and easy"
+  translation: "Erraza eta primeran egokitzen da"
 - id: Neutral
-  translation: "Can work with some design"
+  translation: "Diseinu batzuetan balio dezake"
 - id: Bad
-  translation: "Not the best tool for the job"
+  translation: "Ez da tresnarik onena helburu horretarako"
 # Colors
 - id: Green
-  translation: "green"
+  translation: "berdea"
 - id: Yellow
-  translation: "yellow"
+  translation: "horia"
 - id: Red
-  translation: "red"
+  translation: "gorria"
 # Footer
 - id: CreditsTitle
-  translation: "Credits and license"
+  translation: "Kredituak eta lizentzia"
 - id: EnableDefaultColors
-  translation: "Use default colors"
+  translation: "Erabili kolore lehenetsiak"
 - id: EnableAccessibleColors
-  translation: "Enable accessible colors"
+  translation: "Gaitu kolore irisgarriak"
 - id: SupportTitle
-  translation: "Support with a donation"
+  translation: "Babesa eman donazio batekin"
 - id: SupportText
-  translation: "Make a donation now ❤️to support the Moodle Tool Guide website."
+  translation: "Egin donazio bat orain ❤️ Moodle Tresna Gida webguneari babesa emateko."
 - id: DonateNow
-  translation: "Donate now!"
+  translation: "Egin donazioa orain!"
