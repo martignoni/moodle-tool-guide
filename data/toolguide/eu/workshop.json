@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Workshop</strong><br />Collect, assess and generate peer review of student work",
+    "text": "<strong>Tailerra</strong><br />Ikasleen lanak bildu, ebaluatu eta koebaluatzeko erabilia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Tricky and takes planning and time. Four stages to follow for setting it up.",
+    "text": "Korapilatsua eta denbora zein planifikazioa behar ditu. Konfiguratu beharreko lau fase ditu.",
     "style": "bad"
   }, {
     "id": "3",
-    "text": "No. Better to use another tool for this.",
+    "text": "Ez. Horretarako beste tresna bat erabili ezazu.",
     "style": "bad"
   }, {
     "id": "4",
-    "text": "Yes, allows peer-assessment, reviewed by the teacher.",
+    "text": "Bai, irakasleak gainbegiratutako koebaluazioa ahalbidetzen du.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "No. Allows for feedback but overall limited interaction.",
+    "text": "Ez. Feedbacka ematea ahalbidetzen du baina orokorrean interakzioa mugatua da.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Yes. Use for group tasks, in order to evaluate a result.",
+    "text": "Bai. Taldekako zereginetarako erabili daiteke, emaitza bat ebaluatzeko.",
     "style": "good"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Allows you to test the six levels by being creative.",
+    "text": "6 / 6<br />Sei mailak aztertzea ahalbidetzen du, kreatiboa izanda.",
     "style": "neutral"
   }
 ]
