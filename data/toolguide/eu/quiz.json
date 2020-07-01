@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Quiz</strong><br />Use to assess learning, formative or summative. Evaluation automatic",
+    "text": "<strong>Galdetegia</strong><br />Ikastea, sumatiboa zein formatiboa, ebaluatzeko erabilia. Kalifikazio automatikoa",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Tricky and takes time. Set up quiz, then add questions. Use questions bank.",
+    "text": "Korapilatsua eta denbora eramaten du. Konfiguratu galdetegia, eta ondoren gehitu galderak. Erabili galdera-bankua.",
     "style": "bad"
   }, {
     "id": "3",
-    "text": "No. The quiz is aimed at assessment, not as distribution channel.",
+    "text": "Ez. Galdetegia ebaluaziorako da, ez da informazioa helarazteko kanal bat.",
     "style": "bad"
   }, {
     "id": "4",
-    "text": "Many different types of questions. Quiz can be timed and secured. Tip: use as self-diagnostic.",
+    "text": "Galdera-mota ezberdin asko. Galdetegian erantzuteko denbora mugatu eta sekurizatu daiteke. Pista: erabili auto-diagnostiko gisa.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "No. Use forums instead.",
+    "text": "Ez. Honen ordez foroak erabili itzazu.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "No. Use forums or wikis instead.",
+    "text": "Ez. Honen ordez foroak edo wikiak erabili itzazu.",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Allows you to test the six levels by being creative.",
+    "text": "6 / 6<br />Sei mailak aztertzea ahalbidetzen du, kreatiboa izanda.",
     "style": "neutral"
   }
 ]
