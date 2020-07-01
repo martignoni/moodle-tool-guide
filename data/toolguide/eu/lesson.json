@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Lesson</strong><br />Use to flexibly present branched info, with testing",
+    "text": "<strong>Ikasgaia</strong><br />Informazioa adar moldagarrietan erakutsi eta aztertzeko erabilia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Can be tricky to set up. Make sure you plan the lesson first. Worth the effort.",
+    "text": "Konfiguratzea korapilatsua izan daiteke. Erabili aurretik ikasgaia planifikatu ezazu. Esfortzuak merezi du.",
     "style": "neutral"
   }, {
     "id": "3",
-    "text": "Great to present information in a branched, guided way. Implement adaptive learning.",
+    "text": "Oso egokia informazioa modu adarkatua eta gidatuan erakusteko. Egokitze-ikaskuntza inplementatzen du.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Yes. Allows grading. Use as branched quiz, scenario, case study, role play.",
+    "text": "Bai. Kalifikazioa ahalbidetzen du. Galdetegi adarkatu, gidoi, kasu-azterketa, edo rol-joko gisa erabili daiteke.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "No. This is an individual activity, not a group activity.",
+    "text": "Ez. Jarduera hau banakakoa da, ez taldekakoa.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "No. This is an individual activity, not a group activity.",
+    "text": "Ez. Jarduera hau banakakoa da, ez taldekakoa.",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Allows you to test the six levels by being creative.",
+    "text": "6 / 6<br />Sei mailak aztertzea ahalbidetzen du, kreatiboa izanda.",
     "style": "neutral"
   }
 ]
