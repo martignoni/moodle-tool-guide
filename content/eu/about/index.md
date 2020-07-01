@@ -1,15 +1,15 @@
 ---
-title: About
-description: What is Moodle Tool Guide?
+title: Honi buruz
+description: Zer da Moodleko Tresnen Gida?
 ---
 
-_Moodle Tools Guide_ is a reference card for using [Moodle][moodle] version 3 and later, designed for teachers, educators and trainers. It provides info about the main Moodle tools and what tool to use according to the pedagogical goal to achieve. It also mentions the [Bloom taxonomic levels][bloom] that can be reached when using the different tools.
+_Moodleko Tresnen Gida_ [Moodle][moodle] 3 edo bertsio berriago bat erabiltzeko irakasle, hezitzaile eta trebatzaileentzat diseinatutako erreferentziazko taula da. Moodleren tresna nagusiei buruzko informazioa ematen du, eta lortu nahi den helburu pedagogikoaren arabera tresnarik egokienak aukeratzen laguntzen du. Tresna bakoitza erabiltzean lor daitezkeen [Bloom-en maila taxonomikoak][bloom] ere aipatzen ditu.
 
-An idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz) of [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Adapted in May 2020 for Moodle 3.x by [Nicolas Martignoni][nm], based on work on version 2 by [Gavin Henrick](https://twitter.com/ghenrick).
+Tresna hau [Eastern Institute of Technology](https://www.eit.ac.nz/)-ko (Zeelanda Berria) [Joyce Seitzinger](https://twitter.com/catspyjamasnz)-en ideia izan zen, 2020ko maiatzean Moodle 3.x-erako [Nicolas Martignoni][nm]-eko egokitua [Gavin Henrick](https://twitter.com/ghenrick)-ek 2 bertsiorako egindako lanean oinarrituta.
 
-Moodle Tool Guide is released under [Creative Commons BY-NC-SA 4.0 International][cc] license.
+Moodleko Tresnen Gida [Creative Commons BY-NC-SA 4.0 International][cc] lizentziapean argitaratu da.
 
-This website is provided by [Nicolas Martignoni][nm]. It requires the use of a [recent browser][browser].
+Webgune hau [Nicolas Martignoni][nm]-ek egin du. Behar bezala ikusteko [nabigatzaile eguneratu bat][browser] erabili beharko duzu.
 
  [moodle]: https://moodle.org/
  [bloom]: https://en.wikipedia.org/wiki/Bloom%27s_taxonomy
