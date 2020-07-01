@@ -12,7 +12,7 @@ Moodleko Tresnen Gida [Creative Commons BY-NC-SA 4.0 International][cc] lizentzi
 Webgune hau [Nicolas Martignoni][nm]-ek egin du. Behar bezala ikusteko [nabigatzaile eguneratu bat][browser] erabili beharko duzu.
 
  [moodle]: https://moodle.org/
- [bloom]: https://en.wikipedia.org/wiki/Bloom%27s_taxonomy
- [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ [bloom]: https://eu.wikipedia.org/wiki/Bloom-en_taxonomia
+ [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.eu
  [browser]: https://browsehappy.com/
  [nm]: https://blog.martignoni.net/a-propos/
