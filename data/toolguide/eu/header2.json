@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "Tool ↓",
+    "text": "Tresna ↓",
     "style": "header tool"
   }, {
     "id": "2",
-    "text": "Simple and quick to set up yourself?",
+    "text": "Erraza eta zure kabuz azkar konfiguratzeko modukoa?",
     "style": "header"
   }, {
     "id": "3",
-    "text": "A tool for disseminating information from you to your students?",
+    "text": "Ikasleei informazioa helarazteko tresna da?",
     "style": "header"
   }, {
     "id": "4",
-    "text": "Will this tool allow you to assess your students' learning?",
+    "text": "Tresna honek ikasleen ikasketa ebaluatzea ahalbidetzen du?",
     "style": "header"
   }, {
     "id": "5",
-    "text": "Can it be used for communication and interaction among participants?",
+    "text": "Partaideen arteko komunikazioa eta interakziorako erabili daiteke?",
     "style": "header"
   }, {
     "id": "6",
-    "text": "Can you & your students collaborate & create content together?",
+    "text": "Irakasle eta ikasleek elkarlanean aritu eta edukiak sortu dezakete?",
     "style": "header"
   }, {
     "id": "7",
-    "text": "<ul><li>Remember</li><li>Understand</li><li>Apply</li><li>Analyse</li><li>Evaluate</li><li>Create</li></ul>",
+    "text": "<ul><li>Gogoratu</li><li>Ulertu</li><li>Aplikatu</li><li>Aztertu</li><li>Ebaluatu</li><li>Sortu</li></ul>",
     "style": "header"
   }
 ]
