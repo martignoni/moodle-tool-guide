@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Glossary</strong><br />Gather resources or collect infos",
+    "text": "<strong>Glosarioa</strong><br />Baliabideak edo informazioa biltzeko erabilia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy. Default settings are good. Set display format to show the author's name.",
+    "text": "Erraza. Lehenetsitako ezarpenak egokiak dira. Zehaztu erakuste-formatua egilearen izena erakusteko.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Use glossary to define terms or present info. Better yet, let the students add to it.",
+    "text": "Erabili ezazu glosarioa terminoak definitu edo informazioa aurkezteko. Are hobeto ikasleei edukia gehitzen utziz gero.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Glossary is versatile and allows evaluation. Design the right learning activity.",
+    "text": "Glosarioak erabilera anitzak ditu eta ebaluazioa ahalbidetzen du. Ikaste-jarduera egokia diseinatu ezazu.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Not suited for discussions. Students can read other entries and comment or rate.",
+    "text": "Ez da eztabaidetarako baliagarria. Ikasleek beste ikasleen sarrerak irakurri eta iruzkinak egin edo kalifikatu ditzakete.",
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Yes. The class can collect reviews, resources, etc. Original author can edit her entry.",
+    "text": "Bai. Partaideek baliabideak, berrikuspenak etab. bildu ditzakete. Sarreren egileak bere sarrerak editatu ditzake.",
     "style": "good"
   }, {
     "id": "7",
-    "text": "5 / 6<br />Understand, Apply, Analyse, Evaluate, Create.",
+    "text": "5 / 6<br />Ulertu, aplikatu, aztertu, ebaluatu, sortu.",
     "style": "good"
   }
 ]
