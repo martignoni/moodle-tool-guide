@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Choice</strong><br />Enable students to vote, to choose subjects; in order to get a trend",
+    "text": "<strong>Kontsulta</strong><br />Ikasleek hainbat aukeren artean bozkatzeko erabilia, joerak antzeman ahal izateko.",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy. Define the options and whether you want to limit numbers per choice or not.",
+    "text": "Erraza. Aukerak zehaztu eta nahi izanez gero aukera bakoitza zenbatek aukeratu dezaketen mugatu dezakezu.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "No. The choice is not a distribution tool.",
+    "text": "Ez. Kontsulta ez da informazioa emateko tresna bat.",
     "style": "bad"
   }, {
     "id": "4",
-    "text": "To quickly test understanding via a single multi-choice question.",
+    "text": "Ulermena aukera-anitzeko galdera bakar baten bitartez aztertzeko.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "No. Use the forum or chat instead.",
+    "text": "Ez. Honen ordez foroa edo txata erabili ezazu.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "No. Use forums, glossaries or wikis instead.",
+    "text": "Ez. Honen ordez foroak, glosarioak edo wikiak erabili itzazu.",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "5 / 6<br />Requires to be creative in your usage.",
+    "text": "5 / 6<br />Erabilera kreatiboak egin beharko dituzu.",
     "style": "neutral"
   }
 ]
