@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Feedback</strong><br />Gather data from students on any topic",
+    "text": "<strong>Inkesta</strong><br />Gai baten inguruko ikasleen datuak biltzeko erabilia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy but takes time. Configure and then add questions.",
+    "text": "Erraza baina denbora eramaten du. Konfiguratu eta ondoren galderak gehitu daitezke.",
     "style": "neutral"
   }, {
     "id": "3",
-    "text": "No. The feedback is not a distribution tool.",
+    "text": "Ez. Inkesta ez da informazioa emateko tresna bat.",
     "style": "bad"
   }, {
     "id": "4",
-    "text": "Yes. To have students self-assess their understanding before and after.",
+    "text": "Bai. Ikasleek euren aurretiko eta ondorengoko ulermena autoebaluatzeko.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "No. Only allows one way communication from student to teacher.",
+    "text": "Ez. Komunikazioa norantza bakarrean ahalbidetzen du (ikasle --> irakasle).",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "No. This is an individual activity.",
+    "text": "Ez. Jarduera hau banakakoa da.",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Allows you to test the six levels by being creative.",
+    "text": "6 / 6<br />Sei mailako aztertzea ahalbidetzen du, kretiboa izanez gero.",
     "style": "neutral"
   }
 ]
