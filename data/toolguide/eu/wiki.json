@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Wiki</strong><br />Enable the creation of collaborative pages, like Wikipedia",
+    "text": "<strong>Wikia</strong><br />Orriak elkarlanean egitea ahalbidetzen du, Wikipedian bezala",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Tricky. Decide on individual and group settings. Can be hard to master.",
+    "text": "Korapilatsua. Erabaki banakako edo taldekako ezarpenak. Menderatzen zaila izan daiteke.",
     "style": "neutral"
   }, {
     "id": "3",
-    "text": "Yes. Allow editing only by teachers or by any participant.",
+    "text": "Bai. Irakasleak soilik edo edozein partaidek editatzea ahalbidetzen du.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Wiki is versatile and allows evaluation, e.g. design a formative assessment activity.",
+    "text": "Wikiak erabilera anitzak ditueta ebaluazioa ahalbidetzen du, esaterako ebaluazio formatiborako jarduera bat diseinatuta.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Not suited for discussions. Use in brainstorming, planning, collaborative writing, etc.",
+    "text": "Ez da aproposa eztabaidetarako. Ideia-zaparradetarako, planifikatzeko, elkarlaneko idazlanetarako etab. erabili daiteke",
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Yes. Students can collaborate and explore topics, discuss them and write together.",
+    "text": "Bai. Ikasleak elkarlanean aritu eta gaiak aztertu, eztabaidatu eta idatzi dezakete.",
     "style": "good"
   }, {
     "id": "7",
-    "text": "5 / 6<br />Understand, Apply, Analyse, Evaluate, Create.",
+    "text": "5 / 6<br />Ulertu, aplikatu, aztertu, ebaluatu, sortu.",
     "style": "good"
   }
 ]
