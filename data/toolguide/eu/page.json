@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Page</strong><br />Create a webpage",
+    "text": "<strong>Orria</strong><br />Web-orri bat sortzeko erabilia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy, just like a word processing page, adding multimedia if needed.",
+    "text": "Erraza, testu-prozesatzaile bat erabiltzea bezala, eduki multimedia gehituta behar izanez gero.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Easy way to provide info to students.",
+    "text": "Ikasleek informazioa helarazteko modu erraza.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Maybe. Depends on the content. E.g. text to be read followed by a quiz.",
+    "text": "Agian. Edukiaren arabera. Esaterako irakurri beharreko testuaren ondoren galdetegi bat jarrita.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Maybe. Depends on the content. E.g. text to be read followed by a quiz.",
+    "text": "Agian. Edukiaren arabera. Esaterako irakurri beharreko testuaren ondoren galdetegi bat jarrita.",
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Maybe. Depends on the content. E.g. text on which to have a common discussion.",
+    "text": "Agian. Edukiaren arabera. Esaterako irakurri beharreko testuaren ondoren eztabaida bat izanda.",
     "style": "neutral"
   }, {
     "id": "7",
-    "text": "4 / 6<br />Understand, apply, analyse.",
+    "text": "4 / 6<br />Ulertu, aplikatu, aztertu.",
     "style": "neutral"
   }
 ]
