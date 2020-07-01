@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Assignment</strong><br />Use to collect, assess and provide feedback on assignments",
+    "text": "<strong>Zeregina</strong><br />Zereginak bildu, ebaluatu eta feedbacka emateko erabili daiteke",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy. Choose from four types. Both online and offline assignments are possible.",
+    "text": "Erraza. 4 motaren artean aukeratu daiteke. Online zein offline zereginetarako erabili daiteke.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "No. However can include contextual content for the assignment.",
+    "text": "Ez. Hala ere, zereginak testuinguruko edukia izan dezake.",
     "style": "bad"
   }, {
     "id": "4",
-    "text": "Yes. Set due dates and maximum grade. Collect assignments and provide feedback.",
+    "text": "Bai. Entregatze datak eta gehienezko kalifikazioa zehaztu daitezke. Zereginak bildu eta ondoren feedbacka eman daiteke.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "No. Only allows very limited interaction between teacher and students.",
+    "text": "Ez. Ikasle eta irakasleen arteko oso interakzio txikia baimentzen du.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Yes. Allows to do group assignments.",
+    "text": "Bai. Taldekako zereginak egitea ahalbidetzen du.",
     "style": "good"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Indirectly. Depends on your assignment design.",
+    "text": "6 / 6<br />Zeharka. Zereginaren diseinuaren arabera.",
     "style": "good"
   }
 ]
