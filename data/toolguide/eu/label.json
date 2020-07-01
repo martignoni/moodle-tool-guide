@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Label</strong><br />Insert text and multimedia",
+    "text": "<strong>Etiketa</strong><br />Testua eta multimedia txertatzeko erabilia",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy, improve the course page layout.",
+    "text": "Erraza, zure ikastaroaren hasiera-orriaren itxura hobetu dezake.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Yes. Only teachers can insert content. So definitely a push-tool.",
+    "text": "Bai. Edukia soilik irakasleek txertatu dezakete. Beraz informazioa helarazteko tresna bat da.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Not directly. To be used to describe a task or transmit information.",
+    "text": "Ez zuzenean. Zeregin bat deskribatzeko edo informazioa helarazteko erabili daiteke.",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "No. It's a distribution tool. No option for interaction.",
+    "text": "Ez. Informazioa helarazteko tresna bat da. Ez dauka interakziorako aukerarik.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Not directly. To be used to describe a task or transmit information.",
+    "text": "Ez zuzenean. Zeregin bat deskribatzeko edo informazioa helarazteko erabili daiteke.",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "None. This is not a learning activity.",
+    "text": "Bat ere ez. Hau ez da ikaste-jarduera bat.",
     "style": "bad"
   }
 ]
