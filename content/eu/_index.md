@@ -1,3 +1,3 @@
 ---
-title: Moodle Tresna Gida
+title: Moodleko Tresnen Gida
 ---
