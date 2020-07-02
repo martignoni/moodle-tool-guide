@@ -187,6 +187,17 @@ languages:
     title: Moodleko Tresnen Gida
     slogan: Moodleko Tresnen Gida irakasle eta hezitzaileentzat
     description: 'Moodleko Tresnen Gida: 3 edo bertsio berriago bat erabiltzeko irakasle, hezitzaile eta trebatzaileentzat diseinatutako erreferentziazko taula da.'
+    keywords:
+    - Moodle
+    - Moodleko Tresnak
+    - Moodleko Tresnen Gida
+    - Moodleko Tresnen Gida
+    - Moodleko Tresnen Gida irakasleentzat
+    - Moodleko Tresnak irakasleentzat
+    - Moodleko Gida
+    - Moodleko Gida irakasleentzat
+    - Moodleko Gida hezitzaileentzat
+    - Moodleko Gida trebatzaileentzat
     contentDir: content/eu
     date_format: 2006 January 2
     copyright: '[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)-ek egina – Webgunea __[moodletoolguide.net](https://moodletoolguide.net)__ [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) lizentziapean argitaratu da.
