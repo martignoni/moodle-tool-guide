@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Foroa</strong><br />Elkarrizketa sustatzea: eztabaidak, jakinarazpenak, rol-jokoak, berrien analisia, ideien zerrendak...",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza. Foroak lehenetsitako ezarpen egokiak ditu. Izena eta deskribapenarekin nahikoa da.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Partekatu baliabideak (estekak edo fitxategiak). Informazioa galtzeko arriskua dago mezu kopurua handia denean.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Foroak erabilera anitzak izan ditzake eta ebaluazio-jarduerak diseinatzea ahalbidetzen du.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Bai. Ikasleak irakaslearekin eta euren artean komunikatzen dira. Interakzioa denak batera edo taldeka izan daiteke.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Bai. Ikasleak elkarlanean aritu eta gaiak aztertu, eztabaidatu eta idatzi ditzakete.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Gogoratu, aplikatu, aztertu, ebaluatu, sortu.",
+    "style": "good"
+  }
+]

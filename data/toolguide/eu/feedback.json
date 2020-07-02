@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Inkesta</strong><br />Gai baten inguruko ikasleen datuak biltzeko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza baina denbora eramaten du. Konfiguratu eta ondoren galderak gehitu daitezke.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Ez. Inkesta ez da informazioa emateko tresna bat.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Bai. Ikasleek euren aurretiko eta ondorengoko ulermena autoebaluatzeko.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Ez. Komunikazioa norantza bakarrean ahalbidetzen du (ikasle --> irakasle).",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Ez. Jarduera hau banakakoa da.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Sei mailak aztertzea ahalbidetzen du, kreatiboa izanda.",
+    "style": "neutral"
+  }
+]

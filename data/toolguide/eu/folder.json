@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Karpeta</strong><br />Hainbat fitxategi karpeta batera igotzeko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza, email baten eranskina bezalakoa. Baina zure dokumentua bere horretan ulertu daiteke?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Bai. Ikastarora soilik irakasleek igo ditzakete fitxategiak. Beraz informazioa helarazteko tresna bat da.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Agian. Lan bat emateko erabili daiteke. Zereginak biltzeko foroa edo zeregina erabili beharko da.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Ez. Informazioa helarazteko tresna bat da. Ez dauka interakziorako aukerarik.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Agian. Lan bat emateko erabili daiteke. Zereginak biltzeko foroa edo zeregina erabili beharko da.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "Bat ere ez. Hau ez da ikaste-jarduera bat, informazioa helarazteko tresna baizik.",
+    "style": "bad"
+  }
+]

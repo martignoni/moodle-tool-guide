@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Galdetegia</strong><br />Ikastea, sumatiboa zein formatiboa, ebaluatzeko erabilia. Kalifikazio automatikoa",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Korapilatsua eta denbora eramaten du. Konfiguratu galdetegia, eta ondoren gehitu galderak. Erabili galdera-bankua.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Ez. Galdetegia ebaluaziorako da, ez da informazioa helarazteko kanal bat.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Galdera-mota ezberdin asko. Galdetegian erantzuteko denbora mugatu eta sekurizatu daiteke. Pista: erabili auto-diagnostiko gisa.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Ez. Honen ordez foroak erabili itzazu.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Ez. Honen ordez foroak edo wikiak erabili itzazu.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Sei mailak aztertzea ahalbidetzen du, kreatiboa izanda.",
+    "style": "neutral"
+  }
+]

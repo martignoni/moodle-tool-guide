@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Datu-basea</strong><br />Ikasleek artefaktoak bildu, partekatu eta bilatzea ahalbidetzen du",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Konfiguratzea korapilatsua izan daiteke. Erabili aurretik nahi duzuna argi izan ezazu.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Irakasleek informazioa erakusteko erabili daiteke, baina hobe ikasleei informazioa gehitzen uzten bazaie.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Datu-basea erabilera anitzak izan ditzake eta ebaluazioa ahalbidetzen du. Ikaste-jarduera egokia diseinatu ezazu.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Ez da eztabaidetarako egokia. Ikasleek iruzkinak egin edo besteen sarrerak kalifikatu ditzakete.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Ikasleek bilatu daitekeen edukia partekatu dezakete. Bilduma bateratuak sortu daitezke.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Sei mailako aztertzea ahalbidetzen du, ezagutza mailakatuz.",
+    "style": "good"
+  }
+]

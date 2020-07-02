@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Orria</strong><br />Web-orri bat sortzeko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza, testu-prozesatzaile bat erabiltzea bezala, eduki multimedia gehituta behar izanez gero.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ikasleek informazioa helarazteko modu erraza.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Agian. Edukiaren arabera. Esaterako irakurri beharreko testuaren ondoren galdetegi bat jarrita.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Agian. Edukiaren arabera. Esaterako irakurri beharreko testuaren ondoren galdetegi bat jarrita.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Agian. Edukiaren arabera. Esaterako irakurri beharreko testuaren ondoren eztabaida bat izanda.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Ulertu, aplikatu, aztertu.",
+    "style": "neutral"
+  }
+]

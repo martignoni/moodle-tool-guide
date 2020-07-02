@@ -1,0 +1,55 @@
+# Column header strings
+- id: Resources
+  translation: "Baliabideak"
+- id: Activities
+  translation: "Jarduerak"
+- id: Inform
+  translation: "Informazioa"
+- id: InformEvaluate
+  translation: "Informazioa eta Ebaluazioa"
+- id: ShareData
+  translation: "Datuak Partekatzea"
+- id: IdentifyTrends
+  translation: "Joerak antzematea"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Erabilterraztasuna"
+- id: Transfer
+  translation: "Bidaltzea"
+- id: Evaluation
+  translation: "Ebaluazioa"
+- id: Interaction
+  translation: "Interakzioa"
+- id: Creation
+  translation: "Sorkuntza"
+- id: BloomLevels
+  translation: "Bloom-en mailak"
+# Legend
+- id: Legend
+  translation: "Legenda"
+- id: Good
+  translation: "Erraza eta primeran egokitzen da"
+- id: Neutral
+  translation: "Diseinu batzuetan balio dezake"
+- id: Bad
+  translation: "Ez da tresnarik onena helburu horretarako"
+# Colors
+- id: Green
+  translation: "berdea"
+- id: Yellow
+  translation: "horia"
+- id: Red
+  translation: "gorria"
+# Footer
+- id: CreditsTitle
+  translation: "Kredituak eta lizentzia"
+- id: EnableDefaultColors
+  translation: "Erabili kolore lehenetsiak"
+- id: EnableAccessibleColors
+  translation: "Gaitu kolore irisgarriak"
+- id: SupportTitle
+  translation: "Babesa eman donazio batekin"
+- id: SupportText
+  translation: "Egin donazio bat orain ❤️ Moodleko Tresnen Gida webguneari babesa emateko."
+- id: DonateNow
+  translation: "Egin donazioa orain!"

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Ikasgaia</strong><br />Informazioa adar moldagarrietan erakutsi eta aztertzeko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Konfiguratzea korapilatsua izan daiteke. Erabili aurretik ikasgaia planifikatu ezazu. Esfortzuak merezi du.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Oso egokia informazioa modu adarkatua eta gidatuan erakusteko. Egokitze-ikaskuntza inplementatzen du.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Bai. Kalifikazioa ahalbidetzen du. Galdetegi adarkatu, gidoi, kasu-azterketa, edo rol-joko gisa erabili daiteke.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Ez. Jarduera hau banakakoa da, ez taldekakoa.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Ez. Jarduera hau banakakoa da, ez taldekakoa.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Sei mailak aztertzea ahalbidetzen du, kreatiboa izanda.",
+    "style": "neutral"
+  }
+]

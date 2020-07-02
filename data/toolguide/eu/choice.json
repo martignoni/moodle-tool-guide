@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Kontsulta</strong><br />Ikasleek hainbat aukeren artean bozkatzeko erabilia, joerak antzeman ahal izateko.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza. Aukerak zehaztu eta nahi izanez gero aukera bakoitza zenbatek aukeratu dezaketen mugatu dezakezu.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ez. Kontsulta ez da informazioa emateko tresna bat.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Ulermena aukera-anitzeko galdera bakar baten bitartez aztertzeko.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Ez. Honen ordez foroa edo txata erabili ezazu.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Ez. Honen ordez foroak, glosarioak edo wikiak erabili itzazu.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Erabilera kreatiboak egin beharko dituzu.",
+    "style": "neutral"
+  }
+]

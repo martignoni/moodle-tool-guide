@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Txata</strong><br />Denbora-errealean txat bidezko elkarrizketak izateko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza, Messenger edo iMessage bezalakoa. Kudeaketa-lan pixkat behar du.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Gonbidatutako hizlarientzako erabili daiteke. Abiadura handiko mezu-jarioa. Interakziorik ez izateko arriskua.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Txatak erabilera anitzak ditu. Ebaluazio formatiboko jardueren erabili daiteke.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Bai. Eztabaidak izateko, talde txikietako tutoretza saioak egiteko eta galdera-erantzunen saioak egiteko.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Bai. Ikasleak gaiak aztertu, horien inguruan eztabaidatu eta elkarlanean idatzi dezakete.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Sei mailak denbora-errealean aztertzea ahalbidetzen du.",
+    "style": "good"
+  }
+]

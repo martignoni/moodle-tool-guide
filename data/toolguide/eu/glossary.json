@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Glosarioa</strong><br />Baliabideak edo informazioa biltzeko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza. Lehenetsitako ezarpenak egokiak dira. Zehaztu erakuste-formatua egilearen izena erakusteko.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Erabili ezazu glosarioa terminoak definitu edo informazioa aurkezteko. Are hobeto ikasleei edukia gehitzen utziz gero.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Glosarioak erabilera anitzak ditu eta ebaluazioa ahalbidetzen du. Ikaste-jarduera egokia diseinatu ezazu.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Ez da eztabaidetarako baliagarria. Ikasleek beste ikasleen sarrerak irakurri eta iruzkinak egin edo kalifikatu ditzakete.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Bai. Partaideek baliabideak, berrikuspenak etab. bildu ditzakete. Sarreren egileak bere sarrerak editatu ditzake.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Ulertu, aplikatu, aztertu, ebaluatu, sortu.",
+    "style": "good"
+  }
+]

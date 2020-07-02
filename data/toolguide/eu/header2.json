@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Tresna ↓",
+    "style": "header tool"
+  }, {
+    "id": "2",
+    "text": "Erraza eta zure kabuz azkar konfiguratzeko modukoa?",
+    "style": "header"
+  }, {
+    "id": "3",
+    "text": "Ikasleei informazioa helarazteko tresna da?",
+    "style": "header"
+  }, {
+    "id": "4",
+    "text": "Tresna honek ikasleen ikasketa ebaluatzea ahalbidetzen du?",
+    "style": "header"
+  }, {
+    "id": "5",
+    "text": "Partaideen arteko komunikazioa eta interakziorako erabili daiteke?",
+    "style": "header"
+  }, {
+    "id": "6",
+    "text": "Irakasle eta ikasleek elkarlanean aritu eta edukiak sortu dezakete?",
+    "style": "header"
+  }, {
+    "id": "7",
+    "text": "<ul><li>Gogoratu</li><li>Ulertu</li><li>Aplikatu</li><li>Aztertu</li><li>Ebaluatu</li><li>Sortu</li></ul>",
+    "style": "header"
+  }
+]

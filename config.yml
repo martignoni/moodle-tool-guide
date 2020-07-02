@@ -181,3 +181,28 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+
+  eu:
+    languageName: Euskara
+    title: Moodleko Tresnen Gida
+    slogan: Moodleko Tresnen Gida irakasle eta hezitzaileentzat
+    description: 'Moodleko Tresnen Gida: 3 edo bertsio berriago bat erabiltzeko irakasle, hezitzaile eta trebatzaileentzat diseinatutako erreferentziazko taula da.'
+    contentDir: content/eu
+    date_format: 2006 January 2
+    copyright: '[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)-ek egina – Webgunea __[moodletoolguide.net](https://moodletoolguide.net)__ [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) lizentziapean argitaratu da.
+
+
+      Tresna hau [Eastern Institute of Technology](https://www.eit.ac.nz/)-ko (Zeelanda Berria) [Joyce Seitzinger](https://twitter.com/catspyjamasnz)-en ideia izan zen, 2020ko maiatzean Moodle 3.x-erako [Nicolas Martignoni][nm]-eko egokitua eta [Iñigo Zendegi](https://moodle.org/user/profile.php?id=709961)k euskaratua.'
+    weight: 5
+    menu:
+      main:
+        - url: /
+          name: Hasiera
+          weight: 1
+        - url: /about/
+          name: Honi buruz
+          weight: 2
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2

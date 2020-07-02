@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Liburua</strong><br />Atalak eta azpiataletan antolatutako orri-multzoak sortzeko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza, testu-prozesatzaile batean orri-multzo bat sortzea bezalaxe. Multimedia edukiak txertatu daitezke.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Bai. Informazioa modu egituratuan transmititzeko oso aproposa.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Agian. Edukiaren arabera. Esaterako irakurtzeko testu baten ondoren galdetegi bat jarrita.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Agian. Edukiaren arabera. Esaterako irakurtzeko testu baten ondoren galdetegi bat jarrita.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Agian. Edukiaren arabera. Esaterako ondoren eztabaidatzeko erabiliko den testu bat.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Gogoratu, ulertu, aplikatu, aztertu.",
+    "style": "neutral"
+  }
+]

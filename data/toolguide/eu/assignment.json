@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Zeregina</strong><br />Zereginak bildu, ebaluatu eta feedbacka emateko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza. 4 motaren artean aukeratu daiteke. Online zein offline zereginetarako erabili daiteke.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ez. Hala ere, zereginak testuinguruko edukia izan dezake.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Bai. Entregatze datak eta gehienezko kalifikazioa zehaztu daitezke. Zereginak bildu eta ondoren feedbacka eman daiteke.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Ez. Ikasle eta irakasleen arteko oso interakzio txikia baimentzen du.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Bai. Taldekako zereginak egitea ahalbidetzen du.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Zeharka. Zereginaren diseinuaren arabera.",
+    "style": "good"
+  }
+]

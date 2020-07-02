@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URLa</strong><br />Webgune bateko esteka sartzeko erabilia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erraza, kopiatu eta itsatsi http edo https aurrizkia duen web helbide bat (URLa).",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ikasleak Moodletik kanpoko edukietara bideratzeko modu erraza, artikulu bat adibidez.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Ez zuzenean. Esaterako ikasleen e-portfolioetarako edo blogetarako esteka.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Agian. Kanpoko tresnetarako estekak, esaterako egutegiak, taldeak, blogak edo wikiak.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Agian. Blogak, wikiak edo Etherpad moduko kanpoko tresna kolaboratiboak estekatu ditzakezu.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Maila guztiak aztertu daitezke, estekatzen duzunaren arabera.",
+    "style": "neutral"
+  }
+]

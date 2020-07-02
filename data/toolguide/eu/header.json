@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Erabilterreztasuna / Helburu Pedagogikoa<span class=\"flush-right\">→</span>",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Erabilterreztasuna",
+    "style": "header-strong"
+  }, {
+    "id": "3",
+    "text": "Informazioa helaraztea",
+    "style": "header-strong"
+  }, {
+    "id": "4",
+    "text": "Ikasketaren ebaluazioa",
+    "style": "header-strong"
+  }, {
+    "id": "5",
+    "text": "Komunikazioa eta interakzioa",
+    "style": "header-strong"
+  }, {
+    "id": "6",
+    "text": "Elkarlaneko edukien sorrera",
+    "style": "header-strong"
+  }, {
+    "id": "7",
+    "text": "Bloom-en Taxonomia",
+    "style": "header-strong"
+  }
+]
