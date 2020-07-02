@@ -147,7 +147,7 @@ languages:
 
 
       Tresna hau [Eastern Institute of Technology](https://www.eit.ac.nz/)-ko (Zeelanda Berria) [Joyce Seitzinger](https://twitter.com/catspyjamasnz)-en ideia izan zen, 2020ko maiatzean Moodle 3.x-erako [Nicolas Martignoni][nm]-eko egokitua [Gavin Henrick](https://twitter.com/ghenrick)-ek 2 bertsiorako egindako lanean oinarrituta.'
-    weight: 1
+    weight: 5
     menu:
       main:
         - url: /
