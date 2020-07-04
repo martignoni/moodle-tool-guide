@@ -9,13 +9,6 @@ $neutral-color: rgba(255, 251, 0, 0.17);
 $bad-color: rgba(255, 38, 0, 0.2);
 $gray-column-color: #ebebeb;
 
-/* Accessible colors */
-$accessible-header-color: #89c4f4; /* This should not be transparent */
-$accessible-good-color: rgba(0, 165, 102, 0.3);
-$accessible-neutral-color: rgba(247, 202, 24, 0.6);
-$accessible-bad-color: rgba(210, 82, 178, 0.3);
-$accessible-gray-column-color: #ebebeb;
-
 .b {
   background-color: $header-color;
 }
@@ -33,6 +26,12 @@ $accessible-gray-column-color: #ebebeb;
 }
 
 /* Accessible colors */
+$accessible-header-color: #89c4f4; /* This should not be transparent */
+$accessible-good-color: rgba(0, 165, 102, 0.3);
+$accessible-neutral-color: rgba(247, 202, 24, 0.6);
+$accessible-bad-color: rgba(210, 82, 178, 0.3);
+$accessible-gray-column-color: #ebebeb;
+
 .accessible-colors .b {
   background-color: $accessible-header-color;
 }
