@@ -1,10 +1,3 @@
-<style>
-  :root {
-    --accent: {{ .Site.Params.accent | default "#2196F3" }};
-    --border-width: {{ if .Site.Params.showBorder | default false }} 5px {{ else }} 0 {{ end }};
-  }
-</style>
-
 <!-- highlight.js -->
 {{ if .Site.Params.highlight | default false }} <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ .Site.Params.highlightStyle | default "default" }}.min.css"> {{ end }}
 
