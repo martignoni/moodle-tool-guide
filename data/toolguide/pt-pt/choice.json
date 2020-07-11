@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Sondagem</strong><br />Permite que os estudantes votem e selecionem alternativas",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Defina as opções e limite, ou não, o número de escolhas por alternativa.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Não. A sondagem não é uma ferramenta de distribuição de informação.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Para rapidamente testar a compreensão, via pergunta de escolha múltipla.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Não. Utilize antes o fórum ou o chat.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Não. Use antes fóruns, glossários ou wikis.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Requer criatividade na sua utilização.",
+    "style": "neutral"
+  }
+]

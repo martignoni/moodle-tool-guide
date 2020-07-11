@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Base de dados</strong><br />Permite que os estudantes colijam, partilhem e pesquisem por artefactos criados.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Planeie o que pretende antes de iniciar a construção.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Pode ser utilizada pelo docente para apresentar informação, mas melhor será os estudantes a fazê-lo.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Ferramenta versátil que permite avaliação. Desenhe atividades de aprendizagem adequadas.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Inadequada para discussões. Os estudantes podem comentar e classificar outras entradas.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Estudantes podem partilhar informações/conteúdos de forma pesquisável. Criação de coleções conjuntas.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permite avaliar os 6 níveis, através da estruturação do conhecimento.",
+    "style": "good"
+  }
+]

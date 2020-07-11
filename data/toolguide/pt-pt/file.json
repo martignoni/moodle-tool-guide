@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Ficheiro</strong><br />Permite carregar e disponibilizar ficheiros",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil, semelhante a um anexo a um email. No entanto, será que, por exemplo, a leitura de um documento por si só permite a aprendiagem?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Sim. Apensas professores podem carregar ficheiros para a página da disciplina. Definitivamente uma ferramenta de distribuição.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Talvez. Se associado a outras tarefas. Recolha ficheiros dos estudantes atravès do Fórum ou da atividade Trabalho.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Não. Trata-se de um ferramenta de distribuição. Não inclui opções que permitam interação.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Talvez. Se usado associado à realização de tarefas. Recolha ficheiros dos estudantes através do Fórum ou da atividade Trabalho.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "None. This is not a learning activity. Não. O Ficheiro não é uma atividade de aprendizagem.",
+    "style": "bad"
+  }
+]

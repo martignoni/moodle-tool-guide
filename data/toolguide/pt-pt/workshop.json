@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Workshop</strong><br />Permite coligir e avaliar trabalhos dos estudantes pelos seus colegas",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Complexo e requer planeamento e tempo. A configuração engloba 4 etapas.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Não. Será melhor usar uma outra ferramenta.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Sim, permite avaliação por pares, revista pelo docente.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Não. Permite a disponibilização de feedback, mas forma limitada de interação.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Sim. Use para atividades de grupo, de forma a avaliar os resultados.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Se usado de forma criativa, permite testar os seis níveis.",
+    "style": "neutral"
+  }
+]

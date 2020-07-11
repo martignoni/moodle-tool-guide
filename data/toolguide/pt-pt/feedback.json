@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Feedback</strong><br />Recolhe informações sobre qualquer tópico",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil mas requer tempo. Configuração e adicição de questões.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Não. O Feedback/Inquérito não é uma ferramenta de distribuição de informação.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Sim. Permite uma auto-avaliação dos estudantes sobre compreensão antes e depois.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Não. Somente permite uma comunicação unidirecional, do estudante para o professor.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Não. Esta é uma atividade individual.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Se usada de forma criativa, permite testar os 6 níveis.",
+    "style": "neutral"
+  }
+]

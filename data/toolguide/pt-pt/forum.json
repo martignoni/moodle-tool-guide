@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Fórum</strong><br />Promova discussões: debates, relatos, interpretação de papéis, análise de notícias, listas de ideias, etc.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. O Fórum tem definições padrão adequadas. Um nome e uma descrição é o suficiente.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Partilhe recursos como ligações ou ficheiros. O risco de perder informação devido ao elevado volume de mensagens.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "O Fórum é versátil e permite conceber atividades de avaliação.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Sim. Os estudantes comunicam com o docente e com os colegas. Interação com a turma ou em grupos.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Sim. Estudantes podem colaborar e explorar tópicos, discutir sobre eles e escrever em conjunto.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Compreender, aplicar, analisar, avaliar, criar.",
+    "style": "good"
+  }
+]

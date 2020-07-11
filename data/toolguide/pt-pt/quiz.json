@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Teste</strong><br />Use para avaliação formativa ou sumativa da aprendizagem. Classificação automática",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Complexo e moroso. Crie o teste, adicione depois as perguntas. Use a base de perguntas.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Não. O Teste está vocacionado para a avaliação, não como canal de distribuição.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Disponibiliza muitos tipos de perguntas. O Teste pode ser temporizado e tornado seguro. Dica: use para autodiagnóstico.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Não. Em alternativa, utilize os fóruns.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Não, Em alternativa, utilize os fóruns.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Se utilizado de forma criativa, permite testar os seis níveis.",
+    "style": "neutral"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />Permite inserir uma ligação para uma página web",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Encontre o endereço (URL) que começa por http ou https, copie-o e cole-o.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Forma fácil de direcionar os estudantes para informações que se encontram foram do Moodle, por exemplo, para um artigo publicado online.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Não diretamente. Uma alternativa será hiperligar para atividades externas como sejam e-portfolios e blogues.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Talvez. Crie hiperligações para ferramentas externas, por exemplo, calendários, grupos, blogues, ou wikis.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Talvez. Crie hiperligações para ferramentas colaborativas externas como sejam o Etherpad, wikis ou blogues.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />A depender das hiperligações disponibilizadas, pode abranger todos os níveis.",
+    "style": "neutral"
+  }
+]

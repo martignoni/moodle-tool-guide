@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Facilidade de uso / Objetivos Pedagógicos<span class=\"flush-right\">→</span>",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Facilidade de uso",
+    "style": "header-strong"
+  }, {
+    "id": "3",
+    "text": "Transferência de informação",
+    "style": "header-strong"
+  }, {
+    "id": "4",
+    "text": "Avaliação da aprendizagem",
+    "style": "header-strong"
+  }, {
+    "id": "5",
+    "text": "Comunicação e interação",
+    "style": "header-strong"
+  }, {
+    "id": "6",
+    "text": "Co-criação de conteúdo",
+    "style": "header-strong"
+  }, {
+    "id": "7",
+    "text": "Taxonomia de Bloom",
+    "style": "header-strong"
+  }
+]

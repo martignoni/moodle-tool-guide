@@ -217,3 +217,38 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+
+  pt-pt:
+    languageName: Português
+    title: Guia de Ferramentas do Moodle
+    slogan: Guia de ferramentas do Moodle para professores e formadores
+    description: "Guia de Ferramentas do Moodle: um guia rápido sobre a utilização do Moodle, versão 3 e posteriores, destinado a professores e formadores."
+    keywords:
+    - Moodle
+    - Ferramentas do Moodle
+    - Guia de Ferramentas do Moodle
+    - Ferramentas Moodle para professores
+    - Guia de ferramentas do Moodle para educadores
+    - Ferramentas Moodle para formadores
+    - Guia do Moodle
+    - Guia Moodle para educadores
+    - Guia Moodle para formadores
+    contentDir: content/pt-pt
+    date_format: 2 January 2006
+    copyright: "Disponibilizado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Website __[moodletoolguide.net](https://moodletoolguide.net)__ piblicado sob a licença [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+      Baseado na ideia de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) do [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), traduzido e adaptado para português por [Maria João](https://twitter.com/etutoria)."
+    weight: 6
+    menu:
+      main:
+        - url: /
+          name: Home
+          weight: 1
+        - url: /about/
+          name: Sobre
+          weight: 2
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
