@@ -20,6 +20,7 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 
 - Maintained and provided by [Nicolas Martignoni][nm].
 - Based on a idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz).
+- French version by [Nicolas Martignoni][nm], with contributions by Fabien Balli.
 - English translation based on work by [Gavin Henrick](https://twitter.com/ghenrick).
 - Italian translation courtesy of [Luca Confortola](https://twitter.com/ConfortolaLuca).
 - German translation based on work by [Ralf Hilgenstock](https://twitter.com/ralfh), Susanne Gebauer and Gerald Hartwig.
