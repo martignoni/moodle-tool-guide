@@ -22,7 +22,7 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 - Based on a idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz).
 - French version by [Nicolas Martignoni][nm], with contributions by Fabien Balli.
 - English translation based on work by [Gavin Henrick](https://twitter.com/ghenrick).
-- Italian translation courtesy of [Luca Confortola](https://twitter.com/ConfortolaLuca).
+- Italian translation courtesy of [Luca Confortola](https://twitter.com/ConfortolaLuca), with contributions by [Mario Calabrese](https://twitter.com/clbmra).
 - German translation based on work by [Ralf Hilgenstock](https://twitter.com/ralfh), Susanne Gebauer and Gerald Hartwig.
 - Basque translation courtesy of [Iñigo Zendegi](https://twitter.com/izendegi).
 - Portuguese translation courtesy of [Maria João](https://twitter.com/etutoria).
