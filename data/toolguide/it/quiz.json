@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "text": "<strong>Test (quiz)</strong><br />Valutare con domande e visualizzare le risposte corrette con feedback. Valutazione automatica",
+    "text": "<strong>Quiz</strong><br />Valutare con domande e visualizzare le risposte corrette con feedback. Valutazione automatica",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Delicato e dispendioso in termini di tempo. Impostare prima il test, poi aggiungere le domande. Si può utilizzare la banca-domande.",
+    "text": "Delicato e dispendioso in termini di tempo. Impostare prima il quiz, poi aggiungere le domande. Utilizzare il deposito delle domande.",
     "style": "bad"
   }, {
     "id": "3",
