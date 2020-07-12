@@ -32,7 +32,7 @@
 - id: Neutral
   translation: "Utilizzabile con un po' di astuzia"
 - id: Bad
-  translation: "Non adattato e difficile"
+  translation: "Non adatto e difficile"
 # Colors
 - id: Green
   translation: "verde"
