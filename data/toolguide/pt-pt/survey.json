@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<strong>Survey</strong><br />Gather data from students about teaching of the course",
+    "text": "<strong>Inquérito prédifinido | Survey </strong><br />Recolhe dados dos estudantes sobre o processo de ensino na disciplina",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Easy. Choose from 3 types to assess Attitudes, Incidents and Constructivism.",
+    "text": "Fácil. Escolha de entre 3 tipos: Atitudes, Incidentes e Construtivismo.",
     "style": "good"
   }, {
     "id": "3",
-    "text": "No. The survey is not a distribution tool.",
+    "text": "Não. O Inquérito não é uma ferramenta de distribuição.",
     "style": "bad"
   }, {
     "id": "4",
-    "text": "Not directly. Used for gathering feedback to help improve the course.",
+    "text": "Indiretamente. Usado para recolher feedback dos estudantes e contribuir assim para a melhoria da disciplina.",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "No. Only allows one way communication from student to teacher.",
+    "text": "Não. Permite somente uma comunicação unidirecional, do estudante para o professor.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "No. This is an individual activity.",
+    "text": "Não. Esta não é uma atividade individual.",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "2 / 6<br />Indirectly. Helps student analyse and evaluate the learning.",
+    "text": "2 / 6<br />Indiretamente. Ajuda os estudantes a analisar e avaliar a sua aprendizagem.",
     "style": "neutral"
   }
 ]
