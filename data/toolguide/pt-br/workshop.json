@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>laboratório de avaliação</strong><br />Permite avaliar e corrigir trabalhos dos estudantes pelos seus colegas.",
+    "text": "<strong>laboratório de avaliação</strong><br />Permite avaliar e corrigir trabalhos dos estudantes pelos seus colegas",
     "style": "header"
   }, {
     "id": "2",
@@ -21,7 +21,7 @@
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Sim. Use para atividades de grupo, de forma a avaliar os resultados..",
+    "text": "Sim. Use para atividades de grupo, de forma a avaliar os resultados.",
     "style": "good"
   }, {
     "id": "7",
