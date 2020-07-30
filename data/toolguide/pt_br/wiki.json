@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Wiki</strong><br />Permite a criação colaborativa de páginas, como a Wikipedia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Complexo. A Wiki pode ser individual ou em grupo. Pode ser difícil de dominar.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Sim. Permite a edição por professores ou por qualquer participante.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "O Wiki é uma ferramenta versátil e permite avaliação.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Não é adequado para discussões. Use em brainstorming, planejamento, redação colaborativa, etc.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Sim. Os alunos podem colaborar e explorar tópicos, discutí-los e escrever juntos.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Compreender, Aplicar, Analisar, Avaliar, Criar.",
+    "style": "good"
+  }
+]

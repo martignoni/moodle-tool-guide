@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Glossário</strong><br />Reúna recursos ou colete informações",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Configurações padrão adequadas. Configure o glossário de forma a que o nome do autor seja mostrado.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Use o glossário para definir termos ou apresentar informação. Ainda melhor, deixe que os estudantes o façam.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "O glossário é versátil e permite avaliação.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Inadequado para discussões. Estudantes podem ler as entradas, comentar e classificar.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Sim. A turma pode coletar resenhas, recursos etc.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Compreender, aplicar, analisar, avaliar, criar.",
+    "style": "good"
+  }
+]

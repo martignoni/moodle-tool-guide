@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Ferramenta ↓",
+    "style": "header tool"
+  }, {
+    "id": "2",
+    "text": "Simples e rápido de configurar?",
+    "style": "header"
+  }, {
+    "id": "3",
+    "text": "Uma ferramenta para disseminar informação, do docente para os estudantes?",
+    "style": "header"
+  }, {
+    "id": "4",
+    "text": "Esta ferramenta permite ao docente avaliar as aprendizagens dos estudantes?",
+    "style": "header"
+  }, {
+    "id": "5",
+    "text": "Pode ser utilizado para comunicação e interação entre os participantes?",
+    "style": "header"
+  }, {
+    "id": "6",
+    "text": "Permite que docente e estudantes colaborem e criem conteúdo em conjunto?",
+    "style": "header"
+  }, {
+    "id": "7",
+    "text": "<ul><li>Relembrar</li><li>Compreender</li><li>Aplicar</li><li>Analisar</li><li>Avaliar</li><li>Criar</li></ul>",
+    "style": "header"
+  }
+]

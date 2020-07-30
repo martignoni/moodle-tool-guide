@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Escolha</strong><br />Permite que os estudantes façam um escolha e selecionem alternativas",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Defina as opções e limite de respostas",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Não. A escolha não é uma ferramenta de distribuição de informação.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Para testar rapidamente a compreensão, via pergunta de escolha múltipla.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Não. Utilize o fórum ou o chat.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Não. Use fóruns, glossários ou wikis.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Requer criatividade na sua utilização.",
+    "style": "neutral"
+  }
+]

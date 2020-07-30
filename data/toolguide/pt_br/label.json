@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Rótulo</strong><br />Inserir texto e multimídia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil, melhora a aparência do conteúdo do curso.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Sim. Somente os docentes podem inserir conteúdo.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Indiretamente. Pode ser usado para descrever uma tarefa ou transmitir informações.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Não permite interação.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Indiretamente. Pode ser usado para descrever uma tarefa ou transmitir informações.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "Nenhum. Um rótulo não é uma atividade de aprendizagem.",
+    "style": "bad"
+  }
+]

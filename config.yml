@@ -218,6 +218,38 @@ languages:
           name: github
           weight: 2
 
+  pt_br:
+    languageName: Português do Brasil
+    title: Guia de Ferramentas Moodle
+    slogan: Guia de Ferramentas Moodle para Professores e Educadores
+    description: 'Guia de Ferramentas Moodle: Um Guia de Referência Rápida para professores e educadores usarem o Moodle versão 3 e posterior.'
+    keywords:
+    - Moodle
+    - Ferramentas Moodle
+    - Guia de Ferramentas Moodle
+    - Guia de Ferramentas Moodle para Professores
+    - Guia de Ferramentas Moodle para Educadores
+    - Guia Moodle
+    contentDir: content/pt_br
+    date_format: January 2, 2006
+    copyright: 'Disponibilizado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Website __[moodletoolguide.net](https://moodletoolguide.net)__ Licença [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+      Baseado na ideia de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) do [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), traduzido e adaptado para Português do Brasil por  [Gilvan Marques](https://twitter.com/gmarques).'
+    weight: 6
+    menu:
+      main:
+        - url: /
+          name: Guia
+          weight: 1
+        - url: /about/
+          name: Sobre
+          weight: 2
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
+
   pt-pt:
     languageName: Português
     title: Guia de Ferramentas do Moodle
@@ -239,7 +271,7 @@ languages:
 
 
       Baseado na ideia de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) do [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), traduzido e adaptado para português por [Maria João](https://twitter.com/etutoria)."
-    weight: 6
+    weight: 7
     menu:
       main:
         - url: /

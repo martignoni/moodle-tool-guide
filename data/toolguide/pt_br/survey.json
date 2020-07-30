@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Pesquisa de Avaliação</strong><br />Recolhe dados dos estudantes sobre o processo de ensino na disciplina",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Escolha de entre 3 tipos: Atitudes, Incidentes e Construtivismo.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Não",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Indiretamente. Usado para recolher feedback dos estudantes e contribuir assim para a melhoria da disciplina.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Não. Permite somente uma comunicação unidirecional, do estudante para o professor.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Não. Esta não é uma atividade individual.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "2 / 6<br />Indiretamente. Ajuda os estudantes a analisar e avaliar a sua aprendizagem.",
+    "style": "neutral"
+  }
+]

@@ -1,0 +1,55 @@
+# Column header strings
+- id: Resources
+  translation: "Recursos"
+- id: Activities
+  translation: "Atividades"
+- id: Inform
+  translation: "Informar"
+- id: InformEvaluate
+  translation: "Informar e Avaliar"
+- id: ShareData
+  translation: "Compartilhar dados"
+- id: IdentifyTrends
+  translation: "Identificar tendências"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Fácil de usar"
+- id: Transfer
+  translation: "Transferência"
+- id: Evaluation
+  translation: "Avaliação"
+- id: Interaction
+  translation: "Interação"
+- id: Creation
+  translation: "Criação"
+- id: BloomLevels
+  translation: "Nível Taxonomia de Bloom"
+# Legend
+- id: Legend
+  translation: "Legenda"
+- id: Good
+  translation: "Ferramenta fácil e adequada"
+- id: Neutral
+  translation: "Pode funcionar com algum ajuste"
+- id: Bad
+  translation: "Não é a ferramenta adequada"
+# Colors
+- id: Green
+  translation: "verde"
+- id: Yellow
+  translation: "amarelo"
+- id: Red
+  translation: "vermelhor"
+# Footer
+- id: CreditsTitle
+  translation: "Créditos e licença"
+- id: EnableDefaultColors
+  translation: "Usar cor padrão"
+- id: EnableAccessibleColors
+  translation: "Usar cor acessível"
+- id: SupportTitle
+  translation: "Apoie com uma doação"
+- id: SupportText
+  translation: "Faça uma doação agora ❤️ para apoiar o site Guia de Ferramentas Moodle."
+- id: DonateNow
+  translation: "Faça sua doação agora!"
