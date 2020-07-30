@@ -243,7 +243,7 @@ languages:
     menu:
       main:
         - url: /
-          name: Guia
+          name: Home
           weight: 1
         - url: /about/
           name: Sobre
