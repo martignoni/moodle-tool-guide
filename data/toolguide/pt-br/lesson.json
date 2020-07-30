@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Lição</strong>Use para apresentar informação de forma estruturada<br />",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Difícil. Planeje primeiro o que pretende fazer. Vale o esforço.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Excelente para apresentar informações de forma estruturada e guiada. Implementa o conceito de aprendizagem adaptativa.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Sim. Permite classificar. Use como questionário estruturado, apresentação de cenários ou estudos de caso.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Não. Trata-se de uma atividade individual.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Não. Trata-se de uma atividade individual.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Se utilizada de forma criativa, permite testar os seis níveis.",
+    "style": "neutral"
+  }
+]

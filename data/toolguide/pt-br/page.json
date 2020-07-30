@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Página</strong><br />Crie conteúdo com texto, imagem, vídeo, etc.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil, semelhante a criar um documento em editor de texto.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Foma fácil de disponibilizar informações aos estudantes.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Talvez. Depende do conteúdo. Por exemplo, se o conteúdo do texto é seguida por um teste.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Talvez. Depende do conteúdo. Por exemplo, se o conteúdo do texto for seguido por um teste.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Talvez. Depende do conteúdo. Por exemplo, um texto sobre o qual se realiza uma discussão.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Relembrar, compreender, aplicar, analisar.",
+    "style": "neutral"
+  }
+]

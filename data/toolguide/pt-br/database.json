@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Base de dados</strong><br />Permite que os estudantes compartilhem informações",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Planeje o que pretende antes de iniciar a construção.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Pode ser utilizada pelo docente para apresentar informação. Mas será melhor aproveitado com a utilização pelos estudantes.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Ferramenta versátil que permite avaliação.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Inadequada para discussões.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Estudantes podem partilhar informações e conteúdos de forma pesquisável. Criação de coleções conjuntas.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permite avaliar os 6 níveis, através da estruturação do conhecimento.",
+    "style": "good"
+  }
+]

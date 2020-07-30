@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Chat</strong><br />Permite participar em discussões síncronas",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil, como sistema de mensageria.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Use para convidar participantes. Volume de mensagens elevado. Risco de não interação.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Chat é versátil. Pode ser usado para atividades de avaliação formativas.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Sim. Realize debates, sessões de revisão em pequenos grupo ou sessões espontâneas de perguntas e respostas.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Sim. Os estudantes podem colaborar e explorar tópicos, discutir e redigir um texto em grupo.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permite avaliar os 6 níveis em tempo real.",
+    "style": "good"
+  }
+]

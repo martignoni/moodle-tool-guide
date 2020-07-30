@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Arquivo</strong><br />Permite carregar e disponibilizar arquivos",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil, semelhante a enviar um arquivo de anexo à um email.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Sim. Apenas professores podem enviar arquivos para a página do curso.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Talvez. Se associado a outras tarefas, como recebimento de arquivos dos estudantes por meio de Fórum ou Tarefa.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Não. Trata-se de um ferramenta de distribuição. Não inclui opções que permitam interação.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Talvez. Se associado a outras tarefas, como recebimento de arquivos dos estudantes por meio de Fórum ou Tarefa.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "Não. O recurso arquivo não é uma atividade de aprendizagem.",
+    "style": "bad"
+  }
+]
