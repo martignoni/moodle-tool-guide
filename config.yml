@@ -218,7 +218,7 @@ languages:
           name: github
           weight: 2
 
-  pt_br:
+  pt-br:
     languageName: Português do Brasil
     title: Guia de Ferramentas Moodle
     slogan: Guia de Ferramentas Moodle para Professores e Educadores
@@ -230,7 +230,7 @@ languages:
     - Guia de Ferramentas Moodle para Professores
     - Guia de Ferramentas Moodle para Educadores
     - Guia Moodle
-    contentDir: content/pt_br
+    contentDir: content/pt-br
     date_format: January 2, 2006
     copyright: 'Disponibilizado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Website __[moodletoolguide.net](https://moodletoolguide.net)__ Licença [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
