@@ -1,0 +1,55 @@
+# Column header strings
+- id: Resources
+  translation: "Recursos"
+- id: Activities
+  translation: "Actividades"
+- id: Inform
+  translation: "Información"
+- id: InformEvaluate
+  translation: "Información y evaluación"
+- id: ShareData
+  translation: "Compartir contenidos"
+- id: IdentifyTrends
+  translation: "Identificar tendencias"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Facilidad"
+- id: Transfer
+  translation: "Transferencia"
+- id: Evaluation
+  translation: "Evaluación"
+- id: Interaction
+  translation: "Interacción"
+- id: Creation
+  translation: "Creación"
+- id: BloomLevels
+  translation: "Taxonomía Bloom"
+# Legend
+- id: Legend
+  translation: "Leyenda"
+- id: Good
+  translation: "Se ajusta completamente y fácil"
+- id: Neutral
+  translation: "Puede ajustarse con un diseño adecuado"
+- id: Bad
+  translation: "No es la mejor herramienta"
+# Colors
+- id: Green
+  translation: "verde"
+- id: Yellow
+  translation: "amarillo"
+- id: Red
+  translation: "rojo"
+# Footer
+- id: CreditsTitle
+  translation: "Créditos y licencia"
+- id: EnableDefaultColors
+  translation: "Habilita colores estándar"
+- id: EnableAccessibleColors
+  translation: "Habilita colores accesibles"
+- id: SupportTitle
+  translation: "Apoya con una donación"
+- id: SupportText
+  translation: "Realiza una aportación ❤️ para apoyar el sitio web Moodle Tool Guide."
+- id: DonateNow
+  translation: "Realizar aportación!"

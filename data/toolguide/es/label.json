@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Etiqueta</strong><br />Insertar texto y multimedia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil, mejora la presentación de la página principal del curso.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Sí. Únicamente el profesorado puede insertar contenido. Se trata por lo ta tanto de una herramienta unilateral.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "No directamente. A utilizar para describir una tarea o transmitir información.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "No. Es una herramienta de información. Ninguna opción de interacción.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No directamente. A utilizar para describir una tarea o transmitir información.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "Ninguna. No es una actividad de aprendizaje.",
+    "style": "bad"
+  }
+]
