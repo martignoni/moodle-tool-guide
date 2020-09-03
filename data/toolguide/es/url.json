@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />Insertar un enlace en una página web.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Copiar y pegar una dirección de una web (es decir una URL) que comienza por http o https.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Medio fácil de dirigir al alumnado hacia recursos de interés fuera del curso, por ejemplo, un artículo.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "No de forma directa. Por ejemplo, dirigir al alumnado a un portafolio o a un blog.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Podría ser. Por ej. enlace a herramientas externas como blogs, wikis, grupos o calendarios.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Podría ser. Enlace a herramientas externas como blogs, wikis o Etherpad.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Puede cumplir todos los niveles, en función de adónde enlazamos.",
+    "style": "neutral"
+  }
+]

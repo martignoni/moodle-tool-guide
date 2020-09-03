@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Archivo</strong><br />Publicar un archivo único",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Como adjuntar un archivo en un correo. Pero, ¿tiene sentido este archivo por sí solo?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Sí. Únicamente el profesorado puede publicar contenido. Se trata por lo ta tanto de una herramienta unilateral.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Podría ser. A utilizar para plantear una actividad. Recuperar los archivos del alumnado a través del Foro o de una Tarea.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "No. Es una herramienta de distribución. No hay opción de interacción.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Podría ser. A utilizar para plantear una actividad. Recuperar los archivos del alumnado a través del Foro o de una Tarea.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "Ninguna. No es una actividad de aprendizaje.",
+    "style": "bad"
+  }
+]

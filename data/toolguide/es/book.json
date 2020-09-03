@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Libro</strong><br />Crear una serie de páginas con capítulos y sub-capítulos",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil, como un conjunto de páginas en un procesador de textos, añadiendo multimedia si es necesario.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Sí, ideal para transmitir información de una forma estructurada.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Podría ser. Depende del contenido. Por ej. un texto a leer seguido de un cuestionario.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Podría ser. Depende del contenido. Por ej. un texto a leer seguido de un cuestionario.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Podría ser. Depende del contenido. Por ej. un texto a leer sobre el que realizar un reflexión conjunta.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Recordar, comprender, aplicar, analizar.",
+    "style": "neutral"
+  }
+]
