@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Cuestionario</strong><br />Utilizar para la evaluación del aprendizaje, formativa o sumativa. Evaluación automática",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Compleja y lleva tiempo. Configura el cuestionario y después añadir preguntas. Utiliza el banco de preguntas.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "No. el cuestionario está orientado a la evaluación. No es un instrumento de distribución de contenido.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Muchos tipos diferentes de preguntas. Los cuestionarios pueden tener restricciones de tiempo y seguridad. También pueden usarse para auto-diagnóstico.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Utilizar el Foro en su lugar.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Utlizar el Foro o Wiki en su lugar.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permite evaluar los seis niveles si se usa con creatividad.",
+    "style": "neutral"
+  }
+]

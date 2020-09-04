@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Chat</strong><br />Mantener discusiones textuales en tiempo real",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil, como Messenger o iMessage. Requiere algún esfuerzo para moderar.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Utilizar con ponentes externos. Gran cantidad de mensajes rápidos. Riesgo de falta de interacción.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "El chat es versátil. Puede ser usado en evaluación de actividades formativas.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Sí. Debates, sesiones de revisión en grupos pequeños y sesiones de preguntas y respuestas.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Sí. El alumnado puede colaborar y explorar temas, discutir sobre ello y escribir de forma conjunta.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permite evaluar los seis niveles en tiempo real.",
+    "style": "good"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Foro</strong><br />Promueve el debate: argumentación, reporte, juegos de rol, noticias análisis, listas de ideas, etc.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. El foro tiene una configuración por defecto adecuada. Un nombre y una descripción son suficientes.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Compartir información a través de enlaces o adjuntos. Riesgo de pérdida de información si el volumen de mensajes es alto.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "El Foro es versátil y permite la evaluación de actvidades.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Sí. El alumnado interactúa contigo y con el resto de participantes. En grupos o con el conjunto de participantes.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Sí. El alumnado puede colaborar y explorar temas, discutir sobre ello y escribir de forma conjunta.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Comprender, aplicar, analizar, evaluar, crear.",
+    "style": "good"
+  }
+]

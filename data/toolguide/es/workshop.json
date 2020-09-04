@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Taller</strong><br />Recoge, evalúa y gestiona la evaluación por pares de los trabajos",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Complejo, requiere planificación y tiempo. Deben especificarse las mecánicas de evaluación y de entregas.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "No, es mejor utlizar otra herramienta para esto.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Sí, permite la evaluación por pares supervisada por el profesorado.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Permite retroalimentación, pero en conjunto las interacciones son limitadas.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Sí, utilizar en tareas de grupo con el objetivo de evaluar un trabajo.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permite evaluar los seis niveles si se usa con creatividad.",
+    "style": "neutral"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Tarea</strong><br />Utilizar para proponer, recoger y evaluar tareas",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Escoger entre dos tipos. Están disponibles las tareas online y offline.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "No. Sin embargo se puede incluir información complementaria para su realización.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "No. Solo permite interacciones limitadas entre profesorado y alumnado.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Sí. Permite la realización de trabajos en grupo.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Yes. Allows to do group assignments.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />De forma indirecta. Depende del diseño de la tarea.",
+    "style": "good"
+  }
+]
