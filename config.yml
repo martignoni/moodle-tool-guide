@@ -41,6 +41,7 @@ params:
 languages:
   en:
     languageName: English
+    weight: 1
     title: Moodle Tool Guide
     slogan: Moodle Tool Guide for teachers and educators
     description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
@@ -61,7 +62,6 @@ languages:
 
 
       An idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz) of [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Adapted by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), based on work by [Gavin Henrick](https://twitter.com/ghenrick).'
-    weight: 1
     menu:
       main:
         - url: /
@@ -77,6 +77,7 @@ languages:
 
   fr:
     languageName: Français
+    weight: 2
     title: Guide des outils Moodle
     slogan: Guide des outils Moodle pour enseignant·es et formateur·trices
     description: "Guide des outils Moodle : un aide-mémoire pour l'utilisation de Moodle version 3 et ultérieures, destiné aux enseignantes et enseignants et aux formatrices et formateurs."
@@ -96,7 +97,6 @@ languages:
 
 
       Une idée de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de l'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), traduite en français et adaptée par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) avec des contributions de Fabien Balli."
-    weight: 2
     menu:
       main:
         - url: /
@@ -112,6 +112,7 @@ languages:
 
   it:
     languageName: Italiano
+    weight: 3
     title: Guida agli strumenti Moodle
     slogan: Guida agli strumenti Moodle per insegnanti e formatori
     description: "Guida agli strumenti Moodle: un promemoria per l'utilizzo di Moodle versione 3 e successive, destinato a insegnanti e formatori."
@@ -132,7 +133,6 @@ languages:
 
 
       Un'idea di [Joyce Seitzinger](https://twitter.com/catspyjamasnz) del'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), aggiornata da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) e tradotta in italiano da [Luca Confortola](https://twitter.com/ConfortolaLuca)."
-    weight: 3
     menu:
       main:
         - url: /
@@ -148,7 +148,8 @@ languages:
 
   de:
     languageName: Deutsch
-    title: Moodle Werzeuge für Lehrpersonen
+    weight: 4
+    title: Moodle-Werkzeuge für Lehrpersonen
     slogan: Moodle-Werkzeuge für Lehrpersonen und Trainer
     description: 'Moodle-Werkzeuge für Lehrpersonen: Eine Kurzanleitung für Lehrpersonen und Trainer zur Verwendung von Moodle Version 3 und neuer.'
     keywords:
@@ -162,13 +163,15 @@ languages:
     - Moodle Guide for teachers
     - Moodle Guide for instructors
     - Moodle Guide for trainers
+    - Moodle-Werkzeuge für Lehrpersonen
+    - Moodle-Werkzeuge für Trainer
+    - Moodle-Werkzeuge für Lehrpersonen und Trainer
     contentDir: content/de
     date_format: 2. January 2006
     copyright: 'Angeboten von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Die Website __[moodletoolguide.net](https://moodletoolguide.net)__ ist lizenziert unter einer [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz.
 
 
       Eine Idee von [Joyce Seitzinger](https://twitter.com/catspyjamasnz) von [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), auf deutsch von [Ralf Hilgenstock](https://twitter.com/ralfh), Susanne Gebauer und Gerald Hartwig übertragt. Angepasst von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/).'
-    weight: 4
     menu:
       main:
         - url: /
@@ -184,6 +187,7 @@ languages:
 
   eu:
     languageName: Euskara
+    weight: 6
     title: Moodleko Tresnen Gida
     slogan: Moodleko Tresnen Gida irakasle eta hezitzaileentzat
     description: 'Moodleko Tresnen Gida: 3 edo bertsio berriago bat erabiltzeko irakasle, hezitzaile eta trebatzaileentzat diseinatutako erreferentziazko taula da.'
@@ -204,7 +208,6 @@ languages:
 
 
       Tresna hau [Eastern Institute of Technology](https://www.eit.ac.nz/)-ko (Zeelanda Berria) [Joyce Seitzinger](https://twitter.com/catspyjamasnz)-en ideia izan zen, 2020ko maiatzean Moodle 3.x-erako [Nicolas Martignoni][nm]-ek egokitua eta [Iñigo Zendegi](https://moodle.org/user/profile.php?id=709961)k euskaratua.'
-    weight: 5
     menu:
       main:
         - url: /
@@ -220,6 +223,7 @@ languages:
 
   pt-br:
     languageName: Português do Brasil
+    weight: 7
     title: Guia de Ferramentas Moodle
     slogan: Guia de Ferramentas Moodle para Professores e Educadores
     description: "Guia de Ferramentas Moodle: Um Guia de Referência Rápida para professores e educadores usarem o Moodle versão 3 e posterior."
@@ -239,7 +243,6 @@ languages:
 
 
       Baseado na ideia de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) do [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), traduzido e adaptado para Português do Brasil por [Gilvan Marques](https://twitter.com/gmarques)."
-    weight: 6
     menu:
       main:
         - url: /
@@ -255,6 +258,7 @@ languages:
 
   pt-pt:
     languageName: Português
+    weight: 8
     title: Guia de Ferramentas do Moodle
     slogan: Guia de ferramentas do Moodle para professores e formadores
     description: "Guia de Ferramentas do Moodle: um guia rápido sobre a utilização do Moodle, versão 3 e posteriores, destinado a professores e formadores."
@@ -274,7 +278,6 @@ languages:
 
 
       Baseado na ideia de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) do [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), traduzido e adaptado para português por [Maria João](https://twitter.com/etutoria)."
-    weight: 7
     menu:
       main:
         - url: /

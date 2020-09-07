@@ -1,3 +1,3 @@
 ---
-title: Moodle Werzeuge für Lehrpersonen
+title: Moodle-Werkzeuge für Lehrpersonen
 ---
