@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Base de datos</strong><br />Perrmite al alumnado recopilar, compartir y consultar las aportaciones",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Complejo de configurar. Es recomendable definir la finalidad antes de usarlo.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Puede ser usado por el profesorado para presentar información, pero es mejor dejar al alumnado que haga las aportaciones.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "La base de datos es versátil y permite la evaluación. Es importante diseñar adecuadamente la actividad de aprendizaje.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "No adecuado para debate. El alumnado puede comentar o valorar las aportaciones de sus pares.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "El alumnado puede compartir contenido y se podrán hacer búsquedas sobre el mismo. Permite crear un repertorio compartido de recursos.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permiten evaluar los seis niveles si se estructuran los conocimientos.",
+    "style": "good"
+  }
+]

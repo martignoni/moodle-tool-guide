@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Encuesta</strong><br />Recoge información del alumnado sobre cualquier tema",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil pero requiere tiempo. Primero hay que establecer la configuración y después añadir las preguntas.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "No. La encuesta no es una herramienta de distribución.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Sí. Para que el alumnado auto-evalúe sus conocimientos antes y después de una actividad.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No. Solo permite la comunición unilateral del alumnado al profesorado.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. Es una actividad individual.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Permite evaluar los seis niveles si se usa con creatividad.",
+    "style": "neutral"
+  }
+]

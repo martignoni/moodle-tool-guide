@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Glosario</strong><br />Recopilar y ordenar recursos e información",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. La configuración por defecto es adecuada. Establecer el formato adecuado para mostrar los nombres de quienes han realizado las aportaciones.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Usa el glosario para definir términos o presentar información. Mejor usado si es el alumnado quien realiza las aportaciones.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "El glosario es versátil y permite evaluación. Diseñar una actividad de aprendizaje adecuada.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "No adecuado para debate. El alumnado puede comentar o valorar las aportaciones de sus pares.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Sí. La clase reúne recursos compartidos. Cada autor/a puede editar sus propias entradas.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Comprender, Aplicar, Analizar, Evaluar, Crear.",
+    "style": "good"
+  }
+]

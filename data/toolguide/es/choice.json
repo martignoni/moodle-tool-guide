@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Consulta</strong><br />Permite a los estudiantes votar, escoger temas. Para realizar sondeos",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Fácil. Definir las opciones y si se desea limitar el número de votos por opción.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "No. La consulta no es una herramienta de distribución.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Para evaluar de forma rápida la comprensión a través de una pregunta de opción múltiple.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "No, usar el Foro o el Chat en su lugar.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "No. usar Foro, Glosario o Wiki en su lugar.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Requiere ser creativo en su uso.",
+    "style": "neutral"
+  }
+]
