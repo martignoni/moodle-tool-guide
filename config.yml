@@ -258,7 +258,7 @@ languages:
           weight: 2
 
   pt-br:
-    languageName: Português do Brasil
+    languageName: Português (Brasil)
     weight: 7
     title: Guia de Ferramentas Moodle
     slogan: Guia de Ferramentas Moodle para Professores e Educadores
