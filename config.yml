@@ -185,6 +185,42 @@ languages:
           name: github
           weight: 2
 
+  es:
+    languageName: Español
+    weight: 5
+    title: Guía de las herramientas de Moodle
+    slogan: Guía de las herramientas de Moodle para docentes y formadores
+    description: ""
+    keywords:
+    - Moodle
+    - herramientas de Moodle
+    - Guía de las herramientas de Moodle
+    - Herramientas de Moodle para docentes
+    - Herramientas de Moodle para formadores
+    - Guía de las herramientas de Moodle para docentes
+    - Guía de las herramientas de Moodle para formadores
+    - Guía de Moodle
+    - Guía de Moodle para docentes
+    - Guía de Moodle para formadores
+    contentDir: content/pt-pt
+    date_format: 2 January 2006
+    copyright: "Ofertado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – El sitio web __[moodletoolguide.net](https://moodletoolguide.net)__ tiene una licencia [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+      Una idea de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de la [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), Traducido y adaptado al castellano por [Ramón Ovelar](https://moodle.org/user/profile.php?id=13611)."
+    menu:
+      main:
+        - url: /
+          name: Home
+          weight: 1
+        - url: /about/
+          name: About
+          weight: 2
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
+
   eu:
     languageName: Euskara
     weight: 6
