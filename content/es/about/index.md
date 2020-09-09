@@ -1,15 +1,15 @@
 ---
-title: About
-description:
+title: Acerca de
+description: ¿Qué es la Guía de las Herramientas de Moodle?
 ---
 
-_Guia de Ferramentas Moodle_ é um painel de referência para o uso do [Moodle][moodle] versão 3 e posterior, desenvolvido para professores e educadores. Ele fornece informações sobre as principais ferramentas do Moodle e qual ferramenta usar de acordo com o objetivo pedagógico a ser alcançado. Também menciona os níveis da [Taxonomia de Bloom][bloom] que podem ser alcançados ao usar as diferentes ferramentas.
+Le _Guía de las Herramientas de Moodle_ es un documento de referencia para usar [Moodle][moodle] en la versión 3 o posteriores, y está diseñada para profesore/as, educadore/as y formadore/as. Ofrece información sobre las herramientas principales de Moodle y sobre qué herramienta utilizar en función del objetivo pedagógico que se persigue. También se indican [los niveles de la taxonomía de Bloom][bloom] que  pueden alcanzarse usando las diferentes herramientas.
 
-Esse trabalho é uma ideia de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) do [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado em Maio de 2020 para o Moodle 3.x por [Nicolas Martignoni][nm], traduzido e adaptado para Português do Brasil por [Gilvan Marques](https://twitter.com/gmarques).
+Es una idea de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) del [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), actualizado en mayo 2020 para Moodle 3.x por [Nicolas Martignoni][nm], traducido al castellano por [Ramón Ovelar](https://moodle.org/user/profile.php?id=13611).
 
-O Guia de Ferramentas Moodle está licenciado pela [Creative Commons BY-NC-SA 4.0 International][cc].
+La Guía de las Herramientas de Moodle se publica con una licencia [Creative Commons BY-NC-SA 4.0 International][cc].
 
-Este site é mantido por [Nicolas Martignoni][nm]. Requer o uso de um [navegador atualizado][browser].
+Este sitio web está ofrecido por [Nicolas Martignoni][nm]. Precisa la utilización de un [navegador actualizado][browser].
 
  [moodle]: https://moodle.org/
  [bloom]: https://es.wikipedia.org/wiki/Taxonom%C3%ADa_de_objetivos_de_la_educaci%C3%B3n
