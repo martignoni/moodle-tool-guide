@@ -1,0 +1,39 @@
+name: Hugo CI & deploy
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Build and deploy website
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: ${{ env.HUGO_RELEASE }}
+          extended: true
+        env:
+          HUGO_RELEASE: '0.74.3'
+      - name: Check Hugo installation
+        run: hugo env
+      - name: Build website with Hugo
+        run: hugo --minify --i18n-warnings
+      - name: Deploy website with rsync
+        uses: burnett01/rsync-deployments@4.1
+        with:
+          switches: -avzr --quiet --delete
+          path: public/
+          remote_path: ${{ secrets.DEPLOY_DIRECTORY }}
+          remote_host: ${{ secrets.DEPLOY_HOST }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
