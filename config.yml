@@ -326,3 +326,40 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+
+  zh:
+    languageName: 中文
+    weight: 9
+    title: Moodle Tool Guide
+    slogan: Moodle Tool Guide for teachers and educators
+    description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+    keywords:
+    - Moodle
+    - Moodle Tools
+    - Moodle Tools Guide
+    - Moodle Tool Guide
+    - Moodle Tool Guide for teachers
+    - Moodle Tools for teachers
+    - Moodle Guide
+    - Moodle Guide for teachers
+    - Moodle Guide for instructors
+    - Moodle Guide for trainers
+    contentDir: content/zh
+    date_format: January 2, 2006
+    copyright: 'Provided by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – The website __[moodletoolguide.net](https://moodletoolguide.net)__ is licensed under a [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
+
+
+      An idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz) of [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Adapted by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/). Chinese translation contributed by Klaus-Juergen Brix.'
+    menu:
+      main:
+        - url: /
+          name: Home
+          weight: 1
+        - url: /about/
+          name: About
+          weight: 2
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
+
