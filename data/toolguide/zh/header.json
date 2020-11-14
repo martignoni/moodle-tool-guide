@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "text": "Ease of use / Pedagogical Goal<span class=\"flush-right\">→</span>",
+    "text": "简洁 / 学习目标<span class=\"flush-right\">→</span>",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "是否简便",
+    "style": "header-strong"
+  }, {
+    "id": "3",
+    "text": "信息传输",
+    "style": "header-strong"
+  }, {
+    "id": "4",
+    "text": "评估",
+    "style": "header-strong"
+  }, {
+    "id": "5",
+    "text": "交流与互动",
+    "style": "header-strong"
+  }, {
+    "id": "6",
+    "text": "共同创建内容",
+    "style": "header-strong"
+  }, {
+    "id": "7",
+    "text": "布鲁姆认知分类",
+    "style": "header-strong"
+  }
+]

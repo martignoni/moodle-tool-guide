@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "工具 ↓",
+    "style": "header tool"
+  }, {
+    "id": "2",
+    "text": "调整简便、快速",
+    "style": "header"
+  }, {
+    "id": "3",
+    "text": "用来传递信息的工具",
+    "style": "header"
+  }, {
+    "id": "4",
+    "text": "用来记录知识掌握程度的工具",
+    "style": "header"
+  }, {
+    "id": "5",
+    "text": "用来进行交流与互动的 工具",
+    "style": "header"
+  }, {
+    "id": "6",
+    "text": "合作共创内容的工具",
+    "style": "header"
+  }, {
+    "id": "7",
+    "text": "<ul><li>记忆</li><li>理解</li><li>应用</li><li>分析</li><li>评价</li><li>创造</li></ul>",
+    "style": "header"
+  }
+]

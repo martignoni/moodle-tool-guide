@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />添加玩野链接",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "快速找到网址 (alias URL) 并添加。",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "便于将外部信息提供给学生。",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "不能直接用于评估。仅用来链接到外部活动，如学院的电子文件夹或日志。",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "可以链接到外部工具，如日历、日志、维基。",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "可以链接到外部工具，如在线协作编辑器、维基或日志。",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />根据所链接网页的内容。",
+    "style": "neutral"
+  }
+]
