@@ -24,8 +24,19 @@ jobs:
           extended: true
         env:
           HUGO_RELEASE: '0.74.3'
-      - name: Check Hugo installation
-        run: hugo env
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: Run Node
+        run: npm ci
       - name: Build website with Hugo
         run: hugo --minify --i18n-warnings
       - name: Deploy website with rsync
