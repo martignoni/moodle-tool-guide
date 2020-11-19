@@ -331,7 +331,7 @@ languages:
     languageName: 中文
     weight: 9
     title: Moodle Tool Guide
-    slogan: Moodle Tool Guide for teachers and educators
+    slogan: 提供给老师和教育者们的Moodle工具指南
     description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
     keywords:
     - Moodle
@@ -346,10 +346,9 @@ languages:
     - Moodle Guide for trainers
     contentDir: content/zh
     date_format: January 2, 2006
-    copyright: 'Provided by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – The website __[moodletoolguide.net](https://moodletoolguide.net)__ is licensed under a [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
+    copyright: '本网页 moodletoolguide.net 由[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)开发提供。网页经[知识共享许可协议CC BY-NC-SA 4.0许可](https://creativecommons.org/licenses/by-nc-sa/4.0/)。
 
-
-      An idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz) of [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Adapted by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/). Chinese translation contributed by Klaus-Jürgen Brix.'
+      本网页由[东部理工学院的](https://www.eit.ac.nz/)[Joyce Seitzinger](https://twitter.com/catspyjamasnz)创意，由[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)改编。中文翻译由Klaus Jürgen Brix提供。'
     menu:
       main:
         - url: /

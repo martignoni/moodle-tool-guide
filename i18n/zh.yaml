@@ -26,13 +26,13 @@
   translation: "布鲁姆认知分类"
 # Legend
 - id: Legend
-  translation: "Legend"
+  translation: "图例"
 - id: Good
-  translation: "Great fit and easy"
+  translation: "完全适用"
 - id: Neutral
-  translation: "Can work with some design"
+  translation: "可以利用"
 - id: Bad
-  translation: "Not the best tool for the job"
+  translation: "不适合"
 # Colors
 - id: Green
   translation: "绿色"
@@ -42,14 +42,14 @@
   translation: "红"
 # Footer
 - id: CreditsTitle
-  translation: "Credits and license"
+  translation: "授权与许可"
 - id: EnableDefaultColors
-  translation: "Use default colors"
+  translation: "采用默认颜色"
 - id: EnableAccessibleColors
-  translation: "Enable accessible colors"
+  translation: "采用替代颜色"
 - id: SupportTitle
-  translation: "Support with a donation"
+  translation: "支持与资助"
 - id: SupportText
-  translation: "Make a donation now ❤️ to support the Moodle Tool Guide website."
+  translation: "期待您为支持Moodle网页的开发提供一份爱心。 ❤️ "
 - id: DonateNow
-  translation: "Donate now!"
+  translation: "提供资助"
