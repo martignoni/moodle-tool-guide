@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Woordenlijst</strong><br />Verzamelen van bronnen of het verzamelen van informatie.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Makkelijk. De standaardinstellingen zijn goed. Stel het weergaveformaat in om de naam van de auteur te tonen.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Gebruik een woordenlijst om termen te definiëren of om informatie te presenteren. Beter nog, laat de leerlingen er aan toevoegen.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Woordenlijst is veelzijdig en maakt evaluatie mogelijk. Ontwerp de juiste leeractiviteit.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Niet geschikt voor discussies. Leerlingen kunnen andere inzendingen lezen en commentaar geven of beoordelen.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Ja. De klas kan beoordelingen, bronnen, etc. verzamelen. De oorspronkelijke auteur kan de inzending bewerken.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Begrijpen, toepassen, analyseren, evalueren, creëren.",
+    "style": "good"
+  }
+]

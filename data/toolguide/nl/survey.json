@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Onderzoek</strong><br />Verzamel gegevens van leerlingen over de lessen in de cursus",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Makkelijk. Kies uit 3 types om Attitudes, Incidenten en Constructivisme te beoordelen.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Nee. Het onderzoek is geen distributiemiddel.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Niet direct. Gebruikt voor het verzamelen van feedback om de cursus te helpen verbeteren.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Nee. Er is maar één manier om te communiceren van leerling naar leraar..",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Nee. Dit is een individuele activiteit.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "2 / 6<br />Indirect. Helpt de leerling het leren te analyseren en te evalueren.",
+    "style": "neutral"
+  }
+]

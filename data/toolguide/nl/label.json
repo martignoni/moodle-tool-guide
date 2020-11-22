@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Label</strong><br />Tekst en multimedia invoegen",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Gemakkelijk, verbeter de layout van de cursuspagina's.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ja. Alleen leraren kunnen inhoud invoegen. Dus zeker een push-tool.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Niet direct. Te gebruiken om een taak te beschrijven of informatie door te geven.",
+    "style": "bad"
+  }, {
+    "id": "5",
+    "text": "Nee. Het is een distributiemiddel. Geen optie voor interactie.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Niet direct. Te gebruiken om een taak te beschrijven of informatie door te geven.",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "Geen enkele. Dit is geen leeractiviteit.",
+    "style": "bad"
+  }
+]

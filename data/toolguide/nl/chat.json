@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Chat</strong><br />Houd realtime chatdiscussies",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Makkelijk, net als Messenger of iMessage. Vereist enige moeite om.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Te gebruiken voor uitgenodigde sprekers. Hoge snelheidsboodschap volume. Risico van niet-interactie.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Chat is veelzijdig. Kan worden gebruikt bij formatieve beoordelingsactiviteiten.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Ja. Houd debatten, kleine groepsreview sessies en houd een drop-in sessie voor vragen en antwoorden.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Ja. Studenten kunnen samenwerken en onderwerpen onderzoeken, bespreken en samen schrijven.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Hiermee kan u de zes niveaus in realtime testen.",
+    "style": "good"
+  }
+]

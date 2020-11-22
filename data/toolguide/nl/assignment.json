@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Opdracht</strong><br />Te gebruiken voor het verzamelen, beoordelen en geven van feedback op opdrachten",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Eenvoudig. Kies uit twee soorten. Zowel online als offline opdrachten zijn mogelijk.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Nee. Kan echter contextuele inhoud voor de opdracht bevatten.",
+    "style": "bad"
+  }, {
+    "id": "4",
+    "text": "Ja. Stel de einddatum en de hoogste score in. Verzamel opdrachten en geef feedback.",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Nee. Laat slechts een zeer beperkte interactie toe tussen de leraar en de leerlingen.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Ja. Maakt het mogelijk om groepsopdrachten te doen.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Indirect. Afhankelijk van het ontwerp van je opdracht.",
+    "style": "good"
+  }
+]
