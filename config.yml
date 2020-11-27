@@ -362,3 +362,41 @@ languages:
           name: github
           weight: 2
 
+ nl:
+    languageName: Nederlands
+    weight: 10
+    title: Moodle Gereedschapsgids
+    slogan: Moodle Gereedschapsgids voor onderwijzers en trainers
+    description: 'Moodle Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van Moodle versie 3 en nieuwer.'
+    keywords:
+    - Moodle
+    - Moodle Gereedschappen
+    - Moodle Gereedschapsgids
+    - Moodle Gereedschap Gids
+    - Moodle Gereerdschap Gids voor onderwijzers
+    - Moodle Gereedschap voor docenten
+    - Moodle Gids
+    - Moodle Gids voor leraren
+    - Moodle Gids voor docenten
+    - Moodle Gids voor trainers
+    - Moodle Gereedschapsgids voor onderwijzers
+    - Moodle Gereedschapsgids voor leraren
+    - Moodle Gereedschapsgids voor Onderwijzers en Leraren
+    contentDir: content/nl
+    date_format: 2 January 2006
+    copyright: 'Aangeboden door [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) - De website __[moodletoolguide.net](https://moodletoolguide.net)__ heeft een licentie van [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+      Een idee van [Joyce Seitzinger](https://twitter.com/catspyjamasnz) van [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), aangepast door [Nicolas Martignoni](https://blog.martignoni.net/a-propos/). Vertaald naar het Nederlands door [Kathrien Bernaerts (Toll-Net)](https://twitter.com/kbernaerts) en [Gemma Lesterhuis (Stichting Mnet Benelux)] https://twitter.com/BeneluxMnet. '
+    menu:
+      main:
+        - url: /
+          name: Home
+          weight: 1
+        - url: /about/
+          name: Over
+          weight: 1
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
