@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Tool ↓",
+    "style": "header tool"
+  }, {
+    "id": "2",
+    "text": "Eenvoudig en snel zelf op te zetten?",
+    "style": "header"
+  }, {
+    "id": "3",
+    "text": "Een hulpmiddel voor het verspreiden van informatie van jouw naar je leerlingen?",
+    "style": "header"
+  }, {
+    "id": "4",
+    "text": "Zal deze tool je in staat stellen om het leren van je leerlingen te beoordelen?",
+    "style": "header"
+  }, {
+    "id": "5",
+    "text": "Kan het gebruikt worden voor communicatie en interactie tussen de deelnemers?",
+    "style": "header"
+  }, {
+    "id": "6",
+    "text": "Kunnen jij en je leerlingen samenwerken en samen inhoud creëren?",
+    "style": "header"
+  }, {
+    "id": "7",
+    "text": "<ul><li>Onthoud</li><li>Begrijp</li><li>Toepassen</li><li>Analyseren</li><li>Evalueren</li><li>Create</li></ul>",
+    "style": "header"
+  }
+]

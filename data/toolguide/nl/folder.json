@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Map</strong><br />Upload meerdere bestanden in een map.",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Gemakkelijk, zoals e-mailbijlagen. Maar kunnen je documenten op zichzelf staan?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ja. Alleen leraren kunnen een map met bestanden uploaden. Dus zeker een push-tool.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Misschien. Gebruiken om taak te geven. Verzamel bestanden van leerlingen via Forum of Opdracht.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Nee. Het is een distributiemiddel. Geen optie voor interactie of communicatie.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Misschien. Gebruiken om taak te geven. Verzamel bestanden van leerlingen via Forum of Opdracht.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "Geen. Dit is geen leeractiviteit, maar overdracht van informatie.",
+    "style": "bad"
+  }
+]

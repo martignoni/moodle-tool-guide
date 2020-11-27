@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Wiki</strong><br />Maak de creatie van collaboratieve pagina's mogelijk, zoals Wikipedia",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Lastig. Beslis over individuele en groepsinstellingen. Kan moeilijk te beheersen zijn.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Ja. Laat het bewerken alleen toe door leraar of door een andere deelnemer.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Wiki is veelzijdig en maakt evaluatie mogelijk, bijvoorbeeld het ontwerpen van een formatieve beoordelingsactiviteit.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Niet geschikt voor discussies. Gebruik in brainstorm, planning, collaboratief schrijven, enz..",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Ja. Leerlingen kunnen samenwerken en onderwerpen onderzoeken, bespreken en samen schrijven..",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Begrijpen, Toepassen, Analyseren, Evalueren, Creëren.",
+    "style": "good"
+  }
+]

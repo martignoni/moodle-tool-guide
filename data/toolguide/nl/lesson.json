@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Les</strong><br />Te gebruiken om flexibel vertakte info te presenteren, met testen",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Kan lastig zijn om op te zetten. Zorg ervoor dat je de les eerst plant. Het is de moeite waard.",
+    "style": "neutral"
+  }, {
+    "id": "3",
+    "text": "Geweldig om informatie op een vertakte, geleide manier te presenteren. Implementeer adaptief leren.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Ja. Maakt het mogelijk om te sorteren. Gebruik als vertakte test, scenario, casestudie, rollenspel....",
+    "style": "good"
+  }, {
+    "id": "5",
+    "text": "Nee. Dit is een individuele activiteit, geen groepsactiviteit..",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Nee. Dit is een individuele activiteit, geen groepsactiviteit..",
+    "style": "bad"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Laat je toe om de zes niveaus te testen door creatief te zijn.",
+    "style": "neutral"
+  }
+]
