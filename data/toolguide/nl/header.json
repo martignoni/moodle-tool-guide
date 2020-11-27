@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "Gebruikersvriendelijkheid / Pedagogisch doel<span class=\"flush-right\">→</span>",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Gebruikersvriendelijk",
+    "style": "header-strong"
+  }, {
+    "id": "3",
+    "text": "Informatieoverdracht",
+    "style": "header-strong"
+  }, {
+    "id": "4",
+    "text": "Beoordeling van het leren",
+    "style": "header-strong"
+  }, {
+    "id": "5",
+    "text": "Communicatie & interactie",
+    "style": "header-strong"
+  }, {
+    "id": "6",
+    "text": "Co-creatie inhoud",
+    "style": "header-strong"
+  }, {
+    "id": "7",
+    "text": "Bloom's Taxonomie",
+    "style": "header-strong"
+  }
+]

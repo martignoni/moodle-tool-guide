@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Database</strong><br />Leerlingen in staat stellen om gecreëerde artefacten te verzamelen, te delen en te zoeken",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Lastig op te zetten. Weet wat je wilt voordat je gaat bouwen.",
+    "style": "bad"
+  }, {
+    "id": "3",
+    "text": "Kan worden gebruikt voor de leraar om informatie te presenteren, maar beter om de leerlingen zal te laten toe te voegen.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Database is veelzijdig en maakt evaluatie mogelijk. Ontwerp de juiste leeractiviteit.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Niet geschikt voor discussies. Leerlingen kunnen commentaar geven of andere inzendingen beoordelen.",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Leerlingen kunnen de inhoud op een doorzoekbare manier delen. Creëer gezamenlijke collecties.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "6 / 6<br />Maakt het mogelijk om de zes niveaus te testen, door de kennis te structureren.",
+    "style": "good"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Pagina</strong><br />Maak een webpagina",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Gemakkelijk, net als een tekstverwerkingpagina, met toevoeging van multimedia als dat nodig is.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Eenvoudige manier om informatie te verstrekken aan leerlingen.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Misschien. Hangt af van de inhoud. Bv. tekst te lezen, gevolgd door een test..",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Misschien. Hangt af van de inhoud. Bv. tekst te lezen, gevolgd door een test..",
+    "style": "neutral"
+  }, {
+    "id": "6",
+    "text": "Misschien. Hangt af van de inhoud. Bijv. tekst waarover een gemeenschappelijke discussie moet worden gevoerd.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "4 / 6<br />Onthoud, begrijp, pas toe, analyseer.",
+    "style": "neutral"
+  }
+]

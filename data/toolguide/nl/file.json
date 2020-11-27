@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Bestand</strong><br />Upload 1 bestand",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Gemakkelijk, als een e-mailbijlage. Maar kan je document op zichzelf staan?",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Ja. Alleen leraren kunnen bestanden uploaden naar de site van de cursus. Dus zeker een push-tool.",
+    "style": "good"
+  }, {
+    "id": "4",
+    "text": "Misschien. Gebruiken om taak te geven. Verzamel bestanden van leerlingen via Forum of Opdracht.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Nee. Het is een distributiemiddel. Geen optie voor interactie.",
+    "style": "bad"
+  }, {
+    "id": "6",
+    "text": "Misschien. Gebruiken om taak te geven. Verzamel bestanden van leerlingen via Forum of Opdracht.",
+    "style": "neutral"
+  }, {
+    "id": "7",
+    "text": "Geen enkele. Dit is geen leeractiviteit.",
+    "style": "bad"
+  }
+]

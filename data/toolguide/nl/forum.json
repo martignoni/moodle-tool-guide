@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Forum</strong><br />Bevorderen van discussie: debatten, verslaggeving, rollenspel, nieuwsanalyse, ideeënlijsten, enz..",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "Rustig aan. Een forum heeft adequate standaardinstellingen. Een naam en beschrijving is voldoende.",
+    "style": "good"
+  }, {
+    "id": "3",
+    "text": "Deel bronnen als links of bestanden. Risico op verlies van informatie bij een hoog berichtvolume.",
+    "style": "neutral"
+  }, {
+    "id": "4",
+    "text": "Een forum is veelzijdig en maakt het mogelijk een beoordelingsactiviteit te ontwerpen.",
+    "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Ja. Leerlingen communiceren met jouw en hun leeftijdsgenoten. Interactie als een klas of in groepen.",
+    "style": "good"
+  }, {
+    "id": "6",
+    "text": "Ja. Leerlingen kunnen samenwerken en onderwerpen onderzoeken, bespreken en samen schrijven.",
+    "style": "good"
+  }, {
+    "id": "7",
+    "text": "5 / 6<br />Begrijpen, toepassen, analyseren, evalueren, creëren.",
+    "style": "good"
+  }
+]

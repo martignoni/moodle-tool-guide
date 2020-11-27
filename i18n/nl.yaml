@@ -1,0 +1,55 @@
+# Column header strings
+- id: Resources
+  translation: "Bronnen"
+- id: Activities
+  translation: "Activiteiten"
+- id: Inform
+  translation: "Informeren"
+- id: InformEvaluate
+  translation: "Informeren en Evalueren"
+- id: ShareData
+  translation: "Uitwisselen van gegevens "
+- id: IdentifyTrends
+  translation: "Identificieren van Trends"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Gemakkelijk"
+- id: Transfer
+  translation: "Informatie overdracht"
+- id: Evaluation
+  translation: "Evalueer"
+- id: Interaction
+  translation: "Interactie"
+- id: Creation
+  translation: "Creëer"
+- id: BloomLevels
+  translation: "Bloom's levels"
+# Legend
+- id: Legend
+  translation: "Legenda"
+- id: Good
+  translation: "Past goed en gemakkelijk"
+- id: Neutral
+  translation: "Kan werken met trucjes"
+- id: Bad
+  translation: "Niet de beste tool,complex"
+# Colors
+- id: Green
+  translation: "groen"
+- id: Yellow
+  translation: "geel"
+- id: Red
+  translation: "rood"
+# Footer
+- id: CreditsTitle
+  translation: "Credits en licentie"
+- id: EnableDefaultColors
+  translation: "Gebruik van standaard kleuren"
+- id: EnableAccessibleColors
+  translation: "Schakel toegankelijke kleuren in"
+- id: SupportTitle
+  translation: "Ondersteun met een donatie"
+- id: SupportText
+  translation: "Doneer nu ❤️ om de Moodle Gereedschapsgids website te ondersteunen."
+- id: DonateNow
+  translation: "Doneer nu!"
