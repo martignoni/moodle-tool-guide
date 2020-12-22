@@ -100,10 +100,11 @@ footer .copyright {
 #language-switch .dropdown-menu {
   min-width: 100%;
   text-align: right;
+  column-count: 2;
 }
 
 #language-switch .dropdown-menu>li>a {
-  padding-right: 15px;
+  padding: 3px 15px 0;
 }
 
 /* Table */
