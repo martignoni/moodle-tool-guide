@@ -24,7 +24,7 @@ var tour = new Tour({
   ]
 });
 
-availableLanguages = [{{ printf "'%s'" (delimit .Site.Languages "','") }}];
+availableLanguages = [{{ printf "'%s'" (delimit site.Languages "','") }}];
 // Check if browser language matches document language and language version exists.
 if (userLanguage !== document.documentElement.lang
       && availableLanguages.includes(userLanguage)) {

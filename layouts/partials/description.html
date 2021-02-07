@@ -1,7 +1,7 @@
 {{- with .Description -}}
   {{- . -}}
 {{- else -}}
-  {{- with .Site.Params.Description -}}
+  {{- with site.Params.Description -}}
     {{- . -}}
   {{- end -}}
 {{- end -}}

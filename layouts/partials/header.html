@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html lang="{{ with .Language }}{{ . }}{{ else }}{{ .Site.LanguageCode }}{{ end }}">
+<html lang="{{ with .Language }}{{ . }}{{ else }}{{ site.LanguageCode }}{{ end }}">
   <head>
     {{ partial "head-open" . }}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ .Title | default .Site.Title }}</title>
+    <title>{{ .Title | default site.Title }}</title>
     {{ hugo.Generator }}
     <meta name="generated" content="{{ now.Format "2006-01-02T15:04:05-07:00" }}">
-    {{ if .Site.Params.keywords -}}
-    <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+    {{ if site.Params.keywords -}}
+    <meta name="keywords" content="{{ delimit site.Params.keywords ", " }}">
     {{- end }}
     <meta name="description" content="{{ partial "description" . }}">
     {{ template "_internal/opengraph.html" . }}
     {{ partial "favicon" . }}
     {{ partial "css" . }}
     {{ with .OutputFormats.Get "RSS" }}
-      <link href="{{ .RelPermalink }}" rel="alternate" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
-      <link href="{{ .RelPermalink }}" rel="feed" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" />
+      <link href="{{ .RelPermalink }}" rel="alternate" type="{{ .MediaType.Type }}" title="{{ site.Title }}" />
+      <link href="{{ .RelPermalink }}" rel="feed" type="{{ .MediaType.Type }}" title="{{ site.Title }}" />
     {{ end }}
 
     {{ partial "head-close" . }}
@@ -35,24 +35,24 @@
           </button>
         </div>
         <div class="collapse navbar-collapse">
-          {{ if .Site.Menus.main }}
+          {{ if site.Menus.main }}
             <ul class="nav navbar-nav">
-              {{ range sort .Site.Menus.main }}
+              {{ range sort site.Menus.main }}
                 <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
               {{ end }}
-              {{ if .Site.Menus.icon }}
-                {{ range sort .Site.Menus.icon }}
+              {{ if site.Menus.icon }}
+                {{ range sort site.Menus.icon }}
                   <li class="navbar-icon"><a href="{{ .URL | absLangURL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
                 {{ end }}
               {{ end }}
             </ul>
           {{ end }}
-          {{ if .Site.IsMultiLingual }}
+          {{ if site.IsMultiLingual }}
             <ul class="nav navbar-nav navbar-right">
               <li id="language-switch" class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe fa-lg" aria-hidden="true"></i><span id="language-name">{{ .Language.LanguageName }}</span></a>
               <ul class="dropdown-menu">
-              {{ $siteLanguages := .Site.Languages }}
+              {{ $siteLanguages := site.Languages }}
               {{ $pageLang := .Page.Lang }}
               {{ range .Page.AllTranslations }}
                 {{ $translation := .}}

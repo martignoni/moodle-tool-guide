@@ -1,5 +1,5 @@
 <!-- highlight.js -->
-{{ if .Site.Params.highlight | default false }} <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ .Site.Params.highlightStyle | default "default" }}.min.css"> {{ end }}
+{{ if site.Params.highlight | default false }} <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ site.Params.highlightStyle | default "default" }}.min.css"> {{ end }}
 
 <!-- bootstrap -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous" />
@@ -10,11 +10,11 @@
 <!-- CSS purge and minify, see https://janaksingh.com/blog/hugo-css-concat-minify-purgecss-tutorial/ -->
 <!-- Use translations in assets, see https://discourse.gohugo.io/t/is-it-possible-to-use-translations-in-assets/20726 -->
 {{ $css_options := (dict ) }}
-{{ if .Site.IsServer }}
+{{ if site.IsServer }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" true) }}
   {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts }}
   {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts }}
-  {{ $i18nCSS := resources.Get "css/i18n.css" | resources.ExecuteAsTemplate (printf "%s/css/i18n.css" $.Site.Language) . | toCSS $cssOpts }}
+  {{ $i18nCSS := resources.Get "css/i18n.css" | resources.ExecuteAsTemplate (printf "%s/css/i18n.css" site.Language) . | toCSS $cssOpts }}
   <link href="{{ $mainCSS.Permalink }}" rel="stylesheet" type="text/css">
   <link href="{{ $customCSS.Permalink }}" rel="stylesheet" type="text/css">
   <link href="{{ $i18nCSS.Permalink }}" rel="stylesheet" type="text/css">
@@ -22,7 +22,7 @@
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" false "outputStyle" "compressed") }}
   {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts | postCSS | minify | fingerprint }}
   {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts | postCSS | minify | fingerprint }}
-  {{ $i18nCSS := resources.Get "css/i18n.css" | resources.ExecuteAsTemplate (printf "%s/css/i18n.css" $.Site.Language) . | toCSS $cssOpts | postCSS | minify | fingerprint }}
+  {{ $i18nCSS := resources.Get "css/i18n.css" | resources.ExecuteAsTemplate (printf "%s/css/i18n.css" site.Language) . | toCSS $cssOpts | postCSS | minify | fingerprint }}
   <link href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}" rel="stylesheet" type="text/css">
   <link href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}" rel="stylesheet" type="text/css">
   <link href="{{ $i18nCSS.Permalink }}" integrity="{{ $i18nCSS.Data.Integrity }}" rel="stylesheet" type="text/css">

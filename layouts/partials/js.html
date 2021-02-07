@@ -1,7 +1,7 @@
 <!-- highlight.js -->
-{{ if .Site.Params.highlight | default false }}
+{{ if site.Params.highlight | default false }}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-    {{ range .Site.Params.highlightLanguages }}
+    {{ range site.Params.highlightLanguages }}
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/{{ . }}.min.js"></script>
     {{ end }}
     <script>hljs.initHighlightingOnLoad();</script>
@@ -16,12 +16,12 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.12.0/js/bootstrap-tour.min.js" integrity="sha256-ivsfKto6+ceoECsujcAexF1hossjx7Ka2CSqCbm1l4A=" crossorigin="anonymous"></script>
 
 <!-- custom -->
-{{ $resource := .Site.Params.js }}
-{{ if $.Site.IsServer }}
-  {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate (printf "%s/%s" $.Site.Language $resource) . }}
+{{ $resource := site.Params.js }}
+{{ if site.IsServer }}
+  {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate (printf "%s/%s" site.Language $resource) . }}
   <script src="{{ $jsFile.Permalink }}"></script>
 {{ else }}
-  {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate (printf "%s/%s" $.Site.Language $resource) . | minify | fingerprint }}
+  {{ $jsFile := resources.Get $resource | resources.ExecuteAsTemplate (printf "%s/%s" site.Language $resource) . | minify | fingerprint }}
   <script src="{{ $jsFile.Permalink }}" integrity="{{ $jsFile.Data.Integrity }}"></script>
 {{ end }}
 
