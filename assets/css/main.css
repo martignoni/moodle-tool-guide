@@ -2,6 +2,13 @@
 Vars
  **/
 
+$body-color-light: #333;
+$body-color-dark: #bbb;
+$background-color-light: {{ .Site.Params.backgroundColor | default "white" }};
+$background-color-dark: #222;
+$link-hover-color-light: rgba(15, 15, 15, 1);
+$link-hover-color-dark: rgba(240, 240, 240, 1);
+
 :root {
   --accent: {{ site.Params.accent | default "#f98012" }};
   --border-width: {{ if site.Params.showBorder | default false }} 5px {{ else }} 0 {{ end }};
@@ -12,112 +19,144 @@ Begin
  **/
 
 html, body {
-    height: 100%;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, Cantarell, Oxygen, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    background-color: {{ .Site.Params.backgroundColor | default "white" }};
+  height: 100%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, Cantarell, Oxygen, Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: $body-color-light;
+  background-color: $background-color-light;
 }
 
 body {
-    padding-top: 55px;
-    display: flex;
-    text-align: center;
-    flex-direction: column;
+  padding-top: 55px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
 }
 
 main {
-    margin: auto;
-    padding: 25px;
-    flex: 1 0 auto;
-    max-width: 750px;
+  margin: auto;
+  padding: 25px;
+  flex: 1 0 auto;
+  max-width: 750px;
 }
 
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 /* 404 page */
 
 .fourohfour {
-    transform: translateY(22vh);
+  transform: translateY(22vh);
 }
 
 .fourohfour > h1 {
-    font-size: 12vh;
+  font-size: 12vh;
 }
 
 .fourohfour > h2 {
-    font-size: 3vmin;
+  font-size: 3vmin;
 }
 
 /* Page content */
 
 .content {
-    padding-top: 20px;
+  padding-top: 20px;
 }
 
 /* Profile picture */
 
 .profile {
-    width: 10vh;
-    height: 10vh;
-    border-radius: 50%;
+  width: 10vh;
+  height: 10vh;
+  border-radius: 50%;
 }
 
 /* Colored links */
 
 a:link, a:visited {
-    color: var(--accent);
+  color: var(--accent);
 }
 
 a.icon:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    color: var(--accent) !important;
+  color: var(--accent) !important;
 }
 
 /* Copyright message */
 
 .copyright {
-    margin: 15px 0;
+  margin: 15px 0;
 }
 
 /* Paginator */
 
 .pages {
-    padding: 15px 0;
+  padding: 15px 0;
 }
 
 .pages-icon {
-    padding: 0 15px;
+  padding: 0 15px;
 }
 
 /* List item for posts/projects */
 
 .item {
-    padding: 10px 0;
+  padding: 10px 0;
 }
 
 .item-tag {
-    background-color: var(--accent);
+  background-color: var(--accent);
 }
 
 /* Navigation icons */
 
 .navbar-icon {
-    font-size: 125%;
-    display: inline-block !important;
+  font-size: 125%;
+  display: inline-block !important;
 }
 
 /* Colored borders at top/bottom of page */
 
 .navbar.navbar-default {
-    border-top: var(--border-width) solid var(--accent);
+  border-top: var(--border-width) solid var(--accent);
 }
 
 footer {
-    border-bottom: var(--border-width) solid var(--accent);
-    background-color: #f8f8f8;
+  text-align: left;
+  border-bottom: var(--border-width) solid var(--accent);
+  background-color: #f3f3f3;
+}
+
+/**
+Dark mode
+ **/
+
+@media screen and (prefers-color-scheme: dark) {
+  /* Decrease the brightness and contrast of images a bit. */
+  img {
+    filter: brightness(.8) contrast(1.2);
+  }
+
+  html, body {
+    color: $body-color-dark;
+    background-color: $background-color-dark;
+  }
+
+  .navbar-default {
+    background-color: #080808;
+    border-color: #555;
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    color: $body-color-dark;
+  }
+
+  footer {
+    background-color: #080808;
+  }
+
 }
