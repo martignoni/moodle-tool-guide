@@ -23,8 +23,8 @@ params:
   author: Nicolas Martignoni
   githubUsername: 'martignoni'
   accent: '#f98012'
-  showBorder: true
-  backgroundColor: white
+  showBorder: 'true'
+  backgroundColor: '#ffffff'
   matomoAnalytics:
     siteid: 4
     matomoroot: "stats.martignoni.net" # Do not add slashes
