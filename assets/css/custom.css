@@ -2,11 +2,11 @@
 Colors
  **/
 
-/* Defaults colors */
-$header-color: #ccf2ff; /* This should not be transparent */
-$good-color: rgba(0, 143, 0, 0.2);
-$neutral-color: rgba(255, 251, 0, 0.17);
-$bad-color: rgba(255, 38, 0, 0.2);
+/* Table default colors */
+$header-color: #89cff0; /* Baby Blue. This should not be transparent */
+$good-color: #d0f0c0; /* Tea green */
+$neutral-color: #fffacd; /* Lemon Chiffon */
+$bad-color: #fdbcb4; /* Cantaloupe Melon */
 $gray-column-color: #ebebeb;
 
 .b {
@@ -26,11 +26,11 @@ $gray-column-color: #ebebeb;
 }
 
 /* Accessible colors */
-$accessible-header-color: #89c4f4; /* This should not be transparent */
-$accessible-good-color: rgba(0, 165, 102, 0.3);
-$accessible-neutral-color: rgba(247, 202, 24, 0.6);
-$accessible-bad-color: rgba(210, 82, 178, 0.3);
-$accessible-gray-column-color: #ebebeb;
+$accessible-header-color: #8ab9f1; /* Jordy Blue. This should not be transparent */
+$accessible-good-color: #ace1af; /* Celadon */
+$accessible-neutral-color: #fedc56; /* Mustard */
+$accessible-bad-color: #ff7f7f; /* Light red */
+$accessible-gray-column-color: $gray-column-color;
 
 .accessible-colors .b {
   background-color: $accessible-header-color;
