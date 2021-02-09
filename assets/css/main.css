@@ -36,18 +36,18 @@ img {
     max-width: 100%;
 }
 
-/* Homepage */
+/* 404 page */
 
-.intro {
+.fourohfour {
     transform: translateY(22vh);
 }
 
-.intro > h1 {
+.fourohfour > h1 {
     color: #212121;
     font-size: 12vh;
 }
 
-.intro > h2 {
+.fourohfour > h2 {
     color: #757575;
     font-size: 3vmin;
 }
