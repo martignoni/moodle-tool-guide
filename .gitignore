@@ -1,7 +1,9 @@
 # Hugo
 public/
-resources/
-_temp/
+resources/_gen
+
+# Auxiliary doc files
+_temp
 
 # Node
 node_modules/
