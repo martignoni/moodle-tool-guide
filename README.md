@@ -1,8 +1,8 @@
 # Moodle Tool Guide
 
-[![Build Status](https://github.com/martignoni/moodle-tool-guide/workflows/Hugo%20CI%20&%20deploy/badge.svg)](https://github.com/martignoni/moodle-tool-guide/actions?query=workflow%3A%22Hugo+CI+%26+deploy%22)
-
 [Moodle Tool Guide][site] is an [open licensed][cc] multilingual reference card for using [Moodle][moodle] version 3 and later, designed for teachers, educators and trainers. It provides info on what Moodle tool to use according to the pedagogical goal to achieve.
+
+[![Build Status](https://github.com/martignoni/moodle-tool-guide/workflows/Hugo%20CI%20&%20deploy/badge.svg)](https://github.com/martignoni/moodle-tool-guide/actions?query=workflow%3A%22Hugo+CI+%26+deploy%22)
 
 ## Localization
 
