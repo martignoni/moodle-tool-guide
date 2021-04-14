@@ -2,11 +2,11 @@
 
 [Moodle Tool Guide][site] is an [open licensed][cc] multilingual reference card for using [Moodle][moodle] version 3 and later, designed for teachers, educators and trainers. It provides info on what Moodle tool to use according to the pedagogical goal to achieve.
 
+[Moodle Tool Guide][site] is available in 10 languages: English, French, Italian, German, Dutch, Basque, Brazilian Portuguese, Portuguese, Spanish and Chinese.
+
 [![Build Status](https://github.com/martignoni/moodle-tool-guide/workflows/Hugo%20CI%20&%20deploy/badge.svg)](https://github.com/martignoni/moodle-tool-guide/actions?query=workflow%3A%22Hugo+CI+%26+deploy%22)
 
 ## Localization
-
-[Moodle Tool Guide][site] is available in English, French, Italian, German, Dutch, Basque, Brazilian Portuguese, Portuguese, Spanish and Chinese.
 
 The localization is managed with [GitLocalize](https://gitlocalize.com/repo/5841/lang).
 
@@ -19,6 +19,7 @@ The localization is managed with [GitLocalize](https://gitlocalize.com/repo/5841
 [![Localization Status](https://gitlocalize.com/repo/5841/pt/badge.svg)](https://gitlocalize.com/repo/5841/pt)
 [![Localization Status](https://gitlocalize.com/repo/5841/es/badge.svg)](https://gitlocalize.com/repo/5841/es)
 [![Localization Status](https://gitlocalize.com/repo/5841/zh/badge.svg)](https://gitlocalize.com/repo/5841/zh)
+[![Localization Status](https://gitlocalize.com/repo/5841/fi/badge.svg)](https://gitlocalize.com/repo/5841/fi)
 
 More translations are welcome, e.g. in [Japanese](https://gitlocalize.com/repo/5841/ja) and [Russian](https://gitlocalize.com/repo/5841/ru).
 
@@ -52,6 +53,7 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 - Spanish translation courtesy of [Ramón Ovelar](https://moodle.org/user/profile.php?id=13611).
 - Chinese translation courtesy of Klaus-Jürgen Brix.
 - Dutch translation courtesy of [Kathrien Bernaerts](https://twitter.com/kbernaerts) (Toll-Net) and [Gemma Lesterhuis](https://twitter.com/BeneluxMnet) (Stichting Mnet Benelux).
+- Finnish translation courtesy of [Teemu Eskola](https://github.com/XtraTerrestrial84) and [Ville Vierimaa](https://github.com/KV-Ville).
 
 ### The Layout
 
