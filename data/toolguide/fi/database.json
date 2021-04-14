@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Tietokanta</strong><br />Opiskelijat voivat luoda, kerätä ja jakaa yhteisen vähitellen kehittyvän tuotoksen (esim. linkkilista).",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Perustaminen hankalaa. Kannattaa tietää mitä haluaa ennen tietokannan perustamista.",
+    "style": "bad"
+  },
+  {
+    "id": "3",
+    "text": "Opettaja voi käyttää tiedon esittämiseen, mutta parempi käyttötapa on antaa opiskelijden itse lisätä tietoja tietokantaan.",
+    "style": "neutral"
+  },
+  {
+    "id": "4",
+    "text": "Tietokanta on monipuolinen ja mahdollistaa arvioinnin, kunhan se liittyy sopivanlaiseen oppimisaktiviteettiin.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Ei sovellu keskusteluihin. Opiskelijat voivat kommentoida tai antaa arvioita tietokantaan lisätyistä sisällöistä.",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Opiskelijat voivat jakaa sisältöä, johon voidaan tehdä tiedonhakua. Voidaan tehdä jaettuja tietokantoja.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Kaikkie kuuden tason testaaminen on mahdollista tietoa jäsentelemällä.",
+    "style": "good"
+  }
+]
