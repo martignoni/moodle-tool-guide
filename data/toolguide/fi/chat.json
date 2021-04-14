@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Chat</strong><br />Reaaliaikaisten teksti-ikkunassa käytävien keskustelujen pitäminen",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo, aivan kuten Messenger tai iMessage. Hallinnoiminen vaatii jonkin verran työtä.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Reaaliaikaisen keskustelun tahti voi olla kiivas, jos viestejä on paljon (vrt. keskustelualue).",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Chat on monipuolinen. Sitä voi käyttää suullisen arvioinnin apuvälineenä.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Kyllä. Chatissa voi pitää väittelyitä, pienryhmäohjausta tai käyttää esim. Q&A sessioihin.",
+    "style": "good"
+  },
+  {
+    "id": "6",
+    "text": "Kyllä. Opiskelijat voivat tehdä yhteistyötä ja tutkia eri aiheita, keskustella niistä ja kirjoittaa yhdessä.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Eri tasojen testaaminen on mahdollista reaaliaikaisesti.",
+    "style": "good"
+  }
+]
