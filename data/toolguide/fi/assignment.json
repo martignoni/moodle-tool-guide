@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Tehtävä</strong><br />Tehtävien palautusten kerääminen, arviointi ja palautteen anto",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo. Valitse kahdesta eri tyypistä. Sekä online- että offline-tehtävät ovat mahdollisia.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Ei, mutta voi kuitenkin sisältää tietoa tehtävän kontekstista.",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Kyllä. Palautuspäivän ja ylimmän mahdollisen arvosanan asettaminen mahdollista. Tehtäväpalautuksien kerääminen ja palautteen antaminen mahdollista.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Vuorovaikutus erittäin rajallista opettajan ja opiskelijoiden välilllä.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Kyllä. On mahdollista antaa ryhmissä tehtäviä tehtäviä.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Epäsuora. Riippuu tehtävän suunnittelusta.",
+    "style": "good"
+  }
+]
