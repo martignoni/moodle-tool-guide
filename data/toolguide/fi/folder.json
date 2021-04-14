@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Kansio</strong><br />Lataa useita tiedostoja kansioon",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo, kuin sähköpostiliite. Mutta toimiiko kansio itsenäisesti?",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Kyllä. Vain opettajat voivat ladata tiedostokansion. Yhdensuuntaista viestintää.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Mahdollisesti. Käytä tehtävän antamiseen. Kerää opiskelijoiden tiedostot keskustelufoorumin tai tehtävän avulla.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Se on jakelutyökalu, joka ei lisää vuorovaikutusta.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Mahdollisesti. Kannattaa käyttää tehtävän antamiseen. Kerää opiskelijoiden tiedostot keskustelualueen tai tehtävän avulla.",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "Ei yhtään. Kansio ei ole sellaisenaan oppimistoimintaa, vaan tiedon siirtämistä.",
+    "style": "bad"
+  }
+]
