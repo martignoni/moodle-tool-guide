@@ -1,5 +1,5 @@
 ---
-title: About
+title: Tietoja
 description: Mikä on Moodle -työkaluopas?
 ---
 
