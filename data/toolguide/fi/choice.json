@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Valinta</strong><br />Opiskelijat voivat äänestää ja valita aiheita",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo. Valinta-työkaluun voi määritellä vaihtoehdot ja rajoittaa lukumääriä per valinta.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Ei. Valinta ei sovellu tiedon välittämiseen.",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Kyllä. Voidaan nopeasti testata ymmärrystä monivalintakysymysten avulla.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Käytä mieluummin keskustelualuetta tai Chatia. ",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Ei. Kannattaa mieluummin käyttää keskustelualueita, sanastoja ja wikejä.",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Vaatii luovaa käyttöä.",
+    "style": "neutral"
+  }
+]
