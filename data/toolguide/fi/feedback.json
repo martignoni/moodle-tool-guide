@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Palaute</strong><br />Tiedon keruu opiskelijoilta mistä tahansa aiheesta",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo, mutta vie aikaa. Määritä ja lisää sitten kysymyksiä.",
+    "style": "neutral"
+  },
+  {
+    "id": "3",
+    "text": "Ei. Palaute ei sovellu tiedon välittämiseen.",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Kyllä. Voidaan käyttää osaamisen itsearvioinnissa ennen ja jälkeen.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Soveltuu ainoastaan yksisuuntaiseen viestintään opiskelijalta opettajalle.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Ei. Tämä on yksilöaktiviteetti.",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Kuuden eri tason testaaminen on mahdollista, mutta vaatii luovuutta.",
+    "style": "neutral"
+  }
+]
