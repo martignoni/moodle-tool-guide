@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "Työkalu ↓",
+    "style": "header tool"
+  },
+  {
+    "id": "2",
+    "text": "Onko helppo ottaa itse käyttöön?",
+    "style": "header"
+  },
+  {
+    "id": "3",
+    "text": "Työkalu tiedon välittämiseksi opettajalta opiskelijalle?",
+    "style": "header"
+  },
+  {
+    "id": "4",
+    "text": "Mahdollistaako tämä työkalu opiskelijan oppimisen arvioinnin?",
+    "style": "header"
+  },
+  {
+    "id": "5",
+    "text": "Voidaanko käyttää osallistujien väliseen viestintään ja vuorovaikutukseen?",
+    "style": "header"
+  },
+  {
+    "id": "6",
+    "text": "Voiko opettaja ja oppijat tehdä yhteistyötä ja luoda sisältöä yhdessä?",
+    "style": "header"
+  },
+  {
+    "id": "7",
+    "text": "<ul><li>Muistaminen</li><li>Ymmärtäminen</li><li>Soveltaminen</li><li>Analysoiminen</li><li>Arvioiminen</li><li>Luominen</li></ul>",
+    "style": "header"
+  }
+]
