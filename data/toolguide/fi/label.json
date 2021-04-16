@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Ohjeteksti</strong><br />Lisää tekstiä ja multimediasisältöä",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo, parantaa kurssisivun asettelua.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Kyllä. Vain opettajat voivat lisätä sisältöä. Yhdensuuntaista viestintää.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Ei suoraan. Käytetään kuvailemaan tehtävää tai välittämään tietoja.",
+    "style": "bad"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Ohjeteksti on jakelutyökalu, joka ei lisää vuorovaikutusta.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Ei suoraan. Käytetään kuvaamaan tehtävää ja välittämään tietoja.",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "Ei yhtään. Ohjeteksti ei ole sellaisenaan oppimistoimintaa.",
+    "style": "bad"
+  }
+]
