@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Keskustelualue</strong><br />Keskustelun edistäminen: väittelyt, raportointi, roolipelit, uutisanalyysi, ideoiden listaaminen, jne.",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo. Keskustelualueella on riittävät oletusasetukset. Nimi ja kuvaus riittää.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Jaa resursseja linkkeinä tai tiedostoina. Tietojen menettämisen vaara, jos viestien määrä on suuri.",
+    "style": "neutral"
+  },
+  {
+    "id": "4",
+    "text": "Keskustelualue on monipuolinen ja mahdollistaa arviointiaktiviteetin suunnittelun.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Kyllä. Opiskelijat kommunikoivat opettajan ja muiden opiskelijoiden kanssa. Mahdollistaa vuorovaikutuksen luokassa tai ryhmissä.",
+    "style": "good"
+  },
+  {
+    "id": "6",
+    "text": "Kyllä. Opiskelijat voivat tehdä yhteistyötä ja tutkia eri aiheita, keskustella niistä ja kirjoittaa yhdessä.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Ymmärtäminen, soveltaminen, analysoiminen, arvioiminen, luominen.",
+    "style": "good"
+  }
+]
