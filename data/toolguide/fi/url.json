@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />Luo linkki verkkosivulle",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo, kopioi / liitä verkko-osoite (URL), joka alkaa http: llä tai https: llä.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Helppo tapa ohjata opiskelijoita etsimään tietoa Moodlen ulkopuolelta, esim. artikkeleita.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Ei suoranaisesti. Esim. linkki ulkoisiin aktiviteetteihin kuten opiskelijoiden e-porfolioihin tai blogeihin.",
+    "style": "bad"
+  },
+  {
+    "id": "5",
+    "text": "Mahdollisesti. Voi laittaa linkin ulkoisiin työkaluihin, esim. kalenterihin, ryhmiin, blogeihin tai wikeihin.",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Mahdollisesti. Voi laittaa linkin ulkoisiin työkaluihin, jotka mahdollistavat sisällön luomisen yhdessä, kuten vaikkapa Etherpad, wikit ja blogit.",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Voi tehdä kaikkia Bloomin taksonomian tasoja riippuen linkistä.",
+    "style": "neutral"
+  }
+]
