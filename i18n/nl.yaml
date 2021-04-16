@@ -41,6 +41,10 @@
 - id: Red
   translation: "rood"
 # Footer
+- id: CopyrightLine1
+  translation: "Aangeboden door [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) - De website __[moodletoolguide.net](https://moodletoolguide.net)__ heeft een licentie van [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+- id: CopyrightLine2
+  translation: "Een idee van [Joyce Seitzinger](https://twitter.com/catspyjamasnz) van [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), aangepast door [Nicolas Martignoni](https://blog.martignoni.net/a-propos/). Vertaald naar het Nederlands door [Kathrien Bernaerts (Toll-Net)](https://twitter.com/kbernaerts) en [Gemma Lesterhuis (Stichting Mnet Benelux)](https://twitter.com/BeneluxMnet)."
 - id: CreditsTitle
   translation: "Credits en licentie"
 - id: EnableDefaultColors

@@ -58,10 +58,6 @@ languages:
     - Moodle Guide for trainers
     contentDir: content/en
     date_format: January 2, 2006
-    copyright: 'Provided by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – The website __[moodletoolguide.net](https://moodletoolguide.net)__ is licensed under a [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
-
-
-      An idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz) of [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Adapted by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), based on work by [Gavin Henrick](https://twitter.com/ghenrick).'
     menu:
       main:
         - url: /
@@ -93,10 +89,6 @@ languages:
     - Guide Moodle pour formateurs
     contentDir: content/fr
     date_format: 2 January 2006
-    copyright: "Offert par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Le site web __[moodletoolguide.net](https://moodletoolguide.net)__ est publié sous licence [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-      Une idée de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de l'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), traduite en français et adaptée par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) avec des contributions de Fabien Balli."
     menu:
       main:
         - url: /
@@ -129,10 +121,6 @@ languages:
     - Moodle Guide for trainers
     contentDir: content/it
     date_format: 2 January 2006
-    copyright: "Offerto da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Il sito web __[moodletoolguide.net](https://moodletoolguide.net)__ è pubblicato sotto licenza [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-      Un'idea di [Joyce Seitzinger](https://twitter.com/catspyjamasnz) del'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), aggiornata da [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) e tradotta in italiano da [Luca Confortola](https://twitter.com/ConfortolaLuca) con contributi di [Mario Calabrese](https://twitter.com/clbmra)."
     menu:
       main:
         - url: /
@@ -168,10 +156,6 @@ languages:
     - Moodle-Werkzeuge für Lehrpersonen und Trainer
     contentDir: content/de
     date_format: 2. January 2006
-    copyright: 'Angeboten von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Die Website __[moodletoolguide.net](https://moodletoolguide.net)__ ist lizenziert unter einer [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz.
-
-
-      Eine Idee von [Joyce Seitzinger](https://twitter.com/catspyjamasnz) von [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), auf deutsch von [Ralf Hilgenstock](https://twitter.com/ralfh), Susanne Gebauer und Gerald Hartwig übertragt. Angepasst von [Nicolas Martignoni](https://blog.martignoni.net/a-propos/).'
     menu:
       main:
         - url: /
@@ -204,10 +188,6 @@ languages:
     - Guía de Moodle para formadores
     contentDir: content/es
     date_format: 2 January 2006
-    copyright: "Ofertado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – El sitio web __[moodletoolguide.net](https://moodletoolguide.net)__ tiene una licencia [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-      Una idea de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de la [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), traducido al castellano por [Ramón Ovelar](https://moodle.org/user/profile.php?id=13611)."
     menu:
       main:
         - url: /
@@ -243,10 +223,6 @@ languages:
     - Moodle Gereedschapsgids voor Onderwijzers en Leraren
     contentDir: content/nl
     date_format: 2 January 2006
-    copyright: 'Aangeboden door [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) - De website __[moodletoolguide.net](https://moodletoolguide.net)__ heeft een licentie van [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-      Een idee van [Joyce Seitzinger](https://twitter.com/catspyjamasnz) van [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), aangepast door [Nicolas Martignoni](https://blog.martignoni.net/a-propos/). Vertaald naar het Nederlands door [Kathrien Bernaerts (Toll-Net)](https://twitter.com/kbernaerts) en [Gemma Lesterhuis (Stichting Mnet Benelux)](https://twitter.com/BeneluxMnet).'
     menu:
       main:
         - url: /
@@ -279,10 +255,6 @@ languages:
     - Moodleko Gida trebatzaileentzat
     contentDir: content/eu
     date_format: 2006 January 2
-    copyright: '[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)-ek egina – __[moodletoolguide.net](https://moodletoolguide.net)__ webgunea [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) lizentziapean argitaratu da.
-
-
-      Tresna hau [Eastern Institute of Technology](https://www.eit.ac.nz/)-ko (Zeelanda Berria) [Joyce Seitzinger](https://twitter.com/catspyjamasnz)-en ideia izan zen, 2020ko maiatzean Moodle 3.x-erako [Nicolas Martignoni](https://blog.martignoni.net/a-propos/)-ek egokitua eta [Iñigo Zendegi](https://moodle.org/user/profile.php?id=709961)k euskaratua.'
     menu:
       main:
         - url: /
@@ -314,10 +286,6 @@ languages:
     - Guia Moodle para Educadores
     contentDir: content/pt-br
     date_format: 2 January 2006
-    copyright: "Disponibilizado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Website __[moodletoolguide.net](https://moodletoolguide.net)__ Licença [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-      Baseado na ideia de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) do [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), traduzido e adaptado para Português do Brasil por [Gilvan Marques](https://twitter.com/gmarques)."
     menu:
       main:
         - url: /
@@ -349,10 +317,6 @@ languages:
     - Guia Moodle para formadores
     contentDir: content/pt-pt
     date_format: 2 January 2006
-    copyright: "Disponibilizado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Website __[moodletoolguide.net](https://moodletoolguide.net)__ piblicado sob a licença [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-      Baseado na ideia de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) do [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), adaptado por [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), traduzido e adaptado para português por [Maria João](https://twitter.com/etutoria)."
     menu:
       main:
         - url: /
@@ -385,9 +349,6 @@ languages:
     - Moodle Guide for trainers
     contentDir: content/zh
     date_format: January 2, 2006
-    copyright: '本网页 moodletoolguide.net 由[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)开发提供。网页经[知识共享许可协议CC BY-NC-SA 4.0许可](https://creativecommons.org/licenses/by-nc-sa/4.0/)。
-
-      本网页由[东部理工学院的](https://www.eit.ac.nz/)[Joyce Seitzinger](https://twitter.com/catspyjamasnz)创意，由[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)改编。中文翻译由Klaus Jürgen Brix提供。'
     menu:
       main:
         - url: /
