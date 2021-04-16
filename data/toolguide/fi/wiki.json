@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Wiki</strong><br />Mahdollistaa yhteistyössä luotujen sivujen tekemisen (esim. Wikipedia)",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Hankala. Pitää asettaa yksilö- ja ryhmäasetukset. Voi olla vaikea hallita.",
+    "style": "neutral"
+  },
+  {
+    "id": "3",
+    "text": "Kyllä. Opettaja voi muokata tai muokkamiseen voi antaa oikeudet kenelle tahansa osallistujalle.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Wiki on monipuolinen ja arviointi mahdollista esim. suullisesti arvioitavassa aktiviteetissa.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Ei sovellu keskusteluihin. Voidaan käyttää ideariihen, suunnittelun tai yhteiskirjoittamisen alustana jne.",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Kyllä. Opiskelijat voivat tehdä yhteistyötä ja tutkia aiheita, keskustella niistä ja kirjoittaa yhdessä.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Muistaminen, soveltaminen, analysoiminen, arvioiminen, luominen.",
+    "style": "good"
+  }
+]
