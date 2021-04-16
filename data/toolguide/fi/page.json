@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Sivu</strong><br />Luo verkkosivu",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Helppo, aivan kuten tekstinkäsittelysivu. Multimediaa voi lisätä tarvittaessa.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Helppo tapa tiedon välittämiseksi opiskelijoille.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Mahdollisesti. Riippuu sisällöstä. Esim. teksti, jonka lukemisen jälkeen tentti.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Mahdollisesti. Riippuu sisällöstä ja jatkotoimenpiteistä (esim. chat tai keskustelualue sivuun liittyen).",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Mahdollisesti. Riippuu sisällöstä. Esim. teksti, josta keskustellaan.",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "4 / 6<br />Muistaminen, ymmärtäminen, soveltaminen, analysoiminen",
+    "style": "neutral"
+  }
+]
