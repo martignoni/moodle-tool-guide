@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Työpaja</strong><br />Vertaisarvioitujen töiden teettäminen, kerääminen ja arviointi",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Hankala. Vaatii suunnittelua ja aikaa. Neljä vaihetta, joita on noudatettava työpajan tekemisessä.",
+    "style": "bad"
+  },
+  {
+    "id": "3",
+    "text": "Ei. Parempi käyttää jotain toista työkalua tähän tarkoitukseen.",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Kyllä, mahdollistaa vertaisarvioinnin opettajan ohjaamana.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Palautteen antaminen mahdollista, mutta vuorovaikutus erittäin rajattua.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Kyllä. Voi käyttää ryhmätehtävien antamiseen, esim. tulosten arviointiin.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Eri tasojen testaaminen on mahdollista luovalla suunnittelulla.",
+    "style": "neutral"
+  }
+]
