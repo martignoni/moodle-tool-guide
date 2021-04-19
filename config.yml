@@ -96,7 +96,7 @@ languages:
           weight: 1
         - url: /about/
           name: À propos
-          weight: 1
+          weight: 2
       icon:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
@@ -128,7 +128,7 @@ languages:
           weight: 1
         - url: /about/
           name: Saperne di più
-          weight: 1
+          weight: 2
       icon:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
@@ -163,7 +163,7 @@ languages:
           weight: 1
         - url: /about/
           name: Über
-          weight: 1
+          weight: 2
       icon:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
@@ -230,7 +230,7 @@ languages:
           weight: 1
         - url: /about/
           name: Over
-          weight: 1
+          weight: 2
       icon:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
@@ -387,7 +387,7 @@ languages:
           weight: 1
         - url: /about/
           name: Tietoja
-          weight: 1
+          weight: 2
       icon:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
