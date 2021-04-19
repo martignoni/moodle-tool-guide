@@ -1,0 +1,59 @@
+# Column header strings
+- id: Resources
+  translation: "Aineistot"
+- id: Activities
+  translation: "Aktiviteetit"
+- id: Inform
+  translation: "Tiedon välittäminen"
+- id: InformEvaluate
+  translation: "Tiedon välittäminen ja arviointi"
+- id: ShareData
+  translation: "Tiedon jakaminen"
+- id: IdentifyTrends
+  translation: "Tiedon kerääminen ja jäsentäminen"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Käytön helppous"
+- id: Transfer
+  translation: "Siirtäminen"
+- id: Evaluation
+  translation: "Arvioiminen"
+- id: Interaction
+  translation: "Vuorovaikutus"
+- id: Creation
+  translation: "Luominen"
+- id: BloomLevels
+  translation: "Bloomin tasot"
+# Legend
+- id: Legend
+  translation: "Selitykset"
+- id: Good
+  translation: "Sopiva ja helppo"
+- id: Neutral
+  translation: "Toimii hyvällä suunnittelulla"
+- id: Bad
+  translation: "Ei paras käyttötarkoitukseen"
+# Colors
+- id: Green
+  translation: "vihreä"
+- id: Yellow
+  translation: "keltainen"
+- id: Red
+  translation: "punainen"
+# Footer
+- id: CopyrightLine1
+  translation: ""
+- id: CopyrightLine2
+  translation: ""
+- id: CreditsTitle
+  translation: "Tekijät ja lisenssi"
+- id: EnableDefaultColors
+  translation: "Käytä oletusvärejä"
+- id: EnableAccessibleColors
+  translation: "Huomioi saavutettavuus väreissä"
+- id: SupportTitle
+  translation: "Tue lahjoituksella"
+- id: SupportText
+  translation: "Tee lahjoitus nyt ❤️ tukeaksesi Moodle Tool Guide -sivustoa."
+- id: DonateNow
+  translation: "Lahjoita nyt!"
