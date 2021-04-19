@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Küsitlus</strong><br />Võimaldada õpilastel hääletada, õppeaineid valida ...",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne. Määratlege valikud ja kas soovite valikute arvu piirata või mitte.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Ei. Küsitlus pole teabe edastamise  tööriist.",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Võimalik mõistmise kiireks testimiseks ühe valikvastustega küsimuse abil.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Kasutage selle asemel foorumit või vestlust",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Ei. Kasutage selle asemel foorumeid, sõnastikke või vikisid.",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Nõuab kasutuses loomingulist lähenemist",
+    "style": "neutral"
+  }
+]
