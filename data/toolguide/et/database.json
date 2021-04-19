@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Andmebaas</strong><br />Koostöös luua, koguda ja otsida objekte, seletusi",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Seadistamine on keeruline. Enne tegevuse loomist, mõelge, mida soovite",
+    "style": "bad"
+  },
+  {
+    "id": "3",
+    "text": "Õpetaja saab teavet esitamiseks, kuid parem lasta õpilastel seda täiendada",
+    "style": "neutral"
+  },
+  {
+    "id": "4",
+    "text": "Andmebaas on mitmekülgne ja võimaldab hindamist. Kujundage õige õppetegevus",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Ei sobi aruteludeks. Õpilased saavad kommenteerida või hinnata teisi sissekandeid.",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Õpilased saavad sisu lisada ja ajagada. Ühiste materjalide loomiseks",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Kõiki tasemeid, sõltuvalt sellest, millise õppetegevuse loote",
+    "style": "good"
+  }
+]
