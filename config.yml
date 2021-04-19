@@ -361,3 +361,34 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+
+  fi:
+    languageName: Suomi
+    weight: 11
+    title: Moodle-työkaluopas
+    slogan: Moodle-työkaluopas opettajille
+    description: "Moodle-työkaluopas: Nopea koontitaulukko opettajille Moodlen versio 3:n ja myöhemmin tulleiden käytön tueksi."
+    keywords:
+    - Moodle
+    - Moodle-työkalut
+    - Moodle-työkaluopas
+    - Moodle-työkaluopas opettajille
+    - Moodle-työkalut opettajille
+    - Moodle-opas
+    - Moodle-opas opettajille
+    - Moodle-opas ohjaajille
+    - Moodle-opas kouluttajille
+    contentDir: content/fi
+    date_format: 2 January 2006
+    menu:
+      main:
+        - url: /
+          name: Home
+          weight: 1
+        - url: /about/
+          name: Tietoja
+          weight: 1
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
