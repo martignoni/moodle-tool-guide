@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Vestlus</strong><br />Arutelu reaalaajas",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne, täpselt nagu Messengeris. Juhtimiseks on vaja teatavaid jõupingutusi.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Kasutage kutsutud esinejate jaoks. Kiire sõnumite maht. Suhtlemata jätmise oht.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Vestlus on mitmekülgne. Saab kasutada kujundava hindamise tegevustes",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Jah. Pidage arutelusid, väikeste gruppide ülevaatusseansse. Q&A kanal",
+    "style": "good"
+  },
+  {
+    "id": "6",
+    "text": "Jah. Õpilased saavad teha koostööd ja uurida teemasid, neid arutada ja koos kirjutada",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Võimaldab kuut taset reaalajas testida",
+    "style": "good"
+  }
+]
