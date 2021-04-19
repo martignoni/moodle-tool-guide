@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "Materjal ↓",
+    "style": "header tool"
+  },
+  {
+    "id": "2",
+    "text": "Kas seda on lihtne ise seadistada ja kasutada?",
+    "style": "header"
+  },
+  {
+    "id": "3",
+    "text": "Kas see võimaldab informatsiooni jagada õpetajalt õpilastele?",
+    "style": "header"
+  },
+  {
+    "id": "4",
+    "text": "Kas see vahend võimaldab hinnata õpilaste õppimist?",
+    "style": "header"
+  },
+  {
+    "id": "5",
+    "text": "Kas seda on võimalik kasutada  osalejatevaheliseks suhtluseks?",
+    "style": "header"
+  },
+  {
+    "id": "6",
+    "text": "Kas õpetajad ja õpilased saavad teha koostööd teha ning koos sisu luua?",
+    "style": "header"
+  },
+  {
+    "id": "7",
+    "text": "<ul><li>Meeldejätmine ja reprodutseerimine</li><li>Arusaamine, interpreteerimine</li><li>Kasutamine, rakendamine</li><li>Osadeks lahutamine, analüüsimine</li><li>Hindamine </li><li>Loomine, terviku moodustamine</li></ul>",
+    "style": "header"
+  }
+]

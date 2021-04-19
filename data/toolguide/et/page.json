@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Lehekülg</strong><br />Kursusele lehekülje loomine ",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne, tekstitöötlusleht, vajadusel saab lisadada multimeedia.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Lihtne viis õpilastele teavet pakkuda.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Võib olla. Oleneb sisust. Nt loetav tekst, millele järgneb test",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Võib olla. Oleneb sisust. Nt loetav tekst, millele järgneb test",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Võib olla. Oleneb sisust. Nt teksti, mille üle pidada ühist arutelu",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "4 / 6<br />Meeles pidada, mõista, rakendada, analüüsida",
+    "style": "neutral"
+  }
+]

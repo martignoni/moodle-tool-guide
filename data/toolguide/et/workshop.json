@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Õpikoda</strong><br />Koguge, hinnake ja genereerige õpilastöid",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Keerukas ja vajab planeerimist ja aega. Selle seadistamiseks tuleb järgida nelja etappi",
+    "style": "bad"
+  },
+  {
+    "id": "3",
+    "text": "Ei. Parem kasutada selleks mõnda muud tööriista",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Jah, võimaldab vastastikust hindamist, mille õpetaja üle vaatab",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Lubab tagasisidet, kuid üldiselt piiratud suhtlemine",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Jah. Kasutage tulemuse hindamiseks rühmaülesannete jaoks",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Võimaldab kõiki. Oleneb teie õpikoja ülesehitusest",
+    "style": "neutral"
+  }
+]

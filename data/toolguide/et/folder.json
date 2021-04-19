@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Kaust</strong><br />Failide üleslaadimine kausta",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne, nagu e-posti manus. Kaust on iseseisv üksus.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Ainult õpetajad saavad faile kursusele üles laadida. ",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Võib olla. Kasutatakse ülesande andmiseks. Õpilane saab faile esitada foorumi või ülesande kaudu.  ",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "See on info levitamise tööriist. Suhtlemiseks pole ühtegi võimalust.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Võib olla. Kasutatakse ülesande andmiseks. Õpilane saab faile esitada foorumi või ülesande kaudu.  ",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "Puudub. See pole õppetegevus.",
+    "style": "bad"
+  }
+]

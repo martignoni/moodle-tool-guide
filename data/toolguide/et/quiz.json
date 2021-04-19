@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Test</strong><br />Õppimise, kujundava või kokkuvõtva hindamiseks",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Hindamine on keeruline ja võtab aega. Seadistage test, lisage küsimused. Kasutage küsimuste panka.",
+    "style": "bad"
+  },
+  {
+    "id": "3",
+    "text": "Ei. Test on suunatud hindamisele, mitte teabe edastamiseks",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Palju erinevat tüüpi küsimusi. Testi saab ajastada ja piirata Võimalus: kasutada enesekontrollitestina",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Kasutage selle asemel foorumeid",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Ei. Kasutage selle asemel foorumeid või vikisid",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Võimaldab kõiki. Oleneb teie testi küsimustest",
+    "style": "neutral"
+  }
+]

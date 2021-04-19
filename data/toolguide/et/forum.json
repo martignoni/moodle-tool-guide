@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Foorum</strong><br />Arutelud, aruandlus, rollimäng, uudiste analüüs, ideede loendid",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne. Foorumil on piisavad vaikeseaded. Piisab nimest ja kirjeldusest",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Jagage ressursse linkide või failidena. Teabe kaotamise oht suure sõnumimahu korral.",
+    "style": "neutral"
+  },
+  {
+    "id": "4",
+    "text": "Foorum on mitmekülgne ja võimaldab kavandada hindamistegevust.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Jah. Õpilased suhtlevad teie ja kaaslastega. Suhtle klassis või rühmades.",
+    "style": "good"
+  },
+  {
+    "id": "6",
+    "text": "Jah. Õpilased saavad teha koostööd ja uurida teemasid, neid arutada ja koos kirjutada.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Mõista, rakendada, analüüsida, hinnata, luua",
+    "style": "good"
+  }
+]

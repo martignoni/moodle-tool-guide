@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Wiki</strong><br />Lubab koostöölehtede loomist, näiteks Vikipeedia",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Nipiga. Individuaalne või grupitöö, tuleb määrata sätetetes. Võib olla raske omandada.",
+    "style": "neutral"
+  },
+  {
+    "id": "3",
+    "text": "Jah. Redigeerimist lubavad ainult õpetajad või mõni osaleja",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Wiki on mitmekülgne ja võimaldab hindamist.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Ei sobi aruteludeks. Kasutage  planeerimisel, ajurünnakutes või kooskirjutamisel",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Õpilased saavad teha koostööd ja uurida teemasid, neid arutada ja koos kirjutada",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Mõista, rakendada, analüüsida, hinnata, luua",
+    "style": "good"
+  }
+]

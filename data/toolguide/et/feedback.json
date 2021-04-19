@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Tagasiside</strong><br />Koguge õpilastelt mis tahes teema kohta andmeid",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Konfigureerige ja lisage seejärel küsimused.",
+    "style": "neutral"
+  },
+  {
+    "id": "3",
+    "text": "Ei. Tagasiside pole teabe edastamise tööriist",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Jah. Et õpilased saaksid enne ja pärast ise oma arusaamist hinnata.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Ainult ühesuunaline suhtlus õpilasest õpetajani on lubatud",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Ei. See on individuaalne tegevus",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Võimaldab kõiki. Oleneb teie tagasiside küsimustest",
+    "style": "neutral"
+  }
+]

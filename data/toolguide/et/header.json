@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "Tegevus või materjal<span class=\"flush-right\">→</span>",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne kasutada",
+    "style": "header-strong"
+  },
+  {
+    "id": "3",
+    "text": "Teabe edastamine",
+    "style": "header-strong"
+  },
+  {
+    "id": "4",
+    "text": "Hindamine",
+    "style": "header-strong"
+  },
+  {
+    "id": "5",
+    "text": "Suhtlus",
+    "style": "header-strong"
+  },
+  {
+    "id": "6",
+    "text": "Sisu loomine koostöös (õpetaja ja õpilane)",
+    "style": "header-strong"
+  },
+  {
+    "id": "7",
+    "text": "Bloomi taksonoomia",
+    "style": "header-strong"
+  }
+]

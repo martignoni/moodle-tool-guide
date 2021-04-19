@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Sõnastik</strong><br />Ressursside või  teabe kogumiseks",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne. Autori nime kuvamiseks tuleb see määrata sätetes.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Mõistete määratlemiseks või teabe esitamiseks. Õpilased saavad seda täiendada",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Sõnastik on mitmekülgne ja võimaldab hindamist",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Ei sobi aruteludeks. Õpilased saavad lugeda teisi sissekandeid ja kommenteerida või hinnata",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Jah. Klass võib koguda arvustusi, ressursse jne. Algne autor saab oma kirjet muuta",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Mõista, rakendada, analüüsida, hinnata, luua",
+    "style": "good"
+  }
+]
