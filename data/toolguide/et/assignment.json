@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Ülesanne</strong><br />Ülesannete kogumiseks, hindamiseks ja tagasiside andmiseks",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne. Võimalikud on nii veebi- kui ka võrguühenduseta ülesanded.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Ei. Kuid see võib sisaldada ülesande kontekstuaalset sisu",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Jah. Määrake tähtajad ja maksimaalne hinne. Koguge ülesandeid ja andke tagasisidet.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Ei. Lubab õpetaja ja õpilase vahel suhelda ainult väga piiratud ulatuses.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Jah. Võimaldab teha grupiülesandeid.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Kaudselt kõiki.  Oleneb teie ülesande kujundusest.",
+    "style": "good"
+  }
+]
