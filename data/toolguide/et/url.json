@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />Veebilehe lingiga lisamine",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Lihtne, kopeerige / kleepige veebiaadress URL, mis algab tähega http või https.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Lihtne viis suunata õpilasi teabele väljaspool Moodle'i, nt artikli juurde",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Otseselt mitte. Nt link välistegevusele, näiteks õpilaste e-portfoolio või ajaveeb",
+    "style": "bad"
+  },
+  {
+    "id": "5",
+    "text": "Võib olla. Link välistele tööriistadele, nt kalendrid, rühmad, ajaveebid või vikid",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Võib olla. Saate linkida väliste koostöövahenditega, nagu Etherpad, vikid või ajaveebid.",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Kõiki tasemeid, sõltuvalt sellest, kuhu te linkite.",
+    "style": "neutral"
+  }
+]
