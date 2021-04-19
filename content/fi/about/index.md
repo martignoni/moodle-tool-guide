@@ -7,7 +7,7 @@ description: Mikä on Moodle -työkaluopas?
 
 Perustuu [Joyce Seitzingerin](https://twitter.com/catspyjamasnz) / [Eastern Institute of Technologyn](https://www.eit.ac.nz/) (NZ) ideaan. Soveltanut toukokuussa 2020 Moodle 3.x:lle [Nicolas Martignoni][nm] ja kääntänyt suomeksi [Ville Vierimaa](https://github.com/KV-Ville) ja [Teemu Eskola](https://github.com/XtraTerrestrial84) / [Careeria](https://www.careeria.fi) [Digital Vocational Education for All](https://www.digivet4all.com) -hankkeessa, joka on yhteisrahoitettu Euroopan Unionin Erasmus+ -ohjelmasta.
 
-{{< figure src="/img/erasmus.png" width="200px" >}}
+{{< figure src="/img/erasmus.png" width="200px" alt="erasmus+" title="erasmus+" >}}
 
 Moodletoolguide.net sivusto on lisensoitu [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) lisenssillä.
 
