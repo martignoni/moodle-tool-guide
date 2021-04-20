@@ -383,7 +383,7 @@ languages:
     menu:
       main:
         - url: /
-          name: Home
+          name: Koti
           weight: 1
         - url: /about/
           name: Tietoja
