@@ -1,3 +1,3 @@
 ---
-title: "Moodle'i abi õpetajatele"
+title: "Moodle'i tööriistade juhend"
 ---

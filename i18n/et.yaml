@@ -1,0 +1,61 @@
+# Column header strings
+- id: Resources
+  translation: "Resurssid"
+- id: Activities
+  translation: "Tegevused"
+- id: Inform
+  translation: "Teavitamine"
+- id: InformEvaluate
+  translation: "Teavitamine ja hindamine"
+- id: ShareData
+  translation: "Andmete jagamine"
+- id: IdentifyTrends
+  translation: "Info kogumine"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Lihtne Kasutada"
+- id: Transfer
+  translation: "Edastamine"
+- id: Evaluation
+  translation: "Hindamine"
+- id: Interaction
+  translation: "Suhtlus"
+- id: Creation
+  translation: "Loomine"
+- id: BloomLevels
+  translation: "Bloomi taksonoomia"
+# Legend
+- id: Legend
+  translation: "Legend"
+- id: Good
+  translation: "Suurepärane sobivus ja lihtne kasutada"
+- id: Neutral
+  translation: "Saab kasutada kohandades"
+- id: Bad
+  translation: "Pole selle tegevuse jaoks parim tööriist"
+# Colors
+- id: Green
+  translation: "Roheline"
+- id: Yellow
+  translation: "Kollane"
+- id: Red
+  translation: "Punane"
+# Footer
+- id: CopyrightLine1
+  translation: "Sisu on loonud [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Veebileht __[moodletoolguide.net](https://moodletoolguide.net)__ on litsenseeritud [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) rahvusvahelise litsentsi alusel."
+- id: CopyrightLine2
+  translation: "Idee on pärit [Joyce Seitzingerilt](https://twitter.com/catspyjamasnz) [Eastern Institute of Technologyst](https://www.eit.ac.nz/) (NZ). Kohandanud [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), [Gavin Henricku](https://twitter.com/ghenrick) töö põhjal."
+- id: CreditsTitle
+  translation: "Autori õigused ja litsents"
+- id: EnableDefaultColors
+  translation: "Kasuta eelisvärve"
+- id: EnableAccessibleColors
+  translation: "Pööra tähelepanu kättesaadavuse värvitoonides"
+- id: SupportTitle
+  translation: "Toetus annetusega"
+- id: SupportText
+  translation: "Tehke annetus ❤️ toetamaks Moodle Tool Guide veebilehte."
+- id: DonateNow
+  translation: "Tehke annetus!"
+
+

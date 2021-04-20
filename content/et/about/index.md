@@ -9,4 +9,4 @@ Idee  on pärit [Joyce Seitzingerilt](https://twitter.com/catspyjamasnz) [Easter
 
 Veebileht moodletoolguide.net on litsenseeritud Creative Commons BY-NC-SA 4.0 rahvusvahelise litsentsi alusel.
 
-Veebilehe looja  [Nicolas Martignoni](https://blog.martignoni.net/a-propos/). See nõuab  [brauseri uuema versiooni ](https://browsehappy.com/) kasutamist.
+Veebilehe looja [Nicolas Martignoni](https://blog.martignoni.net/a-propos/). See nõuab  [brauseri uuema versiooni](https://browsehappy.com/) kasutamist.
