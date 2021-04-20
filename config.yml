@@ -392,3 +392,34 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+
+  et:
+    languageName: Eesti
+    weight: 12
+    title: Moodle'i tööriistade juhend
+    slogan: Moodle Tool Guide for teachers and educators
+    description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+    keywords:
+    - Moodle
+    - Moodle'i tööriistade juhend
+    - Moodle Tool Guide
+    - Moodle Tool Guide for teachers
+    - Moodle Tools for teachers
+    - Moodle Guide
+    - Moodle Guide for teachers
+    - Moodle Guide for instructors
+    - Moodle Guide for trainers
+    contentDir: content/et
+    date_format: 2 January 2006
+    menu:
+      main:
+        - url: /
+          name: Home
+          weight: 1
+        - url: /about/
+          name: Meist
+          weight: 2
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
