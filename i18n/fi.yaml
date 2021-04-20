@@ -42,9 +42,9 @@
   translation: "punainen"
 # Footer
 - id: CopyrightLine1
-  translation: ""
+  translation: "Luonut [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Sivusto __[moodletoolguide.net](https://moodletoolguide.net)__ lisensoitu [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) lisenssillä."
 - id: CopyrightLine2
-  translation: ""
+  translation: "Perustuu [Joyce Seitzingerin](https://twitter.com/catspyjamasnz) / [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ) ideaan. Soveltanut [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), perustuen [Gavin Henrickin](https://twitter.com/ghenrick) työhön."
 - id: CreditsTitle
   translation: "Tekijät ja lisenssi"
 - id: EnableDefaultColors
