@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "Verktyg ↓",
+    "style": "header tool"
+  },
+  {
+    "id": "2",
+    "text": "Är det enkelt att skapa själv?",
+    "style": "header"
+  },
+  {
+    "id": "3",
+    "text": "Ett verktyg för att dela information till studeranden?",
+    "style": "header"
+  },
+  {
+    "id": "4",
+    "text": "Kan verktyget användas för att utvärdera inlärning?",
+    "style": "header"
+  },
+  {
+    "id": "5",
+    "text": "Kan verktyget användas för kommunikation och interaktion bland studeranden?",
+    "style": "header"
+  },
+  {
+    "id": "6",
+    "text": "Kan lärare och studerande samarbeta och skapa innehåll tillsammans?",
+    "style": "header"
+  },
+  {
+    "id": "7",
+    "text": "<ul><li>Minnas</li><li>Förstå</li><li>Tillämpa</li><li>Analysera</li><li>Värdera</li><li>Skapa</li></ul>",
+    "style": "header"
+  }
+]
