@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Forum</strong><br />Möjliggör duskussioner: debatter, rapportering, rollspel, ideér etc.",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, Forum har lämpliga standardinställningar. Det räcker med ett namn och en beskrivning.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Dela resurser som länkar eller filer. Lätt att tappa information ifall det finns många meddelanden.",
+    "style": "neutral"
+  },
+  {
+    "id": "4",
+    "text": "Forum är ett mångsidigt verktyg och tillåter utvärdering. ",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Ja, studeranden kan kommunicera med läraren och medstuderanden. Interaktion i grupper eller med hela klassen.",
+    "style": "good"
+  },
+  {
+    "id": "6",
+    "text": "Ja, studeranden kan samarbeta och utforska olika ämnen, diskutera och skriva tillsammans.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Förstå, tillämpa, analysera, värdera och skapa.",
+    "style": "good"
+  }
+]
