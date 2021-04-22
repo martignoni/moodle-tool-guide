@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Etikett</strong><br />Infoga text och multimedia",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, förbättrar kursens layout.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Ja. Enbart lärare kan lägga till innehåll. Enkelriktad kommunikation.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Inte direkt, kan användas för att beskriva en uppgift eller för att ge information.",
+    "style": "bad"
+  },
+  {
+    "id": "5",
+    "text": "Nej, Etikett är ett verktyg för att dela information, ingen möjlighet för interaktion.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Inte direkt, kan användas för att beskriva en uppgift eller för att ge information.",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "Inga, detta är inte en aktivitet för inlärning.",
+    "style": "bad"
+  }
+]
