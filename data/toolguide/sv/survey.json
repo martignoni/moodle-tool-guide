@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Frågeformulär</strong><br />Skapa en enkät",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, välj bland tre alternativ.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Nej, Frågeformulär är inte ett verktyg för att förmedla information.",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Inte direkt. Används för att samla feedback för att förbättra kursen.",
+    "style": "bad"
+  },
+  {
+    "id": "5",
+    "text": "Nej, tillåter enbart enkelriktad kommunikation.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Nej, detta är en individuell aktivitet.",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "2 / 6<br />Indirekt, hjälper studeranden att analysera och värdera inlärning.",
+    "style": "neutral"
+  }
+]
