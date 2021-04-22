@@ -1,0 +1,61 @@
+---
+- id: Resources
+  translation: Resurser
+- id: Activities
+  translation: Aktiviteter
+- id: Inform
+  translation: Informera
+- id: InformEvaluate
+  translation: Meddela och utvärdera
+- id: ShareData
+  translation: Dela information
+- id: IdentifyTrends
+  translation: Identiera trender
+- id: EaseOfUse
+  translation: Användarvänlighet
+- id: Transfer
+  translation: Förmedla
+- id: Evaluation
+  translation: Utvärdering
+- id: Interaction
+  translation: Interaktion
+- id: Creation
+  translation: Skapa
+- id: BloomLevels
+  translation: Blooms taxonomi
+- id: Legend
+  translation: Legend
+- id: Good
+  translation: Passar bra och är enkelt
+- id: Neutral
+  translation: Kan fungera om man tillämpar
+- id: Bad
+  translation: Inte bästa verktyget för detta ändamål
+- id: Green
+  translation: Grön
+- id: Yellow
+  translation: Gul
+- id: Red
+  translation: Röd
+- id: CopyrightLine1
+  translation: Innehållet är skapat av [Nicolas Martignoni](https://blog.martignoni.net/a-propos/)
+    – __[moodletoolguide.net](https://moodletoolguide.net)__ är liscensierad under
+    en [Creative Commons BY-NC-SA 4.0 Internationell](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+    licens.
+- id: CopyrightLine2
+  translation: 'Ursprungliga idén: [Joyce Seitzinger](https://twitter.com/catspyjamasnz),
+    [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Anpassad av [Nicolas
+    Martignoni](https://blog.martignoni.net/a-propos/), bygger på arbete av [Gavin
+    Henricks](https://twitter.com/ghenrick).'
+- id: CreditsTitle
+  translation: Författare och licenser
+- id: EnableDefaultColors
+  translation: Använd standardfärger
+- id: EnableAccessibleColors
+  translation: Möjliggör tillgängliga färger
+- id: SupportTitle
+  translation: Stöd med en donation
+- id: SupportText
+  translation: Gör en donation nu ❤️ för att stöda Moodle Tool Guide websidan.
+- id: DonateNow
+  translation: Gör en donation nu!

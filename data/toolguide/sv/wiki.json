@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Wiki</strong><br />Skapa collaborativa sidor som t.ex. Wikipedia",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Krångligt, bestäm individuella och gruppinställningar. Kan vara svårt att bemästra.",
+    "style": "neutral"
+  },
+  {
+    "id": "3",
+    "text": "Ja. Låt lärarna eller studeranden editera.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Wiki är ett mångsidigt verktyg och möjliggör utvärdering. Skapa den rätta aktiviteten.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Inte lämpligt för diskussioner. Använd för t.ex. brainstorming, planerande, kollaborativt skrivande etc.",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Ja, studeranden kan samarbeta och utforska olika ämnen, diskutera och skriva tillsammans.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Förstå, tillämpa, analysera, värdera och skapa.",
+    "style": "good"
+  }
+]

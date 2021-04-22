@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Bok</strong><br />Skapa en flersidig resurs med kapitel och underkapitel",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, som en tekstredigerare, enkelt att lägga till multimedia vid behov.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Ja. Lämpligt för att dela information i en strukturerad form.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Kanske, beror på innehållet, t.ex. en text och ett Kunskapstest efteråt.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Kanske, beror på innehållet, t.ex. en text och ett Kunskapstest efteråt.",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Kanske, beror på innehållet, t.ex. en text som man kan diskutera i efterhand.",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "4 / 6<br />Minnas, förstå, tillämpa och analysera.",
+    "style": "neutral"
+  }
+]

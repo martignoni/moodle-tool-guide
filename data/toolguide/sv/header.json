@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "Användarvänlighet / Pedagogiskt mål<span class=\"flush-right\">→</span>",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Användarvänlighet",
+    "style": "header-strong"
+  },
+  {
+    "id": "3",
+    "text": "Förmedla information",
+    "style": "header-strong"
+  },
+  {
+    "id": "4",
+    "text": "Utvärdera inlärning",
+    "style": "header-strong"
+  },
+  {
+    "id": "5",
+    "text": "Kommunikation & interaktion",
+    "style": "header-strong"
+  },
+  {
+    "id": "6",
+    "text": "Samarbete",
+    "style": "header-strong"
+  },
+  {
+    "id": "7",
+    "text": "Blooms taxonomi",
+    "style": "header-strong"
+  }
+]
