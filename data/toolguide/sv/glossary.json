@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Ordlista</strong><br />Skapa och underhåll en lista över definitioner, som en uppslagsbok, eller samla in och organisera resurser",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, standardinställningarna är bra. Välj formatet så att författarens namn är synligt.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Använd Ordlista för att definiera termer och presentera information. Det lönar sig att låta studeranden lägga till termer.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Ordlista är ett mångsidigt verktyg och möjliggör utvärdering. Skapa den rätta aktiviteten.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Inte lämpligt för diskussioner. Studeranden kan kommentera.",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Ja, klassen kan samla recensioner, resurser etc. Den ursprungliga författaren kan editera inlägget.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "5 / 6<br />Förstå, tillämpa, analysera, värdera och skapa.",
+    "style": "good"
+  }
+]
