@@ -2,7 +2,7 @@
 
 [Moodle Tool Guide][site] is an [open licensed][cc] multilingual reference card for using [Moodle][moodle] version 3 and later, designed for teachers, educators and trainers. It provides info on what Moodle tool to use according to the pedagogical goal to achieve.
 
-[Moodle Tool Guide][site] is available in 12 languages: English, French, Italian, German, Dutch, Basque, Brazilian Portuguese, Portuguese, Spanish, Chinese, Finnish and Estonian.
+[Moodle Tool Guide][site] is available in 13 languages: English, French, Italian, German, Dutch, Basque, Brazilian Portuguese, Portuguese, Spanish, Chinese, Swedish, Finnish and Estonian.
 
 [![Build Status](https://github.com/martignoni/moodle-tool-guide/workflows/Hugo%20CI%20&%20deploy/badge.svg)](https://github.com/martignoni/moodle-tool-guide/actions?query=workflow%3A%22Hugo+CI+%26+deploy%22)
 
@@ -43,6 +43,7 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 - Dutch translation courtesy of [Kathrien Bernaerts](https://twitter.com/kbernaerts) (Toll-Net) and [Gemma Lesterhuis](https://twitter.com/BeneluxMnet) (Stichting Mnet Benelux).
 - Finnish translation courtesy of [Teemu Eskola](https://github.com/XtraTerrestrial84) and [Ville Vierimaa](https://github.com/KV-Ville) of [Careeria](https://www.careeria.fi) in [Digital Vocational Education for All](https://www.digivet4all.com) project co-funded by the Erasmus+ programme of European Union.
 - Estonian translation courtesy of Anne Krull and Diana Eller of [Tartu KHK](https://khk.ee/) in [Digital Vocational Education for All](https://www.digivet4all.com) project co-funded by the Erasmus+ programme of European Union.
+- Swedish translation courtesy of Alexander Kainberg of [Careeria](https://www.careeria.fi) in [Digital Vocational Education for All](https://www.digivet4all.com) project co-funded by the Erasmus+ programme of European Union.
 
 ### The Layout
 

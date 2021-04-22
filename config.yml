@@ -364,7 +364,7 @@ languages:
 
   fi:
     languageName: Suomi
-    weight: 11
+    weight: 12
     title: Moodle-työkaluopas
     slogan: Moodle-työkaluopas opettajille
     description: "Moodle-työkaluopas: Nopea koontitaulukko opettajille Moodlen versio 3:n ja myöhemmin tulleiden käytön tueksi."
@@ -395,7 +395,7 @@ languages:
 
   et:
     languageName: Eesti
-    weight: 12
+    weight: 13
     title: Moodle'i tööriistade juhend
     slogan: Moodle Tool Guide for teachers and educators
     description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
@@ -418,6 +418,38 @@ languages:
           weight: 1
         - url: /about/
           name: Meist
+          weight: 2
+      icon:
+        - url: 'https://github.com/martignoni/moodle-tool-guide'
+          name: github
+          weight: 2
+
+  sv:
+    languageName: Svenska
+    weight: 11
+    title: Moodle-verktygsguide
+    slogan: Moodle Tool Guide for teachers and educators
+    description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+    keywords:
+    - Moodle
+    - Moodle Tools
+    - Moodle Tools Guide
+    - Moodle Tool Guide
+    - Moodle Tool Guide for teachers
+    - Moodle Tools for teachers
+    - Moodle Guide
+    - Moodle Guide for teachers
+    - Moodle Guide for instructors
+    - Moodle Guide for trainers
+    contentDir: content/sv
+    date_format: 2 January 2006
+    menu:
+      main:
+        - url: /
+          name: Home
+          weight: 1
+        - url: /about/
+          name: Om
           weight: 2
       icon:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
