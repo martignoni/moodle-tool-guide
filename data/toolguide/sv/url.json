@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>URL</strong><br />Länka till en websida",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, kopiera/klistra in en länk (URL) som börjar med http eller https.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Enkelt sätt att dirigera studeranden till extern information, t.ex. en artikel.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Inte direkt. Du kan ge en länk till en extern aktivitet såsom e-portfolion eller en blogg.",
+    "style": "bad"
+  },
+  {
+    "id": "5",
+    "text": "Kanske, länka till externa verktyg t.ex. kalendrar, grupper, bloggar etc.",
+    "style": "neutral"
+  },
+  {
+    "id": "6",
+    "text": "Kanske, länka till externa verktyg t.ex. kalendrar, grupper, bloggar etc.",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Alla nivåer möjliga beroende på länken.",
+    "style": "neutral"
+  }
+]
