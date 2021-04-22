@@ -44,7 +44,7 @@
 - id: CopyrightLine1
   translation: "Sisu on loonud [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Veebileht __[moodletoolguide.net](https://moodletoolguide.net)__ on litsenseeritud [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) rahvusvahelise litsentsi alusel."
 - id: CopyrightLine2
-  translation: "Idee on pärit [Joyce Seitzingerilt](https://twitter.com/catspyjamasnz) [Eastern Institute of Technologyst](https://www.eit.ac.nz/) (NZ). Kohandanud [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), [Gavin Henricku](https://twitter.com/ghenrick) töö põhjal."
+  translation: "Idee on pärit [Joyce Seitzinger](https://twitter.com/catspyjamasnz) [Eastern Institute of Technologyst](https://www.eit.ac.nz/) (NZ). Kohandanud [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), [Gavin Henricku](https://twitter.com/ghenrick) töö põhjal."
 - id: CreditsTitle
   translation: "Autori õigused ja litsents"
 - id: EnableDefaultColors
