@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Chat</strong><br />Diskutera i realtid",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, fungerar som Messenger eller iMessage. Administrationen kan vara mödosam",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Använd för att bjuda in personer. Snabbt tempo, risk för passivt deltagande.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Chat är ett mångsidigt verktyg. Kan användas som formativ utvärdering. ",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Ja, t.ex. debatter, grupphandledning eller Q&A.",
+    "style": "good"
+  },
+  {
+    "id": "6",
+    "text": "Ja, studeranden kan samarbeta och utforska olika ämnen, diskutera och skriva tillsammans.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Tillåter att testa alla nivåer i realtid.",
+    "style": "good"
+  }
+]
