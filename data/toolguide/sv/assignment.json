@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Inlämningsuppgift</strong><br />Samla in, utvärdera och ge feedback till uppgifter.",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, välj mellan två typer. Möjliggör både online- och offlineuppgifter.",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Nej. Kan dock innehålla kontextbundet innehåll angående uppgiften.",
+    "style": "bad"
+  },
+  {
+    "id": "4",
+    "text": "Ja. Bestäm deadlines och vitsordsgränser. Samla in uppgifter och ge vitsord och feedback.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Nej, tillåter begränsad interaktion mellan lärare och studeranden.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Ja, tillåter gruppuppgifter.",
+    "style": "good"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Indirekt, beror på uppgiften.",
+    "style": "good"
+  }
+]
