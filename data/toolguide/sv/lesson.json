@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Lektion</strong><br />Leverera innehålls- och övningsaktiviteter på ett flexibelt sätt",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Kan vara krångligt att skapa. Planera din lektion noggrant, det är värt mödan.",
+    "style": "neutral"
+  },
+  {
+    "id": "3",
+    "text": "Bra för att presentera information på ett förgrenat sätt. Möjliggör adaptiv inlärning.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Ja, tillåter utvärdering. Använd som ett förgrenat Kunskapstest, scenario, case study, rolspel etc.",
+    "style": "good"
+  },
+  {
+    "id": "5",
+    "text": "Nej, detta är en individuell aktivitet, inte en gruppaktivitet.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Nej, detta är en individuell aktivitet, inte en gruppaktivitet.",
+    "style": "bad"
+  },
+  {
+    "id": "7",
+    "text": "6 / 6<br />Alla nivåer om man är kreativ.",
+    "style": "neutral"
+  }
+]
