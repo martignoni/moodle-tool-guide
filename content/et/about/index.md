@@ -7,7 +7,7 @@ description: Mis on Moodle juhend?
 
 Idee autor [Joyce Seitzinger](https://twitter.com/catspyjamasnz), [Eastern Institute of Technologyst](https://www.eit.ac.nz/) (NZ). Kohandatud Moodle 3.x versioonile mais, 2020, kohanduse autor [Nicolas Martignoni](https://blog.martignoni.net/a-propos/). Eesti keelde tõlkinud Anne Krull ja Diana Eller, [Tartu Kutsehariduskeskus](https://khk.ee/). Materjal on valminud EU Erasmus+ projekti [Digital Vocational Education for All](https://www.digivet4all.com) raames.
 
-{{< figure src="/img/erasmus-et.png" width="450px" alt="erasmus+" >}}
+{{< figure src="/img/erasmus-et.png" width="300px" alt="erasmus+" >}}
 
 Veebileht moodletoolguide.net on litsenseeritud Creative Commons BY-NC-SA 4.0 rahvusvahelise litsentsi alusel.
 
