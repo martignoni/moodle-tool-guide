@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "<strong>Fil</strong><br />Ladda upp en fil",
+    "style": "header"
+  },
+  {
+    "id": "2",
+    "text": "Enkelt, som en epostbilaga. Fungerar dokumentet för sig själv? ",
+    "style": "good"
+  },
+  {
+    "id": "3",
+    "text": "Ja. Enbart lärare kan lägga till innehåll. Enkelriktad kommunikation.",
+    "style": "good"
+  },
+  {
+    "id": "4",
+    "text": "Kanske. Använd för att ge en uppgift. Samla in genom Forum eller Inlämningsuppgift.",
+    "style": "neutral"
+  },
+  {
+    "id": "5",
+    "text": "Nej, Fil är ett verktyg för att dela information, ingen möjlighet för interaktion.",
+    "style": "bad"
+  },
+  {
+    "id": "6",
+    "text": "Kanske. Använd för att ge en uppgift. Samla in genom Forum eller Inlämningsuppgift.",
+    "style": "neutral"
+  },
+  {
+    "id": "7",
+    "text": "Inga, detta är inte en aktivitet för inlärning.",
+    "style": "bad"
+  }
+]
