@@ -415,7 +415,7 @@ languages:
     menu:
       main:
         - url: /
-          name: Home
+          name: Kodu
           weight: 1
         - url: /about/
           name: Meist
@@ -450,7 +450,7 @@ languages:
     menu:
       main:
         - url: /
-          name: Home
+          name: Hem
           weight: 1
         - url: /about/
           name: Om
