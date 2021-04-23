@@ -397,18 +397,19 @@ languages:
     languageName: Eesti
     weight: 13
     title: Moodle'i tööriistade juhend
-    slogan: Moodle Tool Guide for teachers and educators
-    description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+    slogan: Juhised Moodle kasutamiseks õpetajatele ja koolitajatele
+    description: 'Lühike, kokkuvõttev juhendmaterjal Moodle 3,0 ja hilisematele versioonidele õpetajatele ja koolitajatele.'
     keywords:
     - Moodle
+    - Moodle vahendid
     - Moodle'i tööriistade juhend
-    - Moodle Tool Guide
-    - Moodle Tool Guide for teachers
-    - Moodle Tools for teachers
-    - Moodle Guide
-    - Moodle Guide for teachers
-    - Moodle Guide for instructors
-    - Moodle Guide for trainers
+    - Juhised Moodle vahendite kasutamiseks
+    - Juhised õpetajale Moodle vahendite kasutamiseks
+    - Moodle vahendid õpetajatele
+    - Moodle juhendmaterjal
+    - Juhised õpetajale Moodle kasutamiseks
+    - Juhised Moodle kasutamiseks juhendajale
+    - Juhised koolitajale Moodle kasutamiseks
     contentDir: content/et
     date_format: 2 January 2006
     menu:
@@ -428,19 +429,22 @@ languages:
     languageName: Svenska
     weight: 11
     title: Moodle-verktygsguide
-    slogan: Moodle Tool Guide for teachers and educators
-    description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+    slogan: Moodle-verktygsguide för lärare och utbildare
+    description: 'Moodle-verktygsguide: En snabb referensguide för lärare och utbildare för Moodle (version 3 och nyare).'
     keywords:
     - Moodle
-    - Moodle Tools
-    - Moodle Tools Guide
-    - Moodle Tool Guide
-    - Moodle Tool Guide for teachers
-    - Moodle Tools for teachers
-    - Moodle Guide
-    - Moodle Guide for teachers
-    - Moodle Guide for instructors
-    - Moodle Guide for trainers
+    - Moodleverktyg
+    - Moodle-verktygsguide
+    - Moodle-verktygsguide för lärare
+    - Moodle-verktygsguide för instruktörer
+    - Moodle-verktygsguide för skolare
+    - Moodleverktyg för lärare
+    - Moodleverktyg för instruktörer
+    - Moodleverktyg för skolare
+    - Moodleguide
+    - Moodleguide för lärare
+    - Moodleguide för instruktörer
+    - Moodleguide för skolare
     contentDir: content/sv
     date_format: 2 January 2006
     menu:
