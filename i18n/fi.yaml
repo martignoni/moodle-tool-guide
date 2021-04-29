@@ -44,13 +44,13 @@
     [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ) ideaan. Soveltanut
     [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), perustuen [Gavin
     Henrickin](https://twitter.com/ghenrick) työhön.
-- id: EnableAccessibleColors
-  translation: Huomioi saavutettavuus väreissä
+- id: CreditsTitle
+  translation: Tekijät ja lisenssi
 - id: EnableDefaultColors
   translation: Käytä oletusvärejä
 - id: EnableAccessibleColors
   translation: Tee lahjoitus nyt ❤️ tukeaksesi Moodle Tool Guide -sivustoa.
-- id: SupportTitle
+- id: DonateNow
   translation: Lahjoita nyt!
 - id: SupportText
   translation: Tee lahjoitus nyt ❤️ tukeaksesi Moodle Tool Guide -sivustoa.
