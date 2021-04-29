@@ -1,59 +1,58 @@
-# Column header strings
+---
 - id: Resources
-  translation: "Aineistot"
+  translation: Aineistot
 - id: Activities
-  translation: "Aktiviteetit"
+  translation: Aktiviteetit
 - id: Inform
-  translation: "Tiedon välittäminen"
+  translation: Tiedon välittäminen
 - id: InformEvaluate
-  translation: "Tiedon välittäminen ja arviointi"
+  translation: Tiedon välittäminen ja arviointi
 - id: ShareData
-  translation: "Tiedon jakaminen"
+  translation: Tiedon jakaminen
 - id: IdentifyTrends
-  translation: "Tiedon kerääminen ja jäsentäminen"
-# Row header strings, used in small scren rendering
+  translation: Tiedon kerääminen ja jäsentäminen
 - id: EaseOfUse
-  translation: "Käytön helppous"
+  translation: Käytön helppous
 - id: Transfer
-  translation: "Siirtäminen"
+  translation: Siirtäminen
 - id: Evaluation
-  translation: "Arvioiminen"
+  translation: Arvioiminen
 - id: Interaction
-  translation: "Vuorovaikutus"
+  translation: Vuorovaikutus
 - id: Creation
-  translation: "Luominen"
+  translation: Luominen
 - id: BloomLevels
-  translation: "Bloomin tasot"
-# Legend
+  translation: Bloomin tasot
 - id: Legend
-  translation: "Selitykset"
+  translation: Selitykset
 - id: Good
-  translation: "Sopiva ja helppo"
+  translation: Sopiva ja helppo
 - id: Neutral
-  translation: "Toimii hyvällä suunnittelulla"
+  translation: Toimii hyvällä suunnittelulla
 - id: Bad
-  translation: "Ei paras käyttötarkoitukseen"
-# Colors
+  translation: Ei paras käyttötarkoitukseen
 - id: Green
-  translation: "vihreä"
+  translation: vihreä
 - id: Yellow
-  translation: "keltainen"
+  translation: keltainen
 - id: Red
-  translation: "punainen"
-# Footer
+  translation: punainen
 - id: CopyrightLine1
-  translation: "Luonut [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – Sivusto __[moodletoolguide.net](https://moodletoolguide.net)__ lisensoitu [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) lisenssillä."
+  translation: Tekijät ja lisenssi
 - id: CopyrightLine2
-  translation: "Perustuu [Joyce Seitzingerin](https://twitter.com/catspyjamasnz) / [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ) ideaan. Soveltanut [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), perustuen [Gavin Henrickin](https://twitter.com/ghenrick) työhön."
-- id: CreditsTitle
-  translation: "Tekijät ja lisenssi"
-- id: EnableDefaultColors
-  translation: "Käytä oletusvärejä"
+  translation: Perustuu [Joyce Seitzingerin](https://twitter.com/catspyjamasnz) /
+    [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ) ideaan. Soveltanut
+    [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), perustuen [Gavin
+    Henrickin](https://twitter.com/ghenrick) työhön.
 - id: EnableAccessibleColors
-  translation: "Huomioi saavutettavuus väreissä"
+  translation: Huomioi saavutettavuus väreissä
+- id: EnableDefaultColors
+  translation: Käytä oletusvärejä
+- id: EnableAccessibleColors
+  translation: Tee lahjoitus nyt ❤️ tukeaksesi Moodle Tool Guide -sivustoa.
 - id: SupportTitle
-  translation: "Tue lahjoituksella"
+  translation: Lahjoita nyt!
 - id: SupportText
-  translation: "Tee lahjoitus nyt ❤️ tukeaksesi Moodle Tool Guide -sivustoa."
+  translation: Tee lahjoitus nyt ❤️ tukeaksesi Moodle Tool Guide -sivustoa.
 - id: DonateNow
-  translation: "Lahjoita nyt!"
+  translation: Lahjoita nyt!
