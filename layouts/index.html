@@ -2,7 +2,7 @@
 
 <main>
     <div class="">
-        <h1>{{ site.Params.slogan }} <a href="https://moodle.org" target="_blank"><img src="/img/moodle-logo-icon.png" height="50px"></img></a></h1>
+        <h1>{{ site.Params.slogan }} <a href="https://moodle.org" target="_blank"><img src="/img/moodle-logo-icon.png" height="50px" width="50px"></img></a></h1>
         {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
         {{ partial "toolguide" . }}
     </div>
