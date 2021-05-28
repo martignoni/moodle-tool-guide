@@ -13,6 +13,7 @@
     <meta name="description" content="{{ partial "description" . }}">
     {{ template "_internal/opengraph.html" . }}
     {{ partial "favicon" . }}
+    {{ partial "css" . }}
     {{ with .OutputFormats.Get "RSS" }}
       <link href="{{ .RelPermalink }}" rel="alternate" type="{{ .MediaType.Type }}" title="{{ site.Title }}" />
       <link href="{{ .RelPermalink }}" rel="feed" type="{{ .MediaType.Type }}" title="{{ site.Title }}" />
