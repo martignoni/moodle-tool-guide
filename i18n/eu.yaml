@@ -15,7 +15,7 @@
 - id: EaseOfUse
   translation: "Erabilterraztasuna"
 - id: Transfer
-  translation: "Bidaltzea"
+  translation: "Informazioa"
 - id: Evaluation
   translation: "Ebaluazioa"
 - id: Interaction
@@ -30,7 +30,7 @@
 - id: Good
   translation: "Erraza eta primeran egokitzen da"
 - id: Neutral
-  translation: "Diseinu batzuetan balio dezake"
+  translation: "Kasu batzuetan balio dezake"
 - id: Bad
   translation: "Ez da tresnarik onena helburu horretarako"
 # Colors
@@ -44,7 +44,7 @@
 - id: CopyrightLine1
   translation: "[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)-ek egina – __[moodletoolguide.net](https://moodletoolguide.net)__ webgunea [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) lizentziapean argitaratu da."
 - id: CopyrightLine2
-  translation: "Tresna hau [Eastern Institute of Technology](https://www.eit.ac.nz/)-ko (Zeelanda Berria) [Joyce Seitzinger](https://twitter.com/catspyjamasnz)-en ideia izan zen, 2020ko maiatzean Moodle 3.x-erako [Nicolas Martignoni](https://blog.martignoni.net/a-propos/)-ek egokitua eta [Iñigo Zendegi](https://moodle.org/user/profile.php?id=709961)k euskaratua."
+  translation: "Tresna hau [Eastern Institute of Technology](https://www.eit.ac.nz/)-ko (Zeelanda Berria) [Joyce Seitzinger](https://twitter.com/catspyjamasnz)en ideia izan zen, 2020ko maiatzean Moodle 3.x-erako [Nicolas Martignoni](https://blog.martignoni.net/a-propos/)k egokitua eta [Iñigo Zendegi](https://moodle.org/user/profile.php?id=709961)k euskaratua."
 - id: CreditsTitle
   translation: "Kredituak eta lizentzia"
 - id: EnableDefaultColors
@@ -52,8 +52,8 @@
 - id: EnableAccessibleColors
   translation: "Gaitu kolore irisgarriak"
 - id: SupportTitle
-  translation: "Babesa eman donazio batekin"
+  translation: "Sostengua eman donazio batekin"
 - id: SupportText
-  translation: "Egin donazio bat orain ❤️ Moodleko Tresnen Gida webguneari babesa emateko."
+  translation: "Egin donazio bat orain ❤️ Moodleko Tresnen Gida webguneari sostengua emateko."
 - id: DonateNow
   translation: "Egin donazioa orain!"
