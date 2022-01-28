@@ -70,6 +70,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   fr:
     languageName: Français
@@ -101,6 +102,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "sources GitHub"
 
   it:
     languageName: Italiano
@@ -133,6 +135,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   de:
     languageName: Deutsch
@@ -168,6 +171,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   es:
     languageName: Español
@@ -200,6 +204,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   nl:
     languageName: Nederlands
@@ -235,6 +240,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   eu:
     languageName: Euskara
@@ -267,6 +273,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   pt-br:
     languageName: Português (Brasil)
@@ -298,6 +305,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   pt-pt:
     languageName: Português
@@ -329,6 +337,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   zh:
     languageName: 中文
@@ -361,6 +370,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   fi:
     languageName: Suomi
@@ -392,6 +402,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   et:
     languageName: Eesti
@@ -424,6 +435,7 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
 
   sv:
     languageName: Svenska
@@ -459,3 +471,4 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+          title: "GitHub sources"
