@@ -1,6 +1,7 @@
 # Hugo
 public/
 resources/_gen
+.hugo_build.lock
 
 # Auxiliary doc files
 _temp
