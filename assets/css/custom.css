@@ -48,10 +48,6 @@ $accessible-gray-column-color: $gray-column-color;
   background-color: $accessible-neutral-color;
 }
 
-.accessible-colors .navbar-default .navbar-nav>li>a{
-  color: #707070; /* Grey */
-}
-
 .accessible-colors{
   --accent: #BB4E06;
 }

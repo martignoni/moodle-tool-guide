@@ -121,6 +121,10 @@ a:hover {
     border-top: var(--border-width) solid var(--accent);
 }
 
+.navbar-default .navbar-nav>li>a{
+  color: #707070; /* Accessible Grey */
+}
+
 footer {
     border-bottom: var(--border-width) solid var(--accent);
     background-color: #f8f8f8;
