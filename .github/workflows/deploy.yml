@@ -3,7 +3,7 @@ name: Hugo CI & deploy
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           submodules: true
       - name: Setup Hugo
@@ -20,13 +20,13 @@ jobs:
           hugo-version: ${{ env.HUGO_RELEASE }}
           extended: true
         env:
-          HUGO_RELEASE: '0.91.2'
+          HUGO_RELEASE: '0.101.0'
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: '12.x'
+          node-version: '14'
       - name: Cache dependencies
-        uses: actions/cache@v1
+        uses: actions/cache@v2
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -35,9 +35,9 @@ jobs:
       - name: Run Node
         run: npm ci
       - name: Build website with Hugo
-        run: hugo --minify --i18n-warnings
+        run: hugo --minify --printI18nWarnings
       - name: Deploy website with rsync
-        uses: burnett01/rsync-deployments@4.1
+        uses: burnett01/rsync-deployments@5.2
         with:
           switches: -avzr --quiet --delete
           path: public/
