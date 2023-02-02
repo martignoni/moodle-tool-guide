@@ -48,6 +48,9 @@ $accessible-gray-column-color: $gray-column-color;
   background-color: $accessible-neutral-color;
 }
 
+.accessible-colors{
+  --accent: #BB4E06;
+}
 /**
 Layout for desktop and laptop
  **/
@@ -59,9 +62,10 @@ Layout for desktop and laptop
 }
 
 .home h1 {
-  color: #f98012;
+  color: var(--accent);
   margin-bottom: 2ex;
 }
+
 
 footer .copyright {
   margin: 1em 2em;
