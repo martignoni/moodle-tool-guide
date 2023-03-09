@@ -20,7 +20,7 @@ jobs:
           hugo-version: ${{ env.HUGO_RELEASE }}
           extended: true
         env:
-          HUGO_RELEASE: '0.101.0'
+          HUGO_RELEASE: '0.111.2'
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
