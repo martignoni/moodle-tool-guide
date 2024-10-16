@@ -12,7 +12,7 @@ enableRobotsTXT: true
 
 disableKinds:
 - taxonomy
-- taxonomyTerm
+- term
 
 markup:
   goldmark:
