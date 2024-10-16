@@ -10,7 +10,7 @@
 <!-- CSS purge and minify, see https://janaksingh.com/blog/hugo-css-concat-minify-purgecss-tutorial/ -->
 <!-- Use translations in assets, see https://discourse.gohugo.io/t/is-it-possible-to-use-translations-in-assets/20726 -->
 {{ $css_options := (dict ) }}
-{{ if site.IsServer }}
+{{ if hugo.IsServer }}
   {{ $cssOpts := merge $css_options (dict "enableSourceMap" true) }}
   {{ $mainCSS := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | toCSS $cssOpts }}
   {{ $customCSS := resources.Get "css/custom.css" | resources.ExecuteAsTemplate "css/custom.css" . | toCSS $cssOpts }}
