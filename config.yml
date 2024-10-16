@@ -224,6 +224,22 @@ languages:
           name: github
           weight: 2
     params:
+      slogan: Moodle Gereedschapsgids voor onderwijzers en trainers
+      description: 'Moodle Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van Moodle versie 3 en nieuwer.'
+      keywords:
+        - Moodle
+        - Moodle Gereedschappen
+        - Moodle Gereedschapsgids
+        - Moodle Gereedschap Gids
+        - Moodle Gereerdschap Gids voor onderwijzers
+        - Moodle Gereedschap voor docenten
+        - Moodle Gids
+        - Moodle Gids voor leraren
+        - Moodle Gids voor docenten
+        - Moodle Gids voor trainers
+        - Moodle Gereedschapsgids voor onderwijzers
+        - Moodle Gereedschapsgids voor leraren
+        - Moodle Gereedschapsgids voor Onderwijzers en Leraren
       date_format: 2 January 2006
 
   eu:
