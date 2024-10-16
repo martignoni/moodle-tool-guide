@@ -6,7 +6,7 @@ User-agent: *
   {{- end }}
 {{ end }}
 Sitemap: {{ "sitemap.xml" | absURL -}}
-{{- if site.IsMultiLingual }}
+{{- if hugo.IsMultilingual }}
 {{ range site.Languages -}}
   Sitemap: {{ printf "%s/sitemap.xml" .Lang | absURL }}
 {{ end }}
