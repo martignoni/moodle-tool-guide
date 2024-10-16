@@ -43,21 +43,7 @@ languages:
     languageName: English
     weight: 1
     title: Moodle Tool Guide
-    slogan: Moodle Tool Guide for teachers and educators
-    description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
-    keywords:
-    - Moodle
-    - Moodle Tools
-    - Moodle Tools Guide
-    - Moodle Tool Guide
-    - Moodle Tool Guide for teachers
-    - Moodle Tools for teachers
-    - Moodle Guide
-    - Moodle Guide for teachers
-    - Moodle Guide for instructors
-    - Moodle Guide for trainers
     contentDir: content/en
-    date_format: January 2, 2006
     menu:
       main:
         - url: /
@@ -70,25 +56,27 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Moodle Tool Guide for teachers and educators
+      description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+      keywords:
+        - Moodle
+        - Moodle Tools
+        - Moodle Tools Guide
+        - Moodle Tool Guide
+        - Moodle Tool Guide for teachers
+        - Moodle Tools for teachers
+        - Moodle Guide
+        - Moodle Guide for teachers
+        - Moodle Guide for instructors
+        - Moodle Guide for trainers
+      date_format: January 2, 2006
 
   fr:
     languageName: Français
     weight: 2
     title: Guide des outils Moodle
-    slogan: Guide des outils Moodle pour enseignant·es et formateur·trices
-    description: "Guide des outils Moodle : un aide-mémoire pour l'utilisation de Moodle version 3 et ultérieures, destiné aux enseignantes et enseignants et aux formatrices et formateurs."
-    keywords:
-    - Moodle
-    - Outils Moodle
-    - Guide des outils Moodle
-    - Outils Moodle pour enseignants
-    - Guide des outils Moodle pour enseignants
-    - Outils Moodle pour formateurs
-    - Guide Moodle
-    - Guide Moodle pour enseignants
-    - Guide Moodle pour formateurs
     contentDir: content/fr
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -101,26 +89,26 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Guide des outils Moodle pour enseignant·es et formateur·trices
+      description: "Guide des outils Moodle : un aide-mémoire pour l'utilisation de Moodle version 3 et ultérieures, destiné aux enseignantes et enseignants et aux formatrices et formateurs."
+      keywords:
+        - Moodle
+        - Outils Moodle
+        - Guide des outils Moodle
+        - Outils Moodle pour enseignants
+        - Guide des outils Moodle pour enseignants
+        - Outils Moodle pour formateurs
+        - Guide Moodle
+        - Guide Moodle pour enseignants
+        - Guide Moodle pour formateurs
+      date_format: 2 January 2006
 
   it:
     languageName: Italiano
     weight: 3
     title: Guida agli strumenti Moodle
-    slogan: Guida agli strumenti Moodle per insegnanti e formatori
-    description: "Guida agli strumenti Moodle: un promemoria per l'utilizzo di Moodle versione 3 e successive, destinato a insegnanti e formatori."
-    keywords:
-    - Moodle
-    - Moodle Tools
-    - Moodle Tools Guide
-    - Moodle Tool Guide
-    - Moodle Tool Guide for teachers
-    - Moodle Tools for teachers
-    - Moodle Guide
-    - Moodle Guide for teachers
-    - Moodle Guide for instructors
-    - Moodle Guide for trainers
     contentDir: content/it
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -133,29 +121,27 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Guida agli strumenti Moodle per insegnanti e formatori
+      description: "Guida agli strumenti Moodle: un promemoria per l'utilizzo di Moodle versione 3 e successive, destinato a insegnanti e formatori."
+      keywords:
+        - Moodle
+        - Moodle Tools
+        - Moodle Tools Guide
+        - Moodle Tool Guide
+        - Moodle Tool Guide for teachers
+        - Moodle Tools for teachers
+        - Moodle Guide
+        - Moodle Guide for teachers
+        - Moodle Guide for instructors
+        - Moodle Guide for trainers
+      date_format: 2 January 2006
 
   de:
     languageName: Deutsch
     weight: 4
     title: Moodle-Werkzeuge für Lehrpersonen
-    slogan: Moodle-Werkzeuge für Lehrpersonen und Trainer
-    description: 'Moodle-Werkzeuge für Lehrpersonen: Eine Kurzanleitung für Lehrpersonen und Trainer zur Verwendung von Moodle Version 3 und neuer.'
-    keywords:
-    - Moodle
-    - Moodle Tools
-    - Moodle Tools Guide
-    - Moodle Tool Guide
-    - Moodle Tool Guide for teachers
-    - Moodle Tools for teachers
-    - Moodle Guide
-    - Moodle Guide for teachers
-    - Moodle Guide for instructors
-    - Moodle Guide for trainers
-    - Moodle-Werkzeuge für Lehrpersonen
-    - Moodle-Werkzeuge für Trainer
-    - Moodle-Werkzeuge für Lehrpersonen und Trainer
     contentDir: content/de
-    date_format: 2. January 2006
     menu:
       main:
         - url: /
@@ -168,26 +154,30 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Moodle-Werkzeuge für Lehrpersonen und Trainer
+      description: 'Moodle-Werkzeuge für Lehrpersonen: Eine Kurzanleitung für Lehrpersonen und Trainer zur Verwendung von Moodle Version 3 und neuer.'
+      keywords:
+        - Moodle
+        - Moodle Tools
+        - Moodle Tools Guide
+        - Moodle Tool Guide
+        - Moodle Tool Guide for teachers
+        - Moodle Tools for teachers
+        - Moodle Guide
+        - Moodle Guide for teachers
+        - Moodle Guide for instructors
+        - Moodle Guide for trainers
+        - Moodle-Werkzeuge für Lehrpersonen
+        - Moodle-Werkzeuge für Trainer
+        - Moodle-Werkzeuge für Lehrpersonen und Trainer
+      date_format: 2. January 2006
 
   es:
     languageName: Español
     weight: 5
     title: Guía de las herramientas de Moodle
-    slogan: Guía de las herramientas de Moodle para docentes y formadores
-    description: "Guía de las herramientas de Moodle: un documento de referencia para profesores y educadores para usar la versión 3 y posterior de Moodle."
-    keywords:
-    - Moodle
-    - herramientas de Moodle
-    - Guía de las herramientas de Moodle
-    - Herramientas de Moodle para docentes
-    - Herramientas de Moodle para formadores
-    - Guía de las herramientas de Moodle para docentes
-    - Guía de las herramientas de Moodle para formadores
-    - Guía de Moodle
-    - Guía de Moodle para docentes
-    - Guía de Moodle para formadores
     contentDir: content/es
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -200,29 +190,27 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Guía de las herramientas de Moodle para docentes y formadores
+      description: "Guía de las herramientas de Moodle: un documento de referencia para profesores y educadores para usar la versión 3 y posterior de Moodle."
+      keywords:
+        - Moodle
+        - herramientas de Moodle
+        - Guía de las herramientas de Moodle
+        - Herramientas de Moodle para docentes
+        - Herramientas de Moodle para formadores
+        - Guía de las herramientas de Moodle para docentes
+        - Guía de las herramientas de Moodle para formadores
+        - Guía de Moodle
+        - Guía de Moodle para docentes
+        - Guía de Moodle para formadores
+      date_format: 2 January 2006
 
   nl:
     languageName: Nederlands
     weight: 6
     title: Moodle Gereedschapsgids
-    slogan: Moodle Gereedschapsgids voor onderwijzers en trainers
-    description: 'Moodle Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van Moodle versie 3 en nieuwer.'
-    keywords:
-    - Moodle
-    - Moodle Gereedschappen
-    - Moodle Gereedschapsgids
-    - Moodle Gereedschap Gids
-    - Moodle Gereerdschap Gids voor onderwijzers
-    - Moodle Gereedschap voor docenten
-    - Moodle Gids
-    - Moodle Gids voor leraren
-    - Moodle Gids voor docenten
-    - Moodle Gids voor trainers
-    - Moodle Gereedschapsgids voor onderwijzers
-    - Moodle Gereedschapsgids voor leraren
-    - Moodle Gereedschapsgids voor Onderwijzers en Leraren
     contentDir: content/nl
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -235,6 +223,8 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      date_format: 2 January 2006
 
   eu:
     languageName: Euskara
@@ -254,7 +244,6 @@ languages:
     - Moodleko Gida hezitzaileentzat
     - Moodleko Gida trebatzaileentzat
     contentDir: content/eu
-    date_format: 2006 January 2
     menu:
       main:
         - url: /
@@ -267,25 +256,30 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Moodle Gereedschapsgids voor onderwijzers en trainers
+      description: 'Moodle Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van Moodle versie 3 en nieuwer.'
+      keywords:
+        - Moodle
+        - Moodle Gereedschappen
+        - Moodle Gereedschapsgids
+        - Moodle Gereedschap Gids
+        - Moodle Gereerdschap Gids voor onderwijzers
+        - Moodle Gereedschap voor docenten
+        - Moodle Gids
+        - Moodle Gids voor leraren
+        - Moodle Gids voor docenten
+        - Moodle Gids voor trainers
+        - Moodle Gereedschapsgids voor onderwijzers
+        - Moodle Gereedschapsgids voor leraren
+        - Moodle Gereedschapsgids voor Onderwijzers en Leraren
+      date_format: 2006 January 2
 
   pt-br:
     languageName: Português (Brasil)
     weight: 8
     title: Guia de Ferramentas Moodle
-    slogan: Guia de Ferramentas Moodle para Professores e Educadores
-    description: "Guia de Ferramentas Moodle: Um Guia de Referência Rápida para professores e educadores usarem o Moodle versão 3 e posterior."
-    keywords:
-    - Moodle
-    - Ferramentas Moodle
-    - Guia de Ferramentas Moodle
-    - Ferramentas Moodle para Professores
-    - Ferramentas Moodle para Educadores
-    - Guia de Ferramentas Moodle para Professores
-    - Guia de Ferramentas Moodle para Educadores
-    - Guia Moodle para Professores
-    - Guia Moodle para Educadores
     contentDir: content/pt-br
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -298,25 +292,26 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Guia de Ferramentas Moodle para Professores e Educadores
+      description: "Guia de Ferramentas Moodle: Um Guia de Referência Rápida para professores e educadores usarem o Moodle versão 3 e posterior."
+      keywords:
+        - Moodle
+        - Ferramentas Moodle
+        - Guia de Ferramentas Moodle
+        - Ferramentas Moodle para Professores
+        - Ferramentas Moodle para Educadores
+        - Guia de Ferramentas Moodle para Professores
+        - Guia de Ferramentas Moodle para Educadores
+        - Guia Moodle para Professores
+        - Guia Moodle para Educadores
+      date_format: 2 January 2006
 
   pt-pt:
     languageName: Português
     weight: 9
     title: Guia de Ferramentas do Moodle
-    slogan: Guia de ferramentas do Moodle para professores e formadores
-    description: "Guia de Ferramentas do Moodle: um guia rápido sobre a utilização do Moodle, versão 3 e posteriores, destinado a professores e formadores."
-    keywords:
-    - Moodle
-    - Ferramentas do Moodle
-    - Guia de Ferramentas do Moodle
-    - Ferramentas Moodle para professores
-    - Guia de ferramentas do Moodle para educadores
-    - Ferramentas Moodle para formadores
-    - Guia do Moodle
-    - Guia Moodle para educadores
-    - Guia Moodle para formadores
     contentDir: content/pt-pt
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -329,26 +324,26 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Guia de ferramentas do Moodle para professores e formadores
+      description: "Guia de Ferramentas do Moodle: um guia rápido sobre a utilização do Moodle, versão 3 e posteriores, destinado a professores e formadores."
+      keywords:
+        - Moodle
+        - Ferramentas do Moodle
+        - Guia de Ferramentas do Moodle
+        - Ferramentas Moodle para professores
+        - Guia de ferramentas do Moodle para educadores
+        - Ferramentas Moodle para formadores
+        - Guia do Moodle
+        - Guia Moodle para educadores
+        - Guia Moodle para formadores
+      date_format: 2 January 2006
 
   zh:
     languageName: 中文
     weight: 10
     title: Moodle Tool Guide
-    slogan: 提供给老师和教育者们的Moodle工具指南
-    description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
-    keywords:
-    - Moodle
-    - Moodle Tools
-    - Moodle Tools Guide
-    - Moodle Tool Guide
-    - Moodle Tool Guide for teachers
-    - Moodle Tools for teachers
-    - Moodle Guide
-    - Moodle Guide for teachers
-    - Moodle Guide for instructors
-    - Moodle Guide for trainers
     contentDir: content/zh
-    date_format: January 2, 2006
     menu:
       main:
         - url: /
@@ -361,25 +356,27 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: 提供给老师和教育者们的Moodle工具指南
+      description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+      keywords:
+        - Moodle
+        - Moodle Tools
+        - Moodle Tools Guide
+        - Moodle Tool Guide
+        - Moodle Tool Guide for teachers
+        - Moodle Tools for teachers
+        - Moodle Guide
+        - Moodle Guide for teachers
+        - Moodle Guide for instructors
+        - Moodle Guide for trainers
+      date_format: January 2, 2006
 
   fi:
     languageName: Suomi
     weight: 12
     title: Moodle-työkaluopas
-    slogan: Moodle-työkaluopas opettajille
-    description: "Moodle-työkaluopas: Nopea koontitaulukko opettajille Moodlen versio 3:n ja myöhemmin tulleiden käytön tueksi."
-    keywords:
-    - Moodle
-    - Moodle-työkalut
-    - Moodle-työkaluopas
-    - Moodle-työkaluopas opettajille
-    - Moodle-työkalut opettajille
-    - Moodle-opas
-    - Moodle-opas opettajille
-    - Moodle-opas ohjaajille
-    - Moodle-opas kouluttajille
     contentDir: content/fi
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -392,26 +389,26 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Moodle-työkaluopas opettajille
+      description: "Moodle-työkaluopas: Nopea koontitaulukko opettajille Moodlen versio 3:n ja myöhemmin tulleiden käytön tueksi."
+      keywords:
+        - Moodle
+        - Moodle-työkalut
+        - Moodle-työkaluopas
+        - Moodle-työkaluopas opettajille
+        - Moodle-työkalut opettajille
+        - Moodle-opas
+        - Moodle-opas opettajille
+        - Moodle-opas ohjaajille
+        - Moodle-opas kouluttajille
+      date_format: 2 January 2006
 
   et:
     languageName: Eesti
     weight: 13
     title: Moodle'i tööriistade juhend
-    slogan: Juhised Moodle kasutamiseks õpetajatele ja koolitajatele
-    description: 'Lühike, kokkuvõttev juhendmaterjal Moodle 3,0 ja hilisematele versioonidele õpetajatele ja koolitajatele.'
-    keywords:
-    - Moodle
-    - Moodle vahendid
-    - Moodle'i tööriistade juhend
-    - Juhised Moodle vahendite kasutamiseks
-    - Juhised õpetajale Moodle vahendite kasutamiseks
-    - Moodle vahendid õpetajatele
-    - Moodle juhendmaterjal
-    - Juhised õpetajale Moodle kasutamiseks
-    - Juhised Moodle kasutamiseks juhendajale
-    - Juhised koolitajale Moodle kasutamiseks
     contentDir: content/et
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -424,29 +421,27 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Juhised Moodle kasutamiseks õpetajatele ja koolitajatele
+      description: 'Lühike, kokkuvõttev juhendmaterjal Moodle 3,0 ja hilisematele versioonidele õpetajatele ja koolitajatele.'
+      keywords:
+        - Moodle
+        - Moodle vahendid
+        - Moodle'i tööriistade juhend
+        - Juhised Moodle vahendite kasutamiseks
+        - Juhised õpetajale Moodle vahendite kasutamiseks
+        - Moodle vahendid õpetajatele
+        - Moodle juhendmaterjal
+        - Juhised õpetajale Moodle kasutamiseks
+        - Juhised Moodle kasutamiseks juhendajale
+        - Juhised koolitajale Moodle kasutamiseks
+      date_format: 2 January 2006
 
   sv:
     languageName: Svenska
     weight: 11
     title: Moodle-verktygsguide
-    slogan: Moodle-verktygsguide för lärare och utbildare
-    description: 'Moodle-verktygsguide: En snabb referensguide för lärare och utbildare för Moodle (version 3 och nyare).'
-    keywords:
-    - Moodle
-    - Moodleverktyg
-    - Moodle-verktygsguide
-    - Moodle-verktygsguide för lärare
-    - Moodle-verktygsguide för instruktörer
-    - Moodle-verktygsguide för skolare
-    - Moodleverktyg för lärare
-    - Moodleverktyg för instruktörer
-    - Moodleverktyg för skolare
-    - Moodleguide
-    - Moodleguide för lärare
-    - Moodleguide för instruktörer
-    - Moodleguide för skolare
     contentDir: content/sv
-    date_format: 2 January 2006
     menu:
       main:
         - url: /
@@ -459,3 +454,21 @@ languages:
         - url: 'https://github.com/martignoni/moodle-tool-guide'
           name: github
           weight: 2
+    params:
+      slogan: Moodle-verktygsguide för lärare och utbildare
+      description: 'Moodle-verktygsguide: En snabb referensguide för lärare och utbildare för Moodle (version 3 och nyare).'
+      keywords:
+        - Moodle
+        - Moodleverktyg
+        - Moodle-verktygsguide
+        - Moodle-verktygsguide för lärare
+        - Moodle-verktygsguide för instruktörer
+        - Moodle-verktygsguide för skolare
+        - Moodleverktyg för lärare
+        - Moodleverktyg för instruktörer
+        - Moodleverktyg för skolare
+        - Moodleguide
+        - Moodleguide för lärare
+        - Moodleguide för instruktörer
+        - Moodleguide för skolare
+      date_format: 2 January 2006
