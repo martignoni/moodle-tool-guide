@@ -273,22 +273,19 @@ languages:
           name: github
           weight: 2
     params:
-      slogan: Moodle Gereedschapsgids voor onderwijzers en trainers
-      description: 'Moodle Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van Moodle versie 3 en nieuwer.'
+      slogan: Irakasle eta hezitzaileentzako Moodleko tresnen gida
+      description: "Moodleko tresnen gida: Moodleko 3 bertsioa edo berriago bat erabiltzeko irakasle eta hezitzaileentzako erreferentziazko dokumentua."
       keywords:
         - Moodle
-        - Moodle Gereedschappen
-        - Moodle Gereedschapsgids
-        - Moodle Gereedschap Gids
-        - Moodle Gereerdschap Gids voor onderwijzers
-        - Moodle Gereedschap voor docenten
-        - Moodle Gids
-        - Moodle Gids voor leraren
-        - Moodle Gids voor docenten
-        - Moodle Gids voor trainers
-        - Moodle Gereedschapsgids voor onderwijzers
-        - Moodle Gereedschapsgids voor leraren
-        - Moodle Gereedschapsgids voor Onderwijzers en Leraren
+        - Moodleko tresnak
+        - Moodleko tresnen gida
+        - Irakasleentzako Moodleko tresnen gida
+        - Hezitzaileentzako Moodleko tresnen gida
+        - Moodleko tresnen irakasleentzako gida
+        - Moodleko tresnen hezitzaileentzako  gida
+        - Moodleko gida
+        - Irakasleentzako Moodleko gida
+        - Hezitzaileentzako Moodleko gida
       date_format: 2006 January 2
 
   pt-br:
