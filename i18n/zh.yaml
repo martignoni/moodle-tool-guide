@@ -44,7 +44,7 @@
 - id: CopyrightLine1
   translation: "本网页 moodletoolguide.net 由[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)开发提供。网页经[知识共享许可协议CC BY-NC-SA 4.0许可](https://creativecommons.org/licenses/by-nc-sa/4.0/)。"
 - id: CopyrightLine2
-  translation: "本网页由[东部理工学院的](https://www.eit.ac.nz/)[Joyce Seitzinger](https://twitter.com/catspyjamasnz)创意，由[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)改编。中文翻译由Klaus Jürgen Brix提供。"
+  translation: "本网页由[东部理工学院的](https://www.eit.ac.nz/)[Joyce Seitzinger](https://www.joyceseitzinger.com/)创意，由[Nicolas Martignoni](https://blog.martignoni.net/a-propos/)改编。中文翻译由Klaus Jürgen Brix提供。"
 - id: CreditsTitle
   translation: "授权与许可"
 - id: EnableDefaultColors

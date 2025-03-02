@@ -44,7 +44,7 @@
 - id: CopyrightLine1
   translation: "Provided by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) – The website __[moodletoolguide.net](https://moodletoolguide.net)__ is licensed under a [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) License."
 - id: CopyrightLine2
-  translation: "An idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz) of [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Adapted by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), based on work by [Gavin Henrick](https://twitter.com/ghenrick)."
+  translation: "An idea of [Joyce Seitzinger](https://www.joyceseitzinger.com/) of [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). Adapted by [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), based on work by [Gavin Henrick](https://www.brickfield.ie/about_us/)."
 - id: CreditsTitle
   translation: "Credits and license"
 - id: EnableDefaultColors

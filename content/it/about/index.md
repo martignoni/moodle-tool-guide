@@ -4,7 +4,7 @@ description: Cosa è la Guida agli strumenti Moodle?
 ---
 La _Guida agli strumenti Moodle_ è un promemoria per gli insegnanti che utilizzano [Moodle][moodle] versione 3 e successive. In una tabella a doppia entrata vengono descritti in dettaglio i principali strumenti di Moodle e il loro uso pedagogico. Sonno riportati anche i [livelli della tassonomia di Bloom][bloom] che possono essere raggiunti quando si utilizzano i diversi strumenti.
 
-Un'idea di [Joyce Seitzinger](https://twitter.com/catspyjamasnz) del'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), aggiornata a maggio 2020 per Moodle 3.x da [Nicolas Martignoni][nm] e tradotta in italiano da [Luca Confortola](https://twitter.com/ConfortolaLuca) con contributi di [Mario Calabrese](https://twitter.com/clbmra).
+Un'idea di [Joyce Seitzinger](https://www.joyceseitzinger.com/) del'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), aggiornata a maggio 2020 per Moodle 3.x da [Nicolas Martignoni][nm] e tradotta in italiano da [Luca Confortola](https://x.com/ConfortolaLuca) con contributi di [Mario Calabrese](https://www.linkedin.com/in/mario-calabrese-6190).
 
 La Guida agli strumenti Moodle è rilasciata sotto licenza [Creative Commons BY-NC-SA 4.0 International][cc].
 

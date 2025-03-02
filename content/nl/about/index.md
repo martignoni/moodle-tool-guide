@@ -5,7 +5,7 @@ description: Wat is het "Moodle Gereedschapsgids"?
 
 _Moodle Gereedschapsgids_ is een referentiekaart voor het gebruik van [Moodle][moodle] versie 3 en later, ontworpen voor leerkrachten, opleiders en trainers. Het geeft informatie over de belangrijkste Moodle-tools en welke tool gebruikt moet worden in overeenstemming met het pedagogische doel dat bereikt moet worden. Het vermeldt ook de taxonomische niveaus van Bloom die bereikt kunnen worden bij het gebruik van de verschillende tools.
 
-Een idee van [Joyce Seitzinger](https://twitter.com/catspyjamasnz) van [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). In mei 2020 aangepast voor Moodle 3.x door [Nicolas Martignoni][nm], vertaald naar het Nederlands door [Kathrien Bernaerts (Toll-Net)](https://twitter.com/kbernaerts) en [Gemma Lesterhuis (Stichting Mnet Benelux)](https://twitter.com/BeneluxMnet).
+Een idee van [Joyce Seitzinger](https://www.joyceseitzinger.com/) van [Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ). In mei 2020 aangepast voor Moodle 3.x door [Nicolas Martignoni][nm], vertaald naar het Nederlands door [Kathrien Bernaerts (Toll-Net)](https://www.linkedin.com/in/katrien-bernaerts-09555b10) en [Gemma Lesterhuis](https://ltnc.nl/gemma-lesterhuis).
 
 Moodle Gereedschapsgids is uitgebracht onder de [Creative Commons BY-NC-SA 4.0 International][cc] licentie.
 

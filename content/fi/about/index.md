@@ -5,7 +5,7 @@ description: Mikä on Moodle -työkaluopas?
 
 *Moodle -työkaluopas* on koontitaulukko [Moodlen](https://moodle.org/) version 3:n ja myöhempien käytön tueksi. Se on suunniteltu opettajille ja kouluttajille. Koontitaulukko sisältää tietoa Moodlen yleisimmistä työkaluista ja mitä työkalua kannattaa käyttää erilaisten pedagogisten tavoitteiden saavuttamiseksi. Se mainitsee myös [Bloomin taksonomian tasot](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), jotka voidaan saavuttaa eri työkaluja käyttämällä.
 
-Perustuu [Joyce Seitzingerin](https://twitter.com/catspyjamasnz) / [Eastern Institute of Technologyn](https://www.eit.ac.nz/) (NZ) ideaan. Soveltanut toukokuussa 2020 Moodle 3.x:lle [Nicolas Martignoni][nm] ja kääntänyt suomeksi [Ville Vierimaa](https://github.com/KV-Ville) ja [Teemu Eskola](https://github.com/XtraTerrestrial84) / [Careeria](https://www.careeria.fi) [Digital Vocational Education for All](https://www.digivet4all.com) -hankkeessa, joka on yhteisrahoitettu Euroopan Unionin Erasmus+ -ohjelmasta.
+Perustuu [Joyce Seitzingerin](https://www.joyceseitzinger.com/) / [Eastern Institute of Technologyn](https://www.eit.ac.nz/) (NZ) ideaan. Soveltanut toukokuussa 2020 Moodle 3.x:lle [Nicolas Martignoni][nm] ja kääntänyt suomeksi [Ville Vierimaa](https://github.com/KV-Ville) ja [Teemu Eskola](https://github.com/XtraTerrestrial84) / [Careeria](https://www.careeria.fi) [Digital Vocational Education for All](https://www.digivet4all.com) -hankkeessa, joka on yhteisrahoitettu Euroopan Unionin Erasmus+ -ohjelmasta.
 
 {{< figure src="/img/erasmus-fi.png" width="450px" alt="erasmus+" >}}
 

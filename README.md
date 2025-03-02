@@ -27,20 +27,20 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 ### The Guide, web version
 
 - Freely provided and maintained by [Nicolas Martignoni][nm] with [Hugo][hugo], a fast and flexible static site generator.
-- Based on a idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz).
-- English version based on work by [Gavin Henrick](https://twitter.com/ghenrick), adapted by [Nicolas Martignoni][nm].
+- Based on a idea of [Joyce Seitzinger](https://www.joyceseitzinger.com/).
+- English version based on work by [Gavin Henrick](https://www.brickfield.ie/about_us/), adapted by [Nicolas Martignoni][nm].
 
 ### The Translations
 
 - French translation by [Nicolas Martignoni][nm], with contributions by Fabien Balli.
-- Italian translation courtesy of [Luca Confortola](https://twitter.com/ConfortolaLuca), with contributions by [Mario Calabrese](https://twitter.com/clbmra).
-- German translation based on work by [Ralf Hilgenstock](https://twitter.com/ralfh), Susanne Gebauer and Gerald Hartwig, adapted by [Nicolas Martignoni][nm].
-- Basque translation courtesy of [Iñigo Zendegi](https://twitter.com/izendegi).
-- Portuguese translation courtesy of [Maria João](https://twitter.com/etutoria).
-- Brazilian Portuguese translation courtesy of [Gilvan Marques](https://twitter.com/gmarques).
+- Italian translation courtesy of [Luca Confortola](https://x.com/ConfortolaLuca), with contributions by [Mario Calabrese](https://www.linkedin.com/in/mario-calabrese-6190).
+- German translation based on work by [Ralf Hilgenstock](https://www.linkedin.com/in/ralfhilgenstock/), Susanne Gebauer and Gerald Hartwig, adapted by [Nicolas Martignoni][nm].
+- Basque translation courtesy of [Iñigo Zendegi](https://www.linkedin.com/in/izendegi/).
+- Portuguese translation courtesy of [Maria João](https://x.com/etutoria).
+- Brazilian Portuguese translation courtesy of [Gilvan Marques](https://www.linkedin.com/in/gmarques/).
 - Spanish translation courtesy of [Ramón Ovelar](https://moodle.org/user/profile.php?id=13611).
 - Chinese translation courtesy of Klaus-Jürgen Brix.
-- Dutch translation courtesy of [Kathrien Bernaerts](https://twitter.com/kbernaerts) (Toll-Net) and [Gemma Lesterhuis](https://twitter.com/BeneluxMnet) (Stichting Mnet Benelux).
+- Dutch translation courtesy of [Kathrien Bernaerts](https://www.linkedin.com/in/katrien-bernaerts-09555b10) (Toll-Net) and [Gemma Lesterhuis](https://ltnc.nl/gemma-lesterhuis).
 - Finnish translation courtesy of [Teemu Eskola](https://github.com/XtraTerrestrial84) and [Ville Vierimaa](https://github.com/KV-Ville) of [Careeria](https://www.careeria.fi) in [Digital Vocational Education for All](https://www.digivet4all.com) project co-funded by the Erasmus+ programme of European Union.
 - Estonian translation courtesy of Anne Krull and Diana Eller of [Tartu KHK](https://khk.ee/) in [Digital Vocational Education for All](https://www.digivet4all.com) project co-funded by the Erasmus+ programme of European Union.
 - Swedish translation courtesy of Alexander Kainberg of [Careeria](https://www.careeria.fi) in [Digital Vocational Education for All](https://www.digivet4all.com) project co-funded by the Erasmus+ programme of European Union.
