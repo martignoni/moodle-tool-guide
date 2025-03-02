@@ -20,11 +20,13 @@ jobs:
           hugo-version: ${{ env.HUGO_RELEASE }}
           extended: true
         env:
-          HUGO_RELEASE: '0.136.0'
+          HUGO_RELEASE: '0.145.0'
+      - name: Check Hugo installation
+        run: hugo env
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '18'
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
@@ -37,7 +39,7 @@ jobs:
       - name: Build website with Hugo
         run: hugo --minify --printI18nWarnings
       - name: Deploy website with rsync
-        uses: burnett01/rsync-deployments@7.0.1
+        uses: burnett01/rsync-deployments@7.0.2
         with:
           switches: -avzr --quiet --delete
           path: public/
