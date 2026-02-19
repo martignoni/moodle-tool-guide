@@ -8,10 +8,10 @@
     "child_process": "^1.0.2",
     "cssnano": "^5.0.0",
     "postcss-cli": "^8.0.0",
-    "purgecss": "^4.0.0"
+    "purgecss": "^8.0.0"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^4.0.0"
+    "@fullhuman/postcss-purgecss": "^8.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
