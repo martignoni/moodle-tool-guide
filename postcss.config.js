@@ -6,7 +6,7 @@ module.exports = {
         './**/*.css'
       ],
     },
-    autoprefixer: {},
+    // autoprefixer: {},
     cssnano: {preset: 'default'}
   }
 };
