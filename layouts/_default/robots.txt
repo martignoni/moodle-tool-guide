@@ -1,5 +1,5 @@
 User-agent: *
-{{ range .Sites }}
+{{ range hugo.Sites }}
   {{- range where site.RegularPages "Params.robotsdisallow" true -}}
     Disallow: {{ .RelPermalink }}
   {{- end -}}
