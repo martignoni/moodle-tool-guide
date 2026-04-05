@@ -1,8 +1,10 @@
 baseURL: 'https://moodletoolguide.net/'
-languageCode: en-us
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage: en
+
+# Site time zone
+timeZone: Europe/Zurich
 
 # Whether to publish the default content language to a subdirectory matching the defaultContentLanguage
 defaultContentLanguageInSubdir: true
@@ -40,7 +42,8 @@ params:
 
 languages:
   en:
-    languageName: English
+    label: English
+    locale: en-us
     weight: 1
     title: Moodle Tool Guide
     contentDir: content/en
@@ -73,7 +76,8 @@ languages:
       date_format: January 2, 2006
 
   fr:
-    languageName: Français
+    label: Français
+    locale: fr-fr
     weight: 2
     title: Guide des outils Moodle
     contentDir: content/fr
@@ -105,7 +109,8 @@ languages:
       date_format: 2 January 2006
 
   it:
-    languageName: Italiano
+    label: Italiano
+    locale: it-it
     weight: 3
     title: Guida agli strumenti Moodle
     contentDir: content/it
@@ -138,7 +143,8 @@ languages:
       date_format: 2 January 2006
 
   de:
-    languageName: Deutsch
+    label: Deutsch
+    locale: de-de
     weight: 4
     title: Moodle-Werkzeuge für Lehrpersonen
     contentDir: content/de
@@ -174,7 +180,8 @@ languages:
       date_format: 2. January 2006
 
   es:
-    languageName: Español
+    label: Español
+    locale: es-es
     weight: 5
     title: Guía de las herramientas de Moodle
     contentDir: content/es
@@ -207,7 +214,8 @@ languages:
       date_format: 2 January 2006
 
   nl:
-    languageName: Nederlands
+    label: Nederlands
+    locale: nl-nl
     weight: 6
     title: Moodle Gereedschapsgids
     contentDir: content/nl
@@ -243,7 +251,8 @@ languages:
       date_format: 2 January 2006
 
   eu:
-    languageName: Euskara
+    label: Euskara
+    locale: eu
     weight: 7
     title: Moodleko Tresnen Gida
     contentDir: content/eu
@@ -279,7 +288,8 @@ languages:
       date_format: 2006 January 2
 
   pt-br:
-    languageName: Português (Brasil)
+    label: Português (Brasil)
+    locale: pt-br
     weight: 8
     title: Guia de Ferramentas Moodle
     contentDir: content/pt-br
@@ -311,7 +321,8 @@ languages:
       date_format: 2 January 2006
 
   pt-pt:
-    languageName: Português
+    label: Português
+    locale: pt-pt
     weight: 9
     title: Guia de Ferramentas do Moodle
     contentDir: content/pt-pt
@@ -343,7 +354,8 @@ languages:
       date_format: 2 January 2006
 
   zh:
-    languageName: 中文
+    label: 中文
+    locale: zh-cn
     weight: 10
     title: Moodle Tool Guide
     contentDir: content/zh
@@ -376,7 +388,8 @@ languages:
       date_format: January 2, 2006
 
   fi:
-    languageName: Suomi
+    label: Suomi
+    locale: fi-fi
     weight: 12
     title: Moodle-työkaluopas
     contentDir: content/fi
@@ -408,7 +421,8 @@ languages:
       date_format: 2 January 2006
 
   et:
-    languageName: Eesti
+    label: Eesti
+    locale: et-ee
     weight: 13
     title: Moodle'i tööriistade juhend
     contentDir: content/et
@@ -441,7 +455,8 @@ languages:
       date_format: 2 January 2006
 
   sv:
-    languageName: Svenska
+    label: Svenska
+    locale: sv-se
     weight: 11
     title: Moodle-verktygsguide
     contentDir: content/sv

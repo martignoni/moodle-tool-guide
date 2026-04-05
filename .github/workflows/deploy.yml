@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
   # Allows to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -24,16 +27,16 @@ jobs:
       - name: Download and setup Hugo
         uses: peaceiris/actions-hugo@v3
         env:
-          HUGO_RELEASE: '0.155.3'
+          HUGO_RELEASE: '0.159.1'
         with:
           hugo-version: ${{ env.HUGO_RELEASE }}
           extended: true
       - name: Check Hugo installation
         run: hugo env
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '18'
+          node-version: '24'
       - name: Cache dependencies
         uses: actions/cache@v4
         with:
@@ -51,6 +54,7 @@ jobs:
             --printI18nWarnings \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Deploy website with rsync
+        if: github.event_name == 'push' && github.ref_name == 'main'
         uses: burnett01/rsync-deployments@v8
         with:
           switches: -avzr --quiet --delete
