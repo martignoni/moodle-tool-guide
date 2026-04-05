@@ -47,28 +47,7 @@
               {{ end }}
             </ul>
           {{ end }}
-          {{ if hugo.IsMultilingual }}
-            <ul class="nav navbar-nav navbar-right">
-              <li id="language-switch" class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe fa-lg" aria-hidden="true"></i><span id="language-name">{{ .Language.LanguageName }}</span></a>
-              <ul class="dropdown-menu">
-              {{ $siteLanguages := site.Languages }}
-              {{ $pageLang := .Page.Lang }}
-              {{ range .Page.AllTranslations }}
-                {{ $translation := .}}
-                {{ range $siteLanguages }}
-                  {{ if eq $translation.Lang .Lang }}
-                    {{ $selected := false }}
-                    {{ if not (eq $pageLang .Lang) }}
-                      <li><a href="{{ $translation.RelPermalink }}">{{ .LanguageName }}</a></li>
-                    {{ end }}
-                  {{ end }}
-                {{ end }}
-              {{ end }}
-              </ul>
-              </li>
-            </ul>
-          {{ end }}
+          {{ partial "langswitcher" . }}
         </div>
       </div>
     </nav>

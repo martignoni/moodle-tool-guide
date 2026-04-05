@@ -24,7 +24,12 @@ var tour = new Tour({
   ]
 });
 
-availableLanguages = [{{ printf "'%s'" (delimit site.Languages "','") }}];
+availableLanguages = [
+{{- range hugo.Sites -}}
+'{{- .Language -}}',
+{{- end -}}
+];
+
 // Check if browser language matches document language and language version exists.
 if (userLanguage !== document.documentElement.lang
       && availableLanguages.includes(userLanguage)) {
